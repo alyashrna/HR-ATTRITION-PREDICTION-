@@ -45,6 +45,7 @@ The attrition drivers are mostly **additive** (overtime + underpaid + stagnant =
 
 ## What drives attrition?
 
+![Attrition by factor](images/attrition_by_factor.png)
 
 | Driver | Effect |
 |---|---|
@@ -53,6 +54,8 @@ The attrition drivers are mostly **additive** (overtime + underpaid + stagnant =
 | **Onsite-only work** | 21%, vs 14% for hybrid |
 | **New joiners (≤1 year)** | 21%, which points to onboarding problems |
 | **Sales department** | Highest attrition, at 23% |
+
+![Feature importance](images/feature_importance.png)
 
 **Feature engineering made the difference.** Raw `monthly_income` is a weak signal, because a Level 1 employee earning RM3,000 might be paid fairly. The engineered feature **`pay_vs_peer_median`** (salary ÷ median of the same department and level) became the strongest predictor.
 
@@ -73,7 +76,7 @@ Net savings = (leavers correctly flagged × 6 months' salary × 30% retention su
 
 The threshold was swept from 0.20 to 0.80, and the one that **maximised net savings** was chosen (right-hand chart above). A lower threshold catches more leavers but wastes money on false alarms. A higher one misses too many. All of these assumptions are constants at the top of `src/train.py`, so you can change them.
 
-##  The app
+## The app
 
 `streamlit run app/app.py`
 
@@ -84,6 +87,7 @@ The threshold was swept from 0.20 to 0.80, and the one that **maximised net savi
 | Employee Assessment | Enter a profile to get a risk gauge, the **main drivers for that person** and **intervention scenarios** (remove overtime, +15% pay, hybrid, promotion) |
 | Model & Methodology | Model comparison, confusion matrix, top predictors and business assumptions |
 
+![Employee assessment](images/app_predictor.png)
 
 ## Project structure
 
@@ -122,7 +126,7 @@ streamlit run app/app.py
 
 The app trains the model automatically the first time it runs, so it can be deployed straight to **Streamlit Community Cloud**.
 
-##  Methods and good practice
+## Methods and good practice
 
 - **Stratified train/test split**, so the 18% leaver ratio is the same in both sets
 - **No data leakage:** peer-median salaries are learned on the training set only and then applied to the test set and the app
@@ -137,7 +141,7 @@ The app trains the model automatically the first time it runs, so it can be depl
 - Gender and marital status were included for analysis but **should be reviewed for fairness** before real use. A production model should be audited for bias across groups.
 - Risk scores come from a class-balanced model, so use them to **rank** employees, not as exact probabilities.
 
-##  Next steps
+## Next steps
 
 - Survival analysis (time-to-exit) instead of a yes/no label
 - SHAP values for the tree models
@@ -145,4 +149,7 @@ The app trains the model automatically the first time it runs, so it can be depl
 - Fairness metrics by gender and age group
 
 ---
+
+**Author:** Aleeya Shareena· [GitHub](https://github.com/alyashrna)
+
 
