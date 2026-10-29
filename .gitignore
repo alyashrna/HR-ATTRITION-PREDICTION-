@@ -1,0 +1,16 @@
+# Generated (rebuild with: python run_pipeline.py)
+data/*.csv
+models/*.joblib
+!data/.gitkeep
+!models/.gitkeep
+
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.streamlit/secrets.toml

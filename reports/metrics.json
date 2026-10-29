@@ -1,0 +1,18 @@
+{
+  "best_model": "Logistic Regression",
+  "test_roc_auc": 0.761,
+  "test_pr_auc": 0.422,
+  "baseline_pr_auc (attrition rate)": 0.18,
+  "chosen_threshold": 0.64,
+  "precision": 0.426,
+  "recall": 0.479,
+  "confusion_matrix": {
+    "TN": 563,
+    "FP": 93,
+    "FN": 75,
+    "TP": 69
+  },
+  "employees_flagged": 162,
+  "est_net_savings_test_set_RM": 234072,
+  "est_net_savings_whole_workforce_RM": 1170360
+}

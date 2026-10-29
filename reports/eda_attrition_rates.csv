@@ -1,0 +1,25 @@
+factor,value,attrition_rate,employees
+overtime,No,12.8,2838
+overtime,Yes,30.9,1162
+pay_band,Below peers (<90%),30.1,1026
+pay_band,In line,16.8,1883
+pay_band,Above peers (>110%),8.9,1091
+job_satisfaction_lbl,1 Low,22.3,777
+job_satisfaction_lbl,2,20.2,784
+job_satisfaction_lbl,3,15.4,1276
+job_satisfaction_lbl,4 High,16.8,1163
+tenure_band,0-1 yr,20.9,1536
+tenure_band,2-3 yrs,16.2,1025
+tenure_band,4-5 yrs,17.3,611
+tenure_band,6-10 yrs,15.5,656
+tenure_band,10+ yrs,15.7,172
+work_mode,Hybrid,13.8,1524
+work_mode,Onsite,21.4,2076
+work_mode,Remote,16.8,400
+department,Customer Service,18.1,757
+department,Finance,15.4,402
+department,Human Resources,11.9,194
+department,IT,17.4,649
+department,Marketing,10.9,293
+department,Operations,17.6,771
+department,Sales,23.4,934

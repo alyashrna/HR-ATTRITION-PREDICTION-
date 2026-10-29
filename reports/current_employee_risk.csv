@@ -1,0 +1,3279 @@
+employee_id,department,job_level,monthly_income,overtime,job_satisfaction,years_since_last_promotion,pay_vs_peer_median,attrition_risk,risk_band
+E01493,Operations,1,2450.0,Yes,1,1,0.801,0.965,High
+E01323,Sales,2,3400.0,Yes,2,2,0.708,0.944,High
+E02944,Sales,3,6650.0,Yes,3,4,0.943,0.944,High
+E01195,Customer Service,4,8870.0,Yes,1,1,0.952,0.94,High
+E02777,Sales,3,6360.0,Yes,3,0,0.901,0.919,High
+E03882,Operations,3,5130.0,Yes,1,0,0.749,0.919,High
+E03852,Sales,2,3240.0,Yes,2,1,0.675,0.91,High
+E00881,Marketing,2,4420.0,Yes,1,0,0.962,0.908,High
+E00558,Sales,3,5380.0,Yes,1,3,0.763,0.908,High
+E02076,Sales,1,2190.0,Yes,3,0,0.687,0.907,High
+E02947,Customer Service,4,6900.0,Yes,1,0,0.74,0.904,High
+E00883,Sales,2,3160.0,Yes,3,0,0.658,0.902,High
+E03894,IT,1,2830.0,Yes,3,0,0.741,0.901,High
+E03172,Sales,3,6480.0,Yes,3,1,0.918,0.899,High
+E00670,Operations,3,6420.0,Yes,3,1,0.937,0.897,High
+E03384,Operations,4,9600.0,Yes,1,0,0.907,0.895,High
+E03656,Customer Service,3,4050.0,Yes,2,1,0.671,0.895,High
+E02842,IT,2,5440.0,Yes,1,4,0.943,0.894,High
+E03518,Sales,4,10790.0,Yes,1,1,1.003,0.889,High
+E03255,Sales,1,3030.0,Yes,1,0,0.95,0.888,High
+E02741,Customer Service,1,2170.0,Yes,3,1,0.789,0.886,High
+E03419,Sales,2,4550.0,Yes,1,3,0.948,0.883,High
+E00232,IT,3,7290.0,Yes,3,0,0.848,0.881,High
+E02893,Sales,2,4070.0,Yes,1,4,0.848,0.88,High
+E02413,Finance,2,4850.0,Yes,2,1,0.913,0.879,High
+E02026,Customer Service,1,2100.0,No,1,2,0.764,0.876,High
+E01591,Customer Service,4,7060.0,Yes,3,5,0.758,0.873,High
+E03975,IT,2,4910.0,Yes,1,2,0.851,0.872,High
+E00736,Operations,2,3730.0,Yes,4,3,0.821,0.87,High
+E02065,IT,3,6070.0,Yes,1,1,0.706,0.87,High
+E02397,Sales,2,3960.0,No,1,1,0.825,0.87,High
+E03108,Operations,4,9430.0,Yes,1,1,0.891,0.868,High
+E00034,Sales,2,4620.0,Yes,4,0,0.962,0.868,High
+E01875,Finance,5,15720.0,Yes,3,2,0.856,0.868,High
+E03716,Sales,3,6830.0,Yes,3,1,0.968,0.864,High
+E03060,Operations,3,7230.0,Yes,3,2,1.055,0.86,High
+E02934,Operations,3,5660.0,Yes,2,2,0.826,0.86,High
+E02316,Operations,2,4220.0,Yes,3,2,0.928,0.859,High
+E03039,Finance,2,5760.0,Yes,1,1,1.085,0.856,High
+E01438,Customer Service,1,1960.0,Yes,3,2,0.713,0.856,High
+E00145,Customer Service,3,5750.0,Yes,1,1,0.953,0.855,High
+E03066,Customer Service,4,8090.0,Yes,2,1,0.868,0.855,High
+E00371,Sales,3,6340.0,Yes,3,1,0.899,0.854,High
+E01931,Finance,1,3360.0,Yes,4,1,0.99,0.854,High
+E02133,Operations,3,6900.0,Yes,2,5,1.007,0.853,High
+E00682,Operations,1,3350.0,Yes,1,0,1.095,0.851,High
+E00795,Sales,2,4860.0,Yes,3,1,1.012,0.85,High
+E02418,Customer Service,1,1950.0,Yes,2,2,0.709,0.849,High
+E00567,Sales,2,4500.0,Yes,4,2,0.938,0.849,High
+E00212,Customer Service,1,1830.0,No,1,0,0.665,0.849,High
+E02241,Operations,1,2460.0,Yes,2,0,0.804,0.849,High
+E01927,Customer Service,4,6970.0,No,3,1,0.748,0.849,High
+E03040,Sales,2,4600.0,Yes,1,1,0.958,0.847,High
+E01217,Finance,3,7050.0,Yes,2,3,0.879,0.847,High
+E01752,Marketing,5,13130.0,No,1,1,0.745,0.847,High
+E01370,Customer Service,5,11710.0,Yes,2,2,0.807,0.847,High
+E03762,Operations,3,6480.0,Yes,1,0,0.946,0.846,High
+E01007,Customer Service,2,3320.0,Yes,1,0,0.804,0.846,High
+E03045,IT,3,6400.0,No,3,1,0.745,0.845,High
+E00971,Sales,2,4710.0,Yes,4,1,0.981,0.842,High
+E01171,Sales,3,5490.0,Yes,4,4,0.778,0.842,High
+E01952,Sales,5,14490.0,Yes,4,0,0.876,0.842,High
+E01846,Customer Service,2,3310.0,Yes,4,6,0.801,0.841,High
+E02008,IT,4,12850.0,Yes,3,0,0.956,0.841,High
+E02120,Customer Service,1,2230.0,Yes,2,0,0.811,0.84,High
+E01027,IT,1,3350.0,Yes,1,0,0.877,0.839,High
+E01741,IT,2,5570.0,Yes,1,0,0.965,0.838,High
+E01194,Customer Service,2,3960.0,Yes,1,1,0.959,0.838,High
+E01883,Sales,1,3190.0,Yes,2,0,1.0,0.837,High
+E03745,Operations,4,7040.0,No,2,1,0.665,0.836,High
+E00888,Sales,3,7550.0,Yes,1,0,1.07,0.835,High
+E03446,Sales,3,6080.0,Yes,4,0,0.862,0.833,High
+E00163,Finance,3,6710.0,Yes,2,1,0.836,0.833,High
+E01777,Marketing,1,3010.0,Yes,3,2,0.928,0.832,High
+E02524,Operations,2,4210.0,Yes,3,0,0.926,0.831,High
+E02861,Sales,3,7050.0,Yes,4,0,0.999,0.831,High
+E00468,Finance,2,5340.0,Yes,1,0,1.006,0.831,High
+E01835,IT,2,3900.0,No,4,0,0.676,0.829,High
+E01489,Finance,2,4360.0,Yes,1,0,0.821,0.828,High
+E03839,IT,3,5990.0,No,1,2,0.697,0.827,High
+E00481,Customer Service,3,4940.0,No,1,1,0.819,0.827,High
+E01746,Operations,2,4090.0,Yes,2,2,0.9,0.826,High
+E01720,Customer Service,2,3690.0,Yes,3,0,0.893,0.826,High
+E02702,IT,3,6320.0,No,1,4,0.735,0.825,High
+E03377,Customer Service,2,2800.0,Yes,4,3,0.678,0.824,High
+E03425,Sales,2,3720.0,No,3,1,0.775,0.82,High
+E00255,Customer Service,4,6620.0,Yes,3,0,0.71,0.82,High
+E03908,Operations,5,16480.0,Yes,3,6,1.033,0.819,High
+E01655,Operations,2,3860.0,Yes,3,1,0.849,0.819,High
+E03122,Sales,2,4500.0,Yes,4,1,0.938,0.819,High
+E00326,Sales,5,12410.0,Yes,1,1,0.75,0.819,High
+E00794,Operations,1,2890.0,Yes,3,0,0.944,0.818,High
+E01355,Sales,4,10110.0,Yes,2,2,0.94,0.817,High
+E02711,Customer Service,3,5130.0,Yes,3,0,0.85,0.817,High
+E03280,Operations,3,6460.0,Yes,2,0,0.943,0.817,High
+E01075,Customer Service,2,3610.0,No,2,1,0.874,0.816,High
+E02393,Customer Service,4,8080.0,Yes,4,0,0.867,0.815,High
+E03698,Sales,1,2770.0,Yes,4,0,0.868,0.815,High
+E01342,Operations,1,2510.0,Yes,4,4,0.82,0.814,High
+E02550,Customer Service,1,2740.0,Yes,4,1,0.996,0.814,High
+E03206,Sales,3,5720.0,No,1,0,0.811,0.813,High
+E02138,Sales,5,14700.0,Yes,4,1,0.888,0.813,High
+E00508,Operations,2,4800.0,Yes,1,0,1.056,0.813,High
+E00192,Operations,5,17300.0,Yes,3,1,1.085,0.812,High
+E02977,Sales,4,9240.0,Yes,4,0,0.859,0.812,High
+E03844,Customer Service,1,2380.0,Yes,1,0,0.865,0.811,High
+E02846,IT,1,2930.0,No,1,0,0.767,0.811,High
+E00931,Customer Service,1,2170.0,Yes,3,0,0.789,0.811,High
+E03273,Finance,4,9630.0,Yes,1,0,0.779,0.811,High
+E02192,Operations,1,3150.0,Yes,1,0,1.029,0.811,High
+E03586,Sales,3,5440.0,No,1,1,0.771,0.809,High
+E02792,Sales,1,2620.0,No,1,0,0.821,0.809,High
+E01391,Finance,3,5930.0,Yes,4,2,0.739,0.808,High
+E02039,Customer Service,1,2190.0,No,1,0,0.796,0.807,High
+E01742,Operations,1,3200.0,Yes,1,0,1.046,0.806,High
+E02257,Sales,2,5660.0,Yes,3,0,1.179,0.806,High
+E03989,Customer Service,1,2720.0,No,2,1,0.989,0.805,High
+E03995,IT,2,4500.0,Yes,1,1,0.78,0.803,High
+E03177,Sales,1,2740.0,Yes,3,2,0.859,0.803,High
+E02784,Sales,5,14830.0,Yes,3,1,0.896,0.803,High
+E03641,Sales,5,16470.0,Yes,1,2,0.995,0.802,High
+E01661,Customer Service,3,5420.0,Yes,1,2,0.898,0.801,High
+E02379,Finance,3,6470.0,Yes,3,3,0.806,0.801,High
+E02331,Sales,4,9840.0,Yes,2,2,0.914,0.8,High
+E01149,Sales,1,3030.0,Yes,1,0,0.95,0.8,High
+E01747,Sales,2,4340.0,Yes,3,2,0.904,0.799,High
+E01965,Sales,4,12510.0,Yes,1,0,1.163,0.799,High
+E00572,Sales,3,5590.0,Yes,3,0,0.792,0.798,High
+E03575,IT,2,4700.0,Yes,3,2,0.815,0.798,High
+E03983,Customer Service,2,3000.0,No,3,1,0.726,0.796,High
+E03524,Customer Service,2,3810.0,Yes,4,1,0.923,0.794,High
+E03498,Sales,3,6380.0,No,2,1,0.904,0.791,High
+E00778,Operations,2,4920.0,Yes,1,0,1.083,0.791,High
+E00430,Operations,3,5650.0,Yes,4,4,0.825,0.79,High
+E03233,Customer Service,2,2940.0,Yes,2,1,0.712,0.79,High
+E00761,Customer Service,3,4530.0,No,2,4,0.751,0.79,High
+E03865,Sales,3,6730.0,Yes,2,1,0.954,0.789,High
+E03957,Sales,5,13560.0,Yes,4,2,0.819,0.789,High
+E02512,Operations,3,5710.0,Yes,3,1,0.834,0.788,High
+E01503,Sales,4,7550.0,No,1,1,0.702,0.787,High
+E01284,Customer Service,4,7990.0,No,1,0,0.857,0.786,High
+E00867,Sales,4,9660.0,Yes,3,1,0.898,0.786,High
+E03840,Finance,2,3620.0,No,2,0,0.682,0.786,High
+E02371,Sales,1,2820.0,No,4,1,0.884,0.784,High
+E03364,Operations,3,6410.0,Yes,2,2,0.936,0.783,High
+E01783,Operations,3,6380.0,Yes,1,0,0.931,0.783,High
+E00175,Sales,2,5020.0,Yes,3,1,1.046,0.782,High
+E03224,Operations,1,2270.0,No,3,0,0.742,0.782,High
+E01823,IT,3,7700.0,Yes,1,1,0.896,0.781,High
+E00792,Sales,1,3190.0,Yes,4,0,1.0,0.781,High
+E00559,Sales,1,2820.0,No,1,0,0.884,0.78,High
+E03332,IT,1,4170.0,Yes,1,0,1.092,0.78,High
+E02234,Sales,1,2820.0,No,3,4,0.884,0.78,High
+E01335,Operations,1,2840.0,Yes,1,1,0.928,0.78,High
+E01052,Operations,2,3820.0,Yes,4,2,0.84,0.778,High
+E00872,Sales,2,3820.0,No,2,1,0.796,0.778,High
+E02979,Sales,3,7590.0,Yes,2,2,1.076,0.778,High
+E02309,Sales,3,7010.0,Yes,2,2,0.994,0.778,High
+E00812,Customer Service,2,2970.0,Yes,4,1,0.719,0.777,High
+E00189,Customer Service,4,8230.0,No,1,1,0.883,0.775,High
+E02780,Customer Service,2,3010.0,No,3,1,0.729,0.775,High
+E01429,Sales,4,9940.0,Yes,1,1,0.924,0.775,High
+E01189,Operations,1,2170.0,Yes,2,2,0.709,0.773,High
+E03461,Sales,4,10490.0,Yes,1,4,0.975,0.773,High
+E00828,Sales,2,4330.0,Yes,3,4,0.902,0.773,High
+E01196,Operations,4,9510.0,Yes,3,1,0.899,0.771,High
+E03339,Sales,3,7080.0,Yes,2,9,1.004,0.77,High
+E03458,Sales,1,3180.0,Yes,4,0,0.997,0.77,High
+E03827,Customer Service,5,10990.0,No,2,0,0.758,0.768,High
+E00800,IT,1,4260.0,Yes,3,0,1.115,0.767,High
+E03987,Sales,2,4840.0,Yes,1,2,1.008,0.767,High
+E02159,Finance,2,4820.0,Yes,4,0,0.908,0.766,High
+E01729,Customer Service,3,5470.0,Yes,4,0,0.906,0.766,High
+E01894,Marketing,3,6510.0,Yes,2,0,0.895,0.763,High
+E02101,IT,2,5050.0,Yes,4,0,0.875,0.763,High
+E02140,Operations,2,3610.0,Yes,3,1,0.794,0.763,High
+E02613,Marketing,3,6120.0,Yes,1,0,0.842,0.763,High
+E00512,IT,3,9120.0,Yes,3,2,1.061,0.763,High
+E01725,Sales,2,3800.0,Yes,2,0,0.792,0.762,High
+E02831,Sales,5,12290.0,No,2,3,0.743,0.762,High
+E03807,Customer Service,5,12870.0,Yes,4,0,0.887,0.761,High
+E01305,IT,4,9710.0,Yes,4,1,0.722,0.76,High
+E02085,Sales,3,5720.0,No,4,1,0.811,0.759,High
+E03034,Sales,2,5150.0,Yes,4,0,1.073,0.759,High
+E00531,Customer Service,3,5560.0,Yes,1,1,0.921,0.758,High
+E03608,Operations,4,10910.0,Yes,1,0,1.031,0.758,High
+E00815,Customer Service,2,3630.0,Yes,1,0,0.879,0.757,High
+E03653,Sales,3,7310.0,Yes,3,2,1.036,0.757,High
+E03090,IT,1,3810.0,Yes,3,0,0.997,0.757,High
+E00500,Sales,3,6970.0,Yes,2,1,0.988,0.756,High
+E00124,Operations,3,5490.0,No,4,0,0.801,0.756,High
+E01169,Operations,1,2950.0,Yes,3,3,0.964,0.754,High
+E02738,Customer Service,2,3010.0,No,4,0,0.729,0.753,High
+E03209,Marketing,1,2110.0,No,1,0,0.65,0.753,High
+E00586,Finance,4,11590.0,Yes,2,1,0.938,0.753,High
+E01294,Human Resources,3,6670.0,Yes,1,2,0.975,0.753,High
+E01346,Operations,2,4330.0,Yes,3,1,0.953,0.753,High
+E02688,Operations,3,5290.0,No,3,0,0.772,0.752,High
+E02775,Operations,3,5580.0,No,3,1,0.815,0.751,High
+E00746,Customer Service,2,3400.0,Yes,1,2,0.823,0.751,High
+E01373,Sales,4,9660.0,No,1,1,0.898,0.75,High
+E01897,IT,4,9370.0,No,3,0,0.697,0.749,High
+E01911,Operations,3,5610.0,Yes,3,4,0.819,0.749,High
+E03912,Sales,2,4630.0,No,2,1,0.965,0.749,High
+E02198,Customer Service,2,3540.0,Yes,3,3,0.857,0.749,High
+E03870,Operations,1,3480.0,Yes,1,0,1.137,0.749,High
+E02329,IT,1,4220.0,Yes,2,0,1.105,0.748,High
+E02978,Marketing,4,9810.0,Yes,3,0,0.894,0.748,High
+E01969,Operations,3,6290.0,Yes,3,1,0.918,0.748,High
+E02034,Human Resources,2,2920.0,No,4,1,0.643,0.748,High
+E00824,Operations,3,6860.0,Yes,1,2,1.001,0.746,High
+E03080,Sales,3,6230.0,No,4,0,0.883,0.746,High
+E03786,IT,1,3360.0,No,1,3,0.88,0.744,High
+E02752,Sales,4,8800.0,No,1,1,0.818,0.744,High
+E00113,Sales,3,6180.0,Yes,4,0,0.876,0.744,High
+E00654,Customer Service,3,5820.0,No,1,1,0.964,0.743,High
+E00635,IT,4,13760.0,Yes,1,1,1.024,0.743,High
+E03579,IT,2,5800.0,No,1,1,1.005,0.743,High
+E02865,Finance,3,7410.0,Yes,3,2,0.923,0.743,High
+E02132,Sales,2,4920.0,Yes,1,0,1.025,0.742,High
+E03179,Sales,3,6540.0,No,1,0,0.927,0.742,High
+E00458,Customer Service,2,3360.0,No,4,0,0.814,0.741,High
+E01202,IT,2,5400.0,Yes,1,0,0.936,0.741,High
+E02098,Finance,3,6540.0,No,2,1,0.815,0.74,High
+E00038,Sales,2,4450.0,Yes,1,5,0.927,0.739,High
+E03361,IT,1,4110.0,Yes,1,0,1.076,0.738,High
+E01210,Human Resources,3,5750.0,Yes,3,3,0.841,0.737,High
+E00580,Sales,2,4160.0,Yes,4,1,0.867,0.737,High
+E00689,Operations,3,5820.0,Yes,1,1,0.85,0.737,High
+E00446,Operations,4,10140.0,Yes,3,1,0.958,0.737,High
+E01986,Sales,3,7800.0,Yes,1,6,1.106,0.736,High
+E03024,Sales,3,6490.0,Yes,2,0,0.92,0.736,High
+E00065,Operations,4,9270.0,Yes,1,2,0.876,0.734,High
+E00894,Customer Service,5,11890.0,No,1,1,0.82,0.733,High
+E01607,Sales,4,10600.0,Yes,2,4,0.985,0.733,High
+E00067,Customer Service,2,2990.0,No,3,2,0.724,0.733,High
+E03392,Finance,1,2620.0,No,4,5,0.772,0.733,High
+E01902,IT,4,11380.0,Yes,4,1,0.847,0.732,High
+E01900,Operations,3,6580.0,Yes,4,1,0.961,0.731,High
+E02143,IT,1,3440.0,No,2,0,0.901,0.731,High
+E00626,Sales,1,3150.0,Yes,4,0,0.987,0.731,High
+E03597,Operations,2,4530.0,Yes,2,1,0.997,0.73,High
+E01968,Sales,1,2740.0,No,2,0,0.859,0.73,High
+E01184,IT,1,3560.0,Yes,4,0,0.932,0.73,High
+E02855,Operations,4,11320.0,Yes,4,5,1.07,0.73,High
+E03948,Operations,1,2460.0,Yes,1,3,0.804,0.73,High
+E03633,Marketing,1,2740.0,No,3,0,0.844,0.729,High
+E03695,Sales,3,6540.0,Yes,3,1,0.927,0.729,High
+E00859,Human Resources,2,4180.0,Yes,4,0,0.921,0.728,High
+E01575,Sales,4,8020.0,No,2,0,0.745,0.728,High
+E03738,Sales,4,8330.0,No,3,0,0.774,0.727,High
+E03125,Customer Service,2,3180.0,No,1,2,0.77,0.727,High
+E03484,Operations,1,2980.0,Yes,3,0,0.974,0.726,High
+E02097,Sales,3,9280.0,Yes,4,1,1.315,0.726,High
+E03513,Sales,3,7490.0,Yes,4,1,1.062,0.725,High
+E01963,Sales,2,3970.0,Yes,4,1,0.827,0.725,High
+E00241,Customer Service,2,3690.0,Yes,3,0,0.893,0.724,High
+E03226,Marketing,2,4520.0,Yes,3,0,0.984,0.724,High
+E02154,Finance,2,4010.0,No,2,2,0.755,0.724,High
+E01003,IT,3,9090.0,Yes,2,0,1.058,0.724,High
+E01511,Customer Service,3,5030.0,No,3,1,0.833,0.723,High
+E01695,Sales,1,3190.0,No,3,0,1.0,0.723,High
+E02653,Sales,1,2870.0,Yes,2,1,0.9,0.723,High
+E02027,Sales,4,8320.0,No,3,1,0.773,0.721,High
+E02347,Finance,5,13420.0,No,2,0,0.731,0.721,High
+E01586,Sales,2,5040.0,Yes,1,0,1.05,0.72,High
+E02951,IT,2,5250.0,No,1,1,0.91,0.719,High
+E02596,Operations,1,2870.0,Yes,1,1,0.938,0.718,High
+E03489,Sales,3,5940.0,No,4,3,0.842,0.718,High
+E00655,Operations,3,5350.0,Yes,1,1,0.781,0.718,High
+E00251,Customer Service,3,6000.0,No,2,1,0.994,0.718,High
+E02519,Sales,4,13280.0,Yes,1,1,1.234,0.718,High
+E01019,Operations,4,7960.0,No,1,1,0.752,0.718,High
+E01480,Finance,3,7130.0,No,4,0,0.888,0.717,High
+E02372,IT,1,3730.0,Yes,3,0,0.976,0.717,High
+E00359,Sales,4,8940.0,Yes,1,1,0.831,0.716,High
+E01055,Finance,1,3350.0,No,1,0,0.987,0.716,High
+E01054,Operations,4,9820.0,Yes,4,1,0.928,0.716,High
+E02286,Customer Service,4,8580.0,No,3,0,0.921,0.716,High
+E03563,Customer Service,3,4830.0,No,2,1,0.8,0.716,High
+E03201,Finance,1,2910.0,No,3,0,0.857,0.715,High
+E00408,Finance,2,3850.0,No,1,1,0.725,0.715,High
+E03381,Finance,2,4800.0,No,1,3,0.904,0.715,High
+E00822,Sales,1,3550.0,Yes,1,0,1.113,0.715,High
+E01433,IT,3,8100.0,No,2,3,0.942,0.714,High
+E01024,Operations,1,2840.0,Yes,4,0,0.928,0.714,High
+E02631,Operations,2,5000.0,Yes,2,5,1.1,0.714,High
+E01328,Sales,4,8160.0,No,1,2,0.758,0.714,High
+E03397,Sales,3,5850.0,No,3,0,0.829,0.714,High
+E02537,IT,1,3080.0,No,3,1,0.806,0.712,High
+E03954,Sales,2,4480.0,Yes,1,2,0.933,0.711,High
+E02602,Customer Service,1,2330.0,Yes,2,3,0.847,0.711,High
+E00826,Finance,3,6760.0,No,1,0,0.842,0.711,High
+E00352,Sales,5,16000.0,Yes,4,3,0.967,0.71,High
+E03228,Sales,2,5140.0,Yes,2,1,1.071,0.71,High
+E00578,Operations,1,3380.0,Yes,1,0,1.105,0.709,High
+E02266,Sales,2,4080.0,No,1,1,0.85,0.709,High
+E03806,Sales,3,6760.0,No,1,1,0.958,0.709,High
+E03456,Finance,2,4400.0,No,1,1,0.829,0.707,High
+E02899,Sales,4,9240.0,Yes,3,1,0.859,0.707,High
+E02845,Operations,4,10600.0,No,4,7,1.002,0.706,High
+E01993,Operations,3,6800.0,Yes,2,2,0.993,0.706,High
+E02361,IT,4,11530.0,Yes,4,1,0.858,0.705,High
+E00186,Sales,1,2850.0,Yes,4,1,0.893,0.705,High
+E00529,Customer Service,2,4540.0,No,1,0,1.099,0.705,High
+E00226,Sales,2,4190.0,No,3,1,0.873,0.703,High
+E00542,IT,3,7430.0,Yes,3,2,0.864,0.702,High
+E00827,Sales,1,3740.0,Yes,3,0,1.172,0.702,High
+E02100,Sales,4,9600.0,Yes,4,1,0.892,0.702,High
+E01598,Operations,2,3880.0,No,2,0,0.854,0.7,High
+E01435,Operations,2,3490.0,No,4,1,0.768,0.7,High
+E01067,IT,3,8910.0,Yes,4,2,1.037,0.7,High
+E01483,Sales,1,3060.0,No,3,1,0.959,0.699,High
+E00917,Finance,4,12680.0,Yes,3,9,1.026,0.699,High
+E01187,Sales,2,3800.0,Yes,2,1,0.792,0.699,High
+E03208,Finance,1,3550.0,Yes,2,6,1.046,0.699,High
+E01917,IT,2,5560.0,Yes,3,0,0.964,0.698,High
+E01552,Operations,1,2640.0,Yes,3,6,0.863,0.697,High
+E02723,IT,2,5140.0,No,1,1,0.891,0.697,High
+E00009,Finance,2,4820.0,Yes,4,1,0.908,0.697,High
+E02559,Human Resources,1,2530.0,Yes,3,1,0.849,0.696,High
+E00873,Sales,3,5480.0,Yes,1,1,0.777,0.695,High
+E02709,Sales,3,6270.0,Yes,4,0,0.889,0.695,High
+E02191,Operations,2,4940.0,Yes,2,3,1.087,0.694,High
+E02109,IT,2,3880.0,No,4,1,0.672,0.694,High
+E03057,Customer Service,2,3710.0,Yes,3,1,0.898,0.694,High
+E00206,Sales,3,7620.0,Yes,4,4,1.08,0.693,High
+E01510,Sales,3,7290.0,Yes,1,2,1.033,0.693,High
+E02881,Sales,2,4430.0,Yes,3,2,0.923,0.693,High
+E03084,Operations,4,10360.0,No,1,1,0.979,0.693,High
+E02405,Operations,3,6190.0,Yes,4,0,0.904,0.693,High
+E02522,IT,2,6040.0,Yes,2,1,1.047,0.692,High
+E03916,Sales,5,16560.0,Yes,4,1,1.001,0.691,High
+E00594,Operations,3,6290.0,Yes,2,3,0.918,0.691,High
+E03565,Finance,3,6640.0,Yes,4,2,0.827,0.691,High
+E03631,Operations,3,7510.0,Yes,2,1,1.096,0.69,High
+E03558,Operations,2,3610.0,No,4,1,0.794,0.689,High
+E02632,Finance,4,10290.0,No,3,0,0.833,0.689,High
+E03743,Sales,2,4160.0,Yes,4,2,0.867,0.689,High
+E03032,IT,1,3460.0,Yes,4,0,0.906,0.688,High
+E03605,Finance,2,4560.0,No,3,0,0.859,0.688,High
+E02818,IT,3,7990.0,Yes,2,2,0.93,0.687,High
+E01639,Sales,2,3830.0,No,3,4,0.798,0.686,High
+E03941,Sales,1,3920.0,Yes,4,0,1.229,0.685,High
+E00765,Customer Service,3,6060.0,No,1,1,1.004,0.685,High
+E02803,IT,1,4140.0,Yes,3,0,1.084,0.683,High
+E03648,Customer Service,4,9490.0,Yes,4,3,1.018,0.682,High
+E02634,Operations,3,6690.0,Yes,3,2,0.977,0.681,High
+E02307,Sales,1,2700.0,No,4,1,0.846,0.681,High
+E00660,Sales,2,4020.0,No,3,2,0.838,0.679,High
+E02753,IT,4,10180.0,Yes,3,3,0.757,0.679,High
+E01215,Human Resources,2,4320.0,Yes,4,1,0.952,0.679,High
+E03750,Customer Service,5,11000.0,No,1,0,0.758,0.679,High
+E03420,Sales,4,10630.0,Yes,2,1,0.988,0.678,High
+E02024,Sales,2,4990.0,No,3,1,1.04,0.678,High
+E01691,Sales,1,3210.0,Yes,3,0,1.006,0.678,High
+E00054,Customer Service,3,5640.0,Yes,4,1,0.935,0.678,High
+E00544,IT,1,2890.0,No,4,0,0.757,0.677,High
+E01242,Sales,4,10320.0,No,4,3,0.959,0.677,High
+E02941,Customer Service,2,3550.0,No,1,1,0.86,0.676,High
+E01794,Sales,3,8510.0,Yes,3,2,1.206,0.676,High
+E03939,Operations,2,4920.0,Yes,1,2,1.083,0.675,High
+E00833,Customer Service,3,4780.0,No,4,0,0.792,0.675,High
+E01371,Finance,5,18370.0,Yes,1,1,1.0,0.675,High
+E03675,Customer Service,2,3530.0,No,2,1,0.855,0.675,High
+E03470,Operations,1,2740.0,Yes,2,0,0.895,0.675,High
+E03317,Sales,2,4020.0,Yes,2,2,0.838,0.675,High
+E02237,Sales,4,11210.0,Yes,4,1,1.042,0.675,High
+E01181,Operations,1,2630.0,No,1,0,0.859,0.674,High
+E00203,Operations,2,5030.0,Yes,4,2,1.107,0.674,High
+E00383,Operations,3,5660.0,Yes,4,4,0.826,0.674,High
+E01876,Finance,1,2970.0,Yes,3,1,0.875,0.674,High
+E02599,Sales,2,4780.0,Yes,1,3,0.996,0.673,High
+E00390,IT,2,5550.0,Yes,4,1,0.962,0.673,High
+E00886,Sales,2,4530.0,No,2,1,0.944,0.673,High
+E03747,IT,2,5090.0,No,4,4,0.882,0.671,High
+E01378,Finance,3,7260.0,Yes,3,4,0.905,0.671,High
+E02603,Operations,1,2920.0,No,2,2,0.954,0.671,High
+E01731,IT,4,12360.0,Yes,3,1,0.92,0.67,High
+E03765,Operations,2,3630.0,No,3,3,0.799,0.67,High
+E02593,Customer Service,3,6160.0,No,1,1,1.021,0.669,High
+E02540,Customer Service,5,11630.0,No,3,1,0.802,0.669,High
+E03920,Operations,5,16410.0,Yes,2,4,1.029,0.668,High
+E00424,IT,2,6040.0,Yes,3,2,1.047,0.667,High
+E01236,Sales,1,2840.0,No,4,0,0.89,0.667,High
+E03940,Sales,1,3200.0,Yes,3,0,1.003,0.667,High
+E00994,Human Resources,1,2540.0,No,3,0,0.852,0.667,High
+E03610,IT,2,5970.0,Yes,4,1,1.035,0.666,High
+E00604,Sales,1,3330.0,No,1,0,1.044,0.666,High
+E01955,Sales,2,5920.0,Yes,1,1,1.233,0.665,High
+E00282,Customer Service,3,5620.0,Yes,2,3,0.931,0.665,High
+E02037,Sales,1,3350.0,Yes,4,1,1.05,0.665,High
+E01175,Finance,3,7590.0,Yes,3,0,0.946,0.664,High
+E01418,Customer Service,2,3510.0,No,2,0,0.85,0.663,High
+E00258,IT,4,12310.0,Yes,3,0,0.916,0.663,High
+E01250,Sales,1,2660.0,No,3,0,0.834,0.662,High
+E03726,IT,1,3500.0,Yes,2,2,0.916,0.661,High
+E01983,Finance,2,5610.0,Yes,2,2,1.056,0.661,High
+E03307,Customer Service,3,6480.0,No,1,2,1.074,0.661,High
+E01893,Operations,2,4540.0,Yes,3,0,0.999,0.661,High
+E00039,Finance,4,10720.0,No,3,0,0.867,0.661,High
+E00090,Sales,1,2640.0,No,4,3,0.828,0.66,High
+E00122,IT,3,7020.0,No,4,1,0.817,0.66,High
+E02364,Human Resources,1,2240.0,No,3,1,0.752,0.659,High
+E03714,IT,4,12280.0,No,2,0,0.914,0.659,High
+E03396,Operations,1,3460.0,Yes,3,0,1.131,0.658,High
+E00180,Sales,3,6010.0,No,2,2,0.852,0.658,High
+E02743,Sales,1,2740.0,No,3,1,0.859,0.658,High
+E00400,Operations,1,2940.0,No,1,0,0.961,0.657,High
+E01535,Sales,2,4100.0,No,3,1,0.854,0.657,High
+E01345,Sales,1,2550.0,No,4,3,0.799,0.657,High
+E01918,Marketing,3,6730.0,Yes,3,0,0.926,0.657,High
+E00196,IT,4,13340.0,Yes,2,2,0.993,0.656,High
+E02381,IT,2,4860.0,Yes,3,0,0.842,0.656,High
+E00945,Sales,1,2810.0,Yes,4,0,0.881,0.656,High
+E03731,Sales,4,11580.0,Yes,1,0,1.076,0.655,High
+E00381,Sales,1,3540.0,Yes,2,3,1.11,0.655,High
+E01487,Human Resources,4,11090.0,Yes,1,0,1.017,0.655,High
+E03326,Sales,2,4450.0,Yes,3,2,0.927,0.654,High
+E03879,Sales,2,4530.0,Yes,3,0,0.944,0.654,High
+E01226,Operations,3,8070.0,Yes,4,3,1.178,0.653,High
+E01616,Sales,3,5240.0,No,3,5,0.743,0.653,High
+E03059,Marketing,3,4250.0,No,1,2,0.585,0.653,High
+E02788,Finance,5,17020.0,Yes,4,0,0.927,0.653,High
+E03998,Sales,3,6100.0,Yes,3,2,0.865,0.652,High
+E02726,IT,1,3300.0,Yes,2,0,0.864,0.652,High
+E00375,Sales,1,2900.0,Yes,1,0,0.909,0.652,High
+E00584,Customer Service,3,6100.0,Yes,3,2,1.011,0.651,High
+E03478,Sales,2,4450.0,Yes,3,4,0.927,0.651,High
+E01211,IT,1,3430.0,No,1,2,0.898,0.651,High
+E00790,Customer Service,1,2990.0,Yes,1,1,1.087,0.651,High
+E01522,Sales,1,3500.0,No,1,0,1.097,0.651,High
+E00027,Operations,2,4460.0,Yes,3,0,0.981,0.651,High
+E00926,Sales,3,6860.0,Yes,1,0,0.972,0.65,High
+E03328,Sales,5,11450.0,No,2,4,0.692,0.65,High
+E01016,Sales,3,6270.0,Yes,3,1,0.889,0.65,High
+E03963,Customer Service,3,5850.0,No,3,0,0.969,0.649,High
+E00162,Marketing,4,9010.0,No,2,2,0.821,0.649,High
+E03452,Sales,2,4700.0,Yes,3,0,0.979,0.648,High
+E03014,Operations,3,5140.0,Yes,3,0,0.75,0.648,High
+E01583,IT,4,11010.0,Yes,4,1,0.819,0.648,High
+E02179,IT,2,5290.0,No,1,0,0.917,0.647,High
+E02344,Customer Service,4,8650.0,No,2,0,0.928,0.647,High
+E00272,Sales,4,9750.0,No,2,3,0.906,0.646,High
+E01658,Operations,1,3150.0,Yes,4,0,1.029,0.646,High
+E03673,Customer Service,1,2550.0,Yes,1,0,0.927,0.645,High
+E02986,Customer Service,2,3540.0,No,4,0,0.857,0.645,High
+E00672,Sales,4,9880.0,No,3,1,0.918,0.645,High
+E01936,Marketing,3,6140.0,No,2,0,0.845,0.645,High
+E02657,Customer Service,2,3760.0,No,3,1,0.91,0.644,High
+E00610,Customer Service,1,2810.0,Yes,4,0,1.022,0.643,High
+E00048,Operations,2,3660.0,No,2,0,0.805,0.643,High
+E01313,Sales,4,9110.0,No,3,2,0.847,0.643,High
+E02925,Operations,1,3370.0,Yes,1,0,1.101,0.642,High
+E00248,IT,1,4000.0,Yes,2,2,1.047,0.642,High
+E01678,Customer Service,5,16070.0,Yes,3,2,1.108,0.642,High
+E03809,Customer Service,1,2460.0,Yes,4,1,0.895,0.642,High
+E01115,IT,2,5640.0,No,3,1,0.977,0.641,High
+E03936,Human Resources,1,3110.0,Yes,3,0,1.044,0.641,High
+E00783,Sales,2,4960.0,Yes,3,0,1.033,0.641,High
+E00117,Finance,1,3110.0,Yes,2,0,0.916,0.641,High
+E01622,Finance,2,6390.0,Yes,4,1,1.203,0.64,Medium
+E00914,Operations,2,4560.0,Yes,1,0,1.003,0.64,Medium
+E03021,Sales,4,9650.0,No,4,0,0.897,0.64,Medium
+E03041,Customer Service,3,5850.0,No,3,4,0.969,0.64,Medium
+E02714,IT,1,4100.0,No,1,0,1.073,0.64,Medium
+E02641,Operations,2,3390.0,No,2,1,0.746,0.64,Medium
+E02233,Customer Service,2,3710.0,No,2,1,0.898,0.64,Medium
+E00624,Customer Service,1,2310.0,No,3,1,0.84,0.64,Medium
+E02870,Sales,1,3250.0,Yes,4,2,1.019,0.64,Medium
+E03509,Human Resources,1,2560.0,No,1,7,0.859,0.639,Medium
+E01640,Sales,3,7080.0,Yes,4,0,1.004,0.638,Medium
+E00630,Sales,1,2490.0,No,2,0,0.781,0.637,Medium
+E00095,Customer Service,1,2220.0,No,3,0,0.807,0.637,Medium
+E01692,Customer Service,2,3980.0,No,1,1,0.964,0.637,Medium
+E02568,Operations,4,8590.0,No,4,5,0.812,0.636,Medium
+E01057,Operations,4,7640.0,No,3,0,0.722,0.636,Medium
+E00501,Operations,2,4230.0,No,1,4,0.931,0.636,Medium
+E00071,IT,3,8170.0,Yes,3,1,0.951,0.636,Medium
+E00404,Operations,2,4000.0,Yes,4,0,0.88,0.635,Medium
+E00466,Customer Service,4,8410.0,Yes,3,0,0.902,0.633,Medium
+E00984,Sales,2,4850.0,No,3,0,1.01,0.633,Medium
+E01144,Customer Service,2,3260.0,No,4,0,0.789,0.633,Medium
+E03767,Operations,3,6940.0,No,3,1,1.013,0.633,Medium
+E00405,Sales,3,7940.0,No,2,1,1.125,0.633,Medium
+E02282,Sales,1,3220.0,No,1,0,1.009,0.632,Medium
+E00598,IT,4,11220.0,Yes,2,4,0.835,0.631,Medium
+E00264,Sales,1,2540.0,No,1,1,0.796,0.631,Medium
+E02678,Human Resources,3,6200.0,Yes,2,0,0.906,0.631,Medium
+E02610,Customer Service,4,8420.0,No,4,4,0.903,0.631,Medium
+E01499,Operations,3,6880.0,Yes,3,0,1.004,0.631,Medium
+E03943,Sales,4,10150.0,Yes,4,2,0.943,0.631,Medium
+E01280,Customer Service,1,2140.0,No,3,1,0.778,0.631,Medium
+E02699,IT,1,3120.0,No,3,3,0.817,0.631,Medium
+E01921,Operations,1,3190.0,Yes,4,0,1.042,0.63,Medium
+E02348,Operations,2,5120.0,Yes,3,0,1.127,0.63,Medium
+E03344,Customer Service,3,6430.0,Yes,4,1,1.065,0.63,Medium
+E03830,Customer Service,1,2540.0,Yes,4,1,0.924,0.63,Medium
+E03952,IT,5,21590.0,Yes,3,0,1.073,0.629,Medium
+E00392,Finance,1,2840.0,Yes,3,1,0.837,0.629,Medium
+E01985,Finance,1,2930.0,No,1,0,0.863,0.628,Medium
+E02370,Finance,2,4860.0,No,2,0,0.915,0.628,Medium
+E01527,Customer Service,1,2330.0,No,3,0,0.847,0.628,Medium
+E00480,Sales,1,3050.0,No,2,0,0.956,0.628,Medium
+E03462,Customer Service,1,3510.0,Yes,1,0,1.276,0.628,Medium
+E01573,IT,1,3380.0,No,2,3,0.885,0.627,Medium
+E00566,Finance,2,4910.0,No,1,0,0.925,0.627,Medium
+E03836,Finance,1,3180.0,Yes,3,0,0.937,0.626,Medium
+E03661,Operations,2,4510.0,No,1,1,0.992,0.626,Medium
+E00929,Finance,2,3670.0,No,3,0,0.691,0.626,Medium
+E01120,Operations,3,5590.0,No,2,2,0.816,0.626,Medium
+E02463,IT,1,3660.0,No,4,0,0.958,0.626,Medium
+E00758,Sales,1,3150.0,No,4,0,0.987,0.626,Medium
+E00568,Operations,3,5520.0,No,1,1,0.806,0.626,Medium
+E03008,Customer Service,5,16320.0,Yes,2,0,1.125,0.626,Medium
+E00304,IT,4,10750.0,Yes,3,3,0.8,0.626,Medium
+E00893,Customer Service,1,2860.0,Yes,4,3,1.04,0.625,Medium
+E03436,IT,1,4170.0,Yes,3,0,1.092,0.625,Medium
+E02927,Operations,2,4200.0,Yes,3,0,0.924,0.625,Medium
+E00455,IT,5,22410.0,Yes,3,0,1.114,0.625,Medium
+E02442,Sales,2,4480.0,No,1,0,0.933,0.625,Medium
+E03722,Operations,5,13650.0,Yes,3,0,0.856,0.624,Medium
+E01828,Human Resources,1,3160.0,Yes,3,0,1.06,0.624,Medium
+E03331,IT,5,18890.0,Yes,2,2,0.939,0.624,Medium
+E01000,Sales,3,6340.0,No,4,0,0.899,0.623,Medium
+E00530,Customer Service,3,4660.0,Yes,4,5,0.772,0.623,Medium
+E01768,Customer Service,2,4010.0,Yes,3,0,0.971,0.623,Medium
+E03074,Customer Service,3,5320.0,No,1,0,0.882,0.622,Medium
+E01299,IT,3,8020.0,Yes,2,3,0.933,0.622,Medium
+E01874,Customer Service,3,4950.0,No,3,1,0.82,0.622,Medium
+E02937,Sales,1,2810.0,No,4,0,0.881,0.622,Medium
+E03956,Customer Service,1,2700.0,No,3,1,0.982,0.622,Medium
+E01013,Sales,1,2700.0,No,2,0,0.846,0.621,Medium
+E03713,IT,3,6120.0,No,3,3,0.712,0.621,Medium
+E01872,IT,2,5170.0,Yes,1,0,0.896,0.62,Medium
+E03842,IT,2,4870.0,No,4,2,0.844,0.62,Medium
+E01246,IT,5,17770.0,Yes,4,1,0.883,0.62,Medium
+E03768,IT,1,3850.0,Yes,4,0,1.008,0.62,Medium
+E03001,Sales,2,3970.0,Yes,3,0,0.827,0.62,Medium
+E01216,IT,2,6140.0,Yes,4,2,1.064,0.62,Medium
+E02762,Sales,1,3510.0,Yes,3,0,1.1,0.619,Medium
+E01151,Customer Service,1,3220.0,No,1,0,1.171,0.619,Medium
+E00671,Operations,3,5920.0,No,1,0,0.864,0.619,Medium
+E02053,Sales,3,7060.0,Yes,4,4,1.001,0.618,Medium
+E02115,Finance,2,4970.0,No,3,0,0.936,0.618,Medium
+E03323,Customer Service,1,2410.0,No,3,0,0.876,0.618,Medium
+E01675,Marketing,1,2590.0,Yes,4,3,0.798,0.618,Medium
+E03195,Customer Service,5,14590.0,Yes,3,2,1.006,0.618,Medium
+E00927,IT,1,3130.0,Yes,3,0,0.819,0.617,Medium
+E02666,Sales,3,5770.0,No,3,0,0.818,0.617,Medium
+E01134,IT,3,8270.0,Yes,1,1,0.962,0.617,Medium
+E02388,IT,3,7540.0,No,4,1,0.877,0.617,Medium
+E03191,IT,1,3720.0,No,2,0,0.974,0.617,Medium
+E03822,IT,2,5160.0,No,1,1,0.894,0.616,Medium
+E02298,Customer Service,2,3790.0,No,3,1,0.918,0.616,Medium
+E00223,Operations,2,4500.0,Yes,1,5,0.99,0.616,Medium
+E01608,Customer Service,2,4710.0,Yes,1,0,1.14,0.615,Medium
+E00943,Human Resources,1,2630.0,Yes,4,0,0.883,0.614,Medium
+E00840,IT,4,12100.0,Yes,3,0,0.9,0.613,Medium
+E03018,Human Resources,2,4200.0,No,1,0,0.925,0.613,Medium
+E03547,Customer Service,2,3330.0,No,2,2,0.806,0.613,Medium
+E02432,Finance,2,5500.0,Yes,2,2,1.036,0.613,Medium
+E02509,Sales,4,11150.0,No,4,3,1.036,0.613,Medium
+E01504,Sales,4,9560.0,No,3,5,0.888,0.613,Medium
+E01306,Sales,2,5210.0,Yes,2,0,1.085,0.613,Medium
+E01390,Operations,4,8990.0,Yes,4,1,0.85,0.612,Medium
+E01402,Sales,2,4260.0,No,3,2,0.888,0.612,Medium
+E01018,Operations,2,4940.0,Yes,3,1,1.087,0.612,Medium
+E00541,Marketing,2,4250.0,Yes,4,1,0.925,0.612,Medium
+E01089,Sales,3,8960.0,Yes,3,1,1.27,0.612,Medium
+E00454,IT,2,4550.0,Yes,3,1,0.789,0.612,Medium
+E01383,Customer Service,3,5000.0,No,3,0,0.829,0.611,Medium
+E03967,Sales,1,3780.0,Yes,2,2,1.185,0.611,Medium
+E00415,Customer Service,3,5010.0,No,4,3,0.83,0.611,Medium
+E01164,Customer Service,2,3690.0,No,2,1,0.893,0.611,Medium
+E00743,IT,3,7420.0,No,1,4,0.863,0.611,Medium
+E03287,IT,2,5680.0,Yes,2,0,0.984,0.61,Medium
+E00634,Customer Service,3,5500.0,No,1,3,0.911,0.61,Medium
+E00199,Marketing,3,5660.0,No,2,1,0.779,0.61,Medium
+E02913,Sales,1,3180.0,No,3,0,0.997,0.61,Medium
+E00021,Sales,2,4810.0,Yes,4,0,1.002,0.61,Medium
+E03016,Customer Service,2,3200.0,No,1,0,0.775,0.609,Medium
+E02212,Marketing,4,9570.0,No,1,0,0.872,0.608,Medium
+E00016,Operations,3,5860.0,Yes,3,1,0.855,0.608,Medium
+E01238,Operations,3,6600.0,Yes,1,2,0.964,0.608,Medium
+E03072,Marketing,5,15630.0,No,3,1,0.887,0.608,Medium
+E03475,Customer Service,2,3380.0,No,4,2,0.818,0.608,Medium
+E03859,Sales,1,3880.0,Yes,2,0,1.216,0.608,Medium
+E00797,Operations,1,2480.0,No,3,3,0.81,0.607,Medium
+E00308,Customer Service,2,3710.0,No,1,4,0.898,0.607,Medium
+E03005,Marketing,3,6840.0,Yes,3,1,0.941,0.607,Medium
+E00420,Sales,1,2310.0,No,3,3,0.724,0.607,Medium
+E02826,Customer Service,1,3020.0,Yes,2,0,1.098,0.606,Medium
+E01004,Operations,1,3820.0,Yes,2,0,1.248,0.606,Medium
+E01696,Sales,1,3670.0,Yes,4,0,1.15,0.605,Medium
+E02496,Sales,5,19370.0,Yes,1,0,1.17,0.605,Medium
+E03556,Customer Service,1,2350.0,No,3,0,0.855,0.605,Medium
+E00069,Human Resources,4,9070.0,No,1,0,0.832,0.604,Medium
+E00076,Finance,2,4830.0,No,2,1,0.91,0.604,Medium
+E03828,Operations,2,4940.0,Yes,4,0,1.087,0.604,Medium
+E01045,Operations,1,3150.0,No,3,1,1.029,0.604,Medium
+E03720,Sales,2,5230.0,Yes,2,0,1.09,0.603,Medium
+E03496,Operations,4,8180.0,No,2,2,0.773,0.603,Medium
+E00168,IT,1,3460.0,No,2,0,0.906,0.603,Medium
+E01559,Customer Service,1,2490.0,No,3,1,0.905,0.603,Medium
+E00475,Operations,4,11260.0,Yes,2,1,1.064,0.602,Medium
+E02755,Sales,1,3660.0,Yes,2,1,1.147,0.602,Medium
+E02403,Operations,4,10510.0,No,3,3,0.993,0.602,Medium
+E02176,Sales,1,4090.0,Yes,2,0,1.282,0.602,Medium
+E01015,Sales,4,9120.0,No,1,2,0.848,0.601,Medium
+E02169,Sales,1,2500.0,No,1,1,0.784,0.601,Medium
+E00576,Sales,2,5040.0,No,2,0,1.05,0.6,Medium
+E03324,Sales,3,6150.0,No,2,1,0.872,0.6,Medium
+E02715,Operations,1,2450.0,No,4,0,0.801,0.6,Medium
+E01471,Sales,3,7740.0,Yes,4,0,1.097,0.6,Medium
+E02389,Marketing,1,2010.0,No,2,1,0.619,0.6,Medium
+E02221,Finance,3,6890.0,No,1,3,0.859,0.599,Medium
+E00452,IT,1,3320.0,Yes,3,2,0.869,0.599,Medium
+E00464,Customer Service,3,6010.0,No,2,0,0.996,0.598,Medium
+E01406,Finance,2,4300.0,No,3,2,0.81,0.598,Medium
+E00313,Operations,4,8690.0,Yes,2,3,0.821,0.598,Medium
+E02614,Sales,4,8180.0,No,3,1,0.76,0.598,Medium
+E03810,Sales,2,5170.0,No,1,0,1.077,0.598,Medium
+E03451,IT,2,5400.0,No,4,0,0.936,0.598,Medium
+E02426,Sales,3,6000.0,No,4,3,0.85,0.598,Medium
+E00510,Customer Service,3,5280.0,No,3,1,0.875,0.597,Medium
+E03530,Customer Service,3,5520.0,No,2,0,0.915,0.597,Medium
+E00345,Sales,1,3370.0,No,2,0,1.056,0.597,Medium
+E03240,IT,1,4090.0,No,3,0,1.071,0.597,Medium
+E01737,Sales,2,4300.0,No,3,0,0.896,0.595,Medium
+E03481,Customer Service,2,3260.0,No,4,3,0.789,0.595,Medium
+E00246,Customer Service,1,2270.0,No,3,0,0.825,0.594,Medium
+E00738,IT,2,6720.0,Yes,1,1,1.165,0.594,Medium
+E02055,IT,4,13770.0,Yes,1,1,1.025,0.594,Medium
+E00652,Sales,2,5260.0,No,1,1,1.096,0.594,Medium
+E03978,IT,4,11940.0,Yes,1,1,0.888,0.593,Medium
+E02854,Customer Service,3,5580.0,Yes,4,1,0.925,0.593,Medium
+E01609,Operations,3,7620.0,Yes,3,2,1.112,0.592,Medium
+E00661,Sales,1,3000.0,No,3,2,0.94,0.592,Medium
+E00780,Sales,1,3660.0,Yes,4,2,1.147,0.592,Medium
+E00681,Sales,3,6110.0,No,3,1,0.866,0.592,Medium
+E01818,Operations,3,6740.0,No,4,0,0.984,0.591,Medium
+E01414,Customer Service,4,7500.0,No,4,0,0.805,0.59,Medium
+E00142,Operations,5,14600.0,Yes,4,0,0.915,0.59,Medium
+E02433,Sales,1,3130.0,Yes,4,2,0.981,0.589,Medium
+E02362,Sales,4,10660.0,No,1,5,0.991,0.589,Medium
+E01564,Finance,4,12000.0,No,2,1,0.971,0.588,Medium
+E02592,Sales,3,7420.0,No,1,10,1.052,0.587,Medium
+E02673,Sales,3,7590.0,Yes,2,3,1.076,0.587,Medium
+E00377,Sales,4,10550.0,No,1,1,0.98,0.586,Medium
+E03492,Sales,3,6680.0,Yes,3,1,0.947,0.586,Medium
+E03619,Customer Service,4,6550.0,No,4,3,0.703,0.586,Medium
+E00648,Customer Service,2,3250.0,No,3,1,0.787,0.585,Medium
+E03794,Operations,2,3540.0,No,2,2,0.779,0.584,Medium
+E02280,Operations,2,3990.0,Yes,3,1,0.878,0.584,Medium
+E01455,Customer Service,2,4770.0,Yes,1,1,1.155,0.584,Medium
+E01203,Customer Service,4,9290.0,Yes,1,0,0.997,0.584,Medium
+E00869,Sales,5,16720.0,Yes,1,0,1.01,0.584,Medium
+E00590,IT,1,4050.0,No,3,0,1.06,0.583,Medium
+E01800,Sales,2,5580.0,Yes,1,0,1.162,0.583,Medium
+E03981,Operations,1,2650.0,No,3,4,0.866,0.583,Medium
+E03736,Finance,4,12120.0,Yes,2,0,0.981,0.583,Medium
+E00010,Operations,4,10660.0,Yes,1,0,1.008,0.583,Medium
+E00662,Customer Service,2,3560.0,No,1,1,0.862,0.583,Medium
+E02035,Customer Service,5,15160.0,Yes,2,0,1.045,0.583,Medium
+E00394,IT,2,5710.0,No,3,0,0.99,0.583,Medium
+E02263,Customer Service,2,4360.0,No,3,1,1.056,0.583,Medium
+E03266,Human Resources,4,10250.0,Yes,2,2,0.94,0.582,Medium
+E03404,Customer Service,2,3570.0,No,1,3,0.864,0.582,Medium
+E02421,Customer Service,2,4340.0,Yes,4,0,1.051,0.581,Medium
+E01040,Sales,5,15000.0,No,1,1,0.906,0.58,Medium
+E00946,Sales,2,4110.0,No,2,0,0.856,0.58,Medium
+E03350,Operations,2,4710.0,Yes,4,1,1.036,0.58,Medium
+E03185,Sales,1,2600.0,No,2,0,0.815,0.58,Medium
+E02250,IT,1,3910.0,Yes,2,1,1.024,0.58,Medium
+E00808,Customer Service,3,5290.0,No,2,7,0.877,0.58,Medium
+E00737,Operations,2,2930.0,No,4,0,0.645,0.579,Medium
+E02290,Sales,2,3350.0,No,3,1,0.698,0.579,Medium
+E03167,Marketing,2,4050.0,No,2,0,0.881,0.579,Medium
+E03463,Operations,1,4030.0,Yes,1,0,1.317,0.579,Medium
+E02231,Customer Service,1,2440.0,No,3,0,0.887,0.578,Medium
+E03991,Marketing,3,5240.0,No,4,0,0.721,0.578,Medium
+E03380,Finance,4,10370.0,No,1,0,0.839,0.577,Medium
+E03413,IT,4,14630.0,Yes,3,0,1.089,0.577,Medium
+E02556,Marketing,3,7760.0,Yes,3,0,1.067,0.577,Medium
+E03046,Sales,3,8550.0,Yes,4,1,1.212,0.577,Medium
+E00777,Operations,3,6850.0,Yes,3,2,1.0,0.577,Medium
+E00907,Sales,1,4150.0,Yes,2,5,1.301,0.576,Medium
+E00936,Sales,4,8670.0,No,4,2,0.806,0.576,Medium
+E03149,Operations,2,4750.0,No,3,1,1.045,0.576,Medium
+E00126,Sales,3,8000.0,Yes,3,1,1.134,0.576,Medium
+E03639,Human Resources,3,6200.0,No,3,1,0.906,0.575,Medium
+E02004,IT,4,12140.0,Yes,3,5,0.903,0.574,Medium
+E01034,Sales,1,3460.0,No,2,0,1.085,0.574,Medium
+E00591,IT,2,5500.0,Yes,3,2,0.953,0.574,Medium
+E00727,Finance,1,2960.0,No,4,1,0.872,0.574,Medium
+E02427,Customer Service,4,9820.0,Yes,4,1,1.054,0.574,Medium
+E01430,Customer Service,1,2280.0,No,2,0,0.829,0.573,Medium
+E03071,Sales,2,5180.0,Yes,3,4,1.079,0.573,Medium
+E03603,IT,1,3610.0,No,1,1,0.945,0.573,Medium
+E02786,IT,1,3590.0,No,4,1,0.94,0.572,Medium
+E03922,Sales,1,3030.0,No,1,0,0.95,0.572,Medium
+E00112,Marketing,5,18740.0,Yes,1,3,1.063,0.571,Medium
+E00247,Sales,1,2960.0,No,2,2,0.928,0.571,Medium
+E03304,Customer Service,4,9260.0,Yes,2,0,0.994,0.571,Medium
+E00171,Operations,1,3020.0,Yes,4,0,0.987,0.571,Medium
+E01064,IT,5,19940.0,Yes,1,0,0.991,0.571,Medium
+E00403,Sales,4,10460.0,Yes,1,1,0.972,0.57,Medium
+E03334,IT,3,7630.0,No,1,4,0.888,0.57,Medium
+E01781,IT,1,2990.0,No,1,0,0.783,0.569,Medium
+E03833,Sales,2,4940.0,No,3,0,1.029,0.569,Medium
+E03891,Customer Service,5,14850.0,Yes,3,1,1.024,0.568,Medium
+E00887,Sales,1,2680.0,No,2,1,0.84,0.568,Medium
+E00915,Sales,3,8870.0,Yes,3,1,1.257,0.568,Medium
+E01995,IT,2,5820.0,No,3,1,1.009,0.568,Medium
+E02618,Operations,4,9370.0,No,3,0,0.886,0.568,Medium
+E02579,Customer Service,1,2620.0,Yes,4,2,0.953,0.568,Medium
+E02126,Sales,4,9850.0,No,3,0,0.915,0.567,Medium
+E00384,Sales,1,3890.0,Yes,1,1,1.219,0.567,Medium
+E02102,IT,4,10550.0,No,3,1,0.785,0.567,Medium
+E01878,Customer Service,2,4580.0,Yes,1,3,1.109,0.566,Medium
+E02165,Sales,3,6070.0,No,3,2,0.86,0.566,Medium
+E03778,Marketing,3,6780.0,No,1,0,0.933,0.565,Medium
+E02238,IT,3,7330.0,No,2,1,0.853,0.565,Medium
+E02468,Sales,3,7850.0,Yes,4,1,1.113,0.565,Medium
+E00735,Sales,1,3240.0,No,4,0,1.016,0.565,Medium
+E02023,IT,1,3220.0,No,1,1,0.843,0.565,Medium
+E02474,Customer Service,2,4360.0,Yes,4,3,1.056,0.564,Medium
+E00779,Marketing,1,2930.0,No,3,2,0.903,0.564,Medium
+E01739,Sales,3,6410.0,No,4,0,0.909,0.564,Medium
+E00951,Operations,3,6450.0,No,4,4,0.942,0.564,Medium
+E00918,Human Resources,3,5940.0,Yes,4,0,0.868,0.563,Medium
+E00281,IT,5,18480.0,No,1,1,0.918,0.563,Medium
+E03202,IT,2,5160.0,No,3,1,0.894,0.563,Medium
+E00960,Sales,1,3050.0,No,4,3,0.956,0.563,Medium
+E00832,Customer Service,3,6560.0,No,1,1,1.087,0.563,Medium
+E03522,Sales,1,3770.0,Yes,1,1,1.182,0.563,Medium
+E02136,IT,3,6290.0,No,4,1,0.732,0.562,Medium
+E02875,Operations,3,6220.0,Yes,3,2,0.908,0.562,Medium
+E01031,Operations,4,11340.0,Yes,3,2,1.072,0.561,Medium
+E00179,IT,3,7070.0,No,3,1,0.823,0.56,Medium
+E03926,Customer Service,5,11530.0,No,1,2,0.795,0.56,Medium
+E02940,Operations,3,5360.0,No,3,2,0.782,0.56,Medium
+E00910,Sales,1,3310.0,No,3,0,1.038,0.559,Medium
+E02795,Sales,3,6040.0,No,1,2,0.856,0.558,Medium
+E03476,IT,2,6240.0,Yes,1,5,1.081,0.557,Medium
+E03652,Customer Service,5,10980.0,No,1,1,0.757,0.557,Medium
+E01533,IT,3,9080.0,Yes,4,0,1.056,0.557,Medium
+E01693,Customer Service,3,5470.0,No,3,1,0.906,0.557,Medium
+E02498,Customer Service,1,2500.0,No,1,0,0.909,0.557,Medium
+E01087,Sales,2,4540.0,No,4,0,0.946,0.557,Medium
+E00100,Sales,1,2650.0,No,4,3,0.831,0.556,Medium
+E03644,Sales,1,3080.0,No,4,5,0.966,0.556,Medium
+E02779,Finance,2,4780.0,No,3,0,0.9,0.555,Medium
+E03521,Human Resources,3,7730.0,Yes,2,2,1.13,0.555,Medium
+E02336,Operations,1,3620.0,Yes,2,0,1.183,0.554,Medium
+E02214,Finance,2,5540.0,No,1,2,1.043,0.554,Medium
+E02128,Finance,2,6370.0,Yes,3,1,1.2,0.553,Medium
+E00193,Sales,5,16140.0,Yes,4,1,0.975,0.553,Medium
+E02360,Sales,5,18220.0,Yes,1,3,1.101,0.553,Medium
+E01817,Customer Service,5,13300.0,Yes,4,0,0.917,0.553,Medium
+E00127,Sales,3,6350.0,No,3,7,0.9,0.553,Medium
+E03303,Sales,2,4680.0,Yes,4,2,0.975,0.552,Medium
+E03322,IT,3,8590.0,No,3,0,0.999,0.552,Medium
+E03555,Finance,3,8150.0,Yes,4,1,1.016,0.552,Medium
+E02806,Operations,1,2200.0,No,1,0,0.719,0.552,Medium
+E00476,IT,3,7190.0,No,2,0,0.837,0.552,Medium
+E01468,Sales,3,7020.0,Yes,4,2,0.995,0.551,Medium
+E03284,Marketing,1,2250.0,No,3,0,0.693,0.551,Medium
+E03107,IT,2,5160.0,No,3,0,0.894,0.551,Medium
+E03657,Operations,3,5930.0,No,3,1,0.866,0.55,Medium
+E01724,Sales,1,2220.0,No,2,2,0.696,0.55,Medium
+E01090,Customer Service,3,5850.0,Yes,4,2,0.969,0.55,Medium
+E00656,Finance,5,15890.0,Yes,1,1,0.865,0.55,Medium
+E02135,Operations,1,3320.0,Yes,4,2,1.085,0.55,Medium
+E01903,Finance,5,14370.0,No,4,2,0.782,0.55,Medium
+E02014,Finance,1,3770.0,Yes,3,0,1.11,0.549,Medium
+E01464,Sales,1,2940.0,No,1,1,0.922,0.549,Medium
+E02449,Finance,4,11080.0,No,2,1,0.896,0.548,Medium
+E01320,Operations,3,6030.0,No,2,1,0.88,0.548,Medium
+E03764,Customer Service,4,8480.0,No,3,3,0.91,0.548,Medium
+E00231,Customer Service,4,10670.0,Yes,4,1,1.145,0.547,Medium
+E03935,IT,2,5170.0,No,4,5,0.896,0.547,Medium
+E00228,IT,3,7950.0,No,4,0,0.925,0.547,Medium
+E01589,Sales,3,5970.0,No,1,0,0.846,0.547,Medium
+E01362,Customer Service,1,3100.0,No,1,0,1.127,0.547,Medium
+E02292,Operations,3,8880.0,Yes,2,6,1.296,0.547,Medium
+E00463,Operations,2,3500.0,No,1,1,0.77,0.547,Medium
+E03666,Operations,2,3830.0,No,2,0,0.843,0.547,Medium
+E01473,Customer Service,3,4920.0,No,3,3,0.815,0.547,Medium
+E01488,IT,2,6390.0,No,2,0,1.107,0.547,Medium
+E01232,Customer Service,2,4390.0,No,2,1,1.063,0.546,Medium
+E00115,Sales,3,5510.0,No,4,1,0.781,0.546,Medium
+E03454,IT,1,3400.0,No,3,2,0.89,0.546,Medium
+E03823,Operations,5,14960.0,Yes,3,0,0.938,0.546,Medium
+E01998,Finance,4,10930.0,No,4,1,0.884,0.545,Medium
+E02326,IT,1,3870.0,No,1,0,1.013,0.545,Medium
+E00091,Sales,4,9740.0,Yes,4,1,0.905,0.545,Medium
+E02770,Finance,4,11880.0,No,3,0,0.961,0.544,Medium
+E00299,IT,1,3690.0,No,3,0,0.966,0.544,Medium
+E01705,Sales,3,8300.0,No,1,8,1.176,0.543,Medium
+E00863,IT,1,4390.0,No,2,1,1.149,0.543,Medium
+E02683,Operations,4,9850.0,No,2,1,0.931,0.543,Medium
+E02131,Operations,4,10270.0,Yes,4,1,0.971,0.543,Medium
+E03802,Finance,3,6210.0,No,3,3,0.774,0.543,Medium
+E02312,Operations,2,5070.0,No,2,1,1.116,0.542,Medium
+E01813,Operations,2,3720.0,No,1,1,0.818,0.542,Medium
+E00380,Marketing,1,2970.0,Yes,3,2,0.915,0.542,Medium
+E02226,Operations,2,5730.0,Yes,3,1,1.261,0.542,Medium
+E02117,Operations,1,2520.0,No,3,0,0.824,0.542,Medium
+E01116,Finance,1,3670.0,No,3,1,1.081,0.542,Medium
+E01650,IT,2,4140.0,No,1,1,0.718,0.542,Medium
+E03243,Sales,2,4160.0,No,3,3,0.867,0.542,Medium
+E01852,IT,3,6120.0,No,3,2,0.712,0.541,Medium
+E03315,Marketing,3,6240.0,No,2,0,0.858,0.541,Medium
+E01602,Operations,2,3840.0,No,4,1,0.845,0.541,Medium
+E03591,Sales,3,6120.0,No,1,5,0.867,0.541,Medium
+E03061,Customer Service,2,2740.0,No,3,1,0.663,0.54,Medium
+E02070,Sales,2,5810.0,Yes,2,1,1.21,0.54,Medium
+E00988,Customer Service,3,5430.0,No,4,1,0.9,0.54,Medium
+E00220,IT,3,8420.0,No,3,3,0.98,0.54,Medium
+E02895,Operations,4,7290.0,No,3,1,0.689,0.54,Medium
+E00143,Operations,3,6120.0,No,2,2,0.893,0.54,Medium
+E00798,Operations,2,4390.0,No,3,0,0.966,0.54,Medium
+E00411,IT,3,7280.0,No,4,0,0.847,0.539,Medium
+E03632,Finance,2,6090.0,Yes,4,1,1.147,0.539,Medium
+E00506,Operations,3,7000.0,Yes,4,1,1.022,0.539,Medium
+E03797,Sales,4,11950.0,Yes,3,2,1.111,0.539,Medium
+E01129,IT,3,7070.0,No,3,2,0.823,0.538,Medium
+E01629,Customer Service,3,5030.0,No,2,0,0.833,0.538,Medium
+E00373,Human Resources,1,2510.0,No,1,1,0.842,0.538,Medium
+E01366,Finance,2,4780.0,No,2,0,0.9,0.537,Medium
+E00899,Operations,2,5210.0,Yes,3,1,1.146,0.537,Medium
+E03811,Operations,3,4940.0,No,4,0,0.721,0.537,Medium
+E01156,Customer Service,3,4700.0,No,1,1,0.779,0.537,Medium
+E02643,Sales,1,3220.0,No,4,1,1.009,0.537,Medium
+E01953,IT,3,6840.0,No,4,1,0.796,0.537,Medium
+E01032,Finance,1,2730.0,No,4,0,0.804,0.537,Medium
+E00734,Sales,2,4920.0,No,1,1,1.025,0.536,Medium
+E02386,Human Resources,1,2710.0,No,1,1,0.909,0.536,Medium
+E02259,Sales,3,6910.0,No,3,1,0.979,0.536,Medium
+E01888,Customer Service,5,14570.0,Yes,1,4,1.004,0.536,Medium
+E03540,Customer Service,2,4380.0,Yes,3,3,1.061,0.536,Medium
+E02338,IT,2,5580.0,Yes,2,4,0.967,0.535,Medium
+E00084,Sales,2,4400.0,Yes,3,1,0.917,0.535,Medium
+E02313,Customer Service,2,3880.0,No,1,1,0.939,0.535,Medium
+E01283,Operations,2,3330.0,No,1,0,0.733,0.534,Medium
+E01982,Operations,5,13860.0,No,2,0,0.869,0.533,Medium
+E02910,Operations,2,3580.0,No,1,1,0.788,0.533,Medium
+E03274,Sales,2,3520.0,No,1,1,0.733,0.533,Medium
+E03787,IT,2,5880.0,No,1,3,1.019,0.533,Medium
+E02467,IT,1,4290.0,Yes,3,0,1.123,0.533,Medium
+E02507,Marketing,3,6970.0,Yes,3,1,0.959,0.533,Medium
+E00422,IT,2,6800.0,No,3,0,1.179,0.533,Medium
+E01577,Customer Service,1,2670.0,No,4,1,0.971,0.532,Medium
+E01566,Finance,5,18410.0,Yes,4,3,1.002,0.532,Medium
+E01837,Marketing,5,14750.0,No,2,1,0.837,0.532,Medium
+E02398,IT,1,3290.0,Yes,4,1,0.861,0.532,Medium
+E01157,Operations,1,2660.0,No,4,0,0.869,0.532,Medium
+E03873,Operations,1,3730.0,No,2,1,1.219,0.532,Medium
+E03010,Human Resources,3,4680.0,No,2,1,0.684,0.531,Medium
+E00696,Operations,3,7090.0,No,2,0,1.035,0.531,Medium
+E03173,Sales,3,7040.0,No,4,0,0.998,0.53,Medium
+E03455,Customer Service,1,2430.0,No,1,3,0.884,0.53,Medium
+E02172,Human Resources,3,6170.0,No,4,0,0.902,0.529,Medium
+E02961,Sales,2,4100.0,No,3,1,0.854,0.529,Medium
+E02823,Customer Service,2,4600.0,No,3,0,1.114,0.529,Medium
+E00166,Operations,1,2800.0,Yes,4,2,0.915,0.529,Medium
+E03857,Sales,1,2860.0,No,1,0,0.897,0.528,Medium
+E01432,Sales,3,8310.0,Yes,2,2,1.178,0.527,Medium
+E03022,Customer Service,4,8540.0,No,3,0,0.916,0.527,Medium
+E00606,Sales,3,5400.0,No,4,1,0.765,0.527,Medium
+E01417,Customer Service,3,6370.0,Yes,1,3,1.056,0.527,Medium
+E00617,Customer Service,1,3140.0,Yes,4,1,1.142,0.527,Medium
+E02390,Human Resources,4,8340.0,No,3,2,0.765,0.527,Medium
+E02551,Operations,2,5620.0,Yes,3,1,1.237,0.527,Medium
+E02740,Operations,5,15130.0,Yes,2,0,0.949,0.527,Medium
+E01988,Sales,1,3820.0,Yes,3,2,1.197,0.526,Medium
+E00895,Sales,3,7020.0,No,1,3,0.995,0.526,Medium
+E01886,Operations,4,9590.0,Yes,4,1,0.906,0.526,Medium
+E00667,IT,3,9240.0,Yes,3,1,1.075,0.526,Medium
+E01097,Sales,1,4120.0,Yes,4,0,1.292,0.526,Medium
+E00128,Customer Service,2,3560.0,No,3,2,0.862,0.525,Medium
+E02536,Finance,4,12220.0,No,3,0,0.989,0.525,Medium
+E01092,Operations,2,3290.0,No,4,1,0.724,0.525,Medium
+E03514,Sales,2,4460.0,Yes,1,1,0.929,0.524,Medium
+E02701,IT,3,8520.0,Yes,3,0,0.991,0.524,Medium
+E01477,Operations,1,2900.0,No,3,0,0.948,0.523,Medium
+E00099,Sales,5,14580.0,No,4,1,0.881,0.522,Medium
+E01145,Sales,1,2830.0,No,4,1,0.887,0.522,Medium
+E03196,Customer Service,1,2780.0,No,3,0,1.011,0.522,Medium
+E03564,Sales,3,6270.0,No,1,3,0.889,0.521,Medium
+E01981,Operations,5,14650.0,Yes,2,1,0.918,0.521,Medium
+E01549,Sales,4,10860.0,No,1,0,1.009,0.521,Medium
+E01420,Operations,1,2860.0,No,4,0,0.935,0.521,Medium
+E02188,IT,1,3530.0,No,2,0,0.924,0.521,Medium
+E02739,Finance,4,10010.0,No,2,1,0.81,0.52,Medium
+E03194,IT,3,9350.0,Yes,4,0,1.088,0.52,Medium
+E02105,IT,2,5840.0,No,1,0,1.012,0.52,Medium
+E00742,Human Resources,1,2870.0,No,2,1,0.963,0.52,Medium
+E01563,IT,3,9290.0,Yes,4,2,1.081,0.519,Medium
+E00923,Operations,4,12690.0,Yes,1,5,1.199,0.519,Medium
+E03438,IT,2,5930.0,Yes,3,0,1.028,0.519,Medium
+E01372,IT,3,7530.0,No,3,3,0.876,0.519,Medium
+E01319,IT,3,8250.0,No,1,1,0.96,0.518,Medium
+E02121,Operations,4,11820.0,Yes,3,1,1.117,0.518,Medium
+E03044,Finance,1,3140.0,No,2,2,0.925,0.518,Medium
+E00546,Customer Service,1,2300.0,No,3,1,0.836,0.518,Medium
+E02424,Operations,1,3360.0,No,1,0,1.098,0.518,Medium
+E00680,Finance,1,3160.0,No,1,1,0.931,0.518,Medium
+E03460,Customer Service,3,5730.0,No,1,1,0.949,0.518,Medium
+E02546,Sales,3,7820.0,Yes,3,1,1.108,0.518,Medium
+E02620,Sales,1,2940.0,No,2,0,0.922,0.518,Medium
+E01782,Sales,1,3690.0,No,3,0,1.157,0.518,Medium
+E00066,Sales,3,5890.0,No,3,1,0.835,0.517,Medium
+E02973,Sales,4,11510.0,No,1,3,1.07,0.517,Medium
+E03321,Operations,3,6410.0,Yes,3,4,0.936,0.517,Medium
+E00216,Customer Service,2,3700.0,No,1,1,0.896,0.517,Medium
+E03717,Operations,3,5620.0,No,1,0,0.82,0.517,Medium
+E01419,Sales,2,5590.0,Yes,3,0,1.165,0.516,Medium
+E02918,Finance,3,8280.0,Yes,3,0,1.032,0.516,Medium
+E02003,Marketing,3,5990.0,No,2,6,0.824,0.516,Medium
+E01976,Operations,1,2460.0,No,3,0,0.804,0.516,Medium
+E00981,Customer Service,3,6080.0,No,2,0,1.007,0.516,Medium
+E01098,Customer Service,3,5880.0,No,3,4,0.974,0.516,Medium
+E02621,Human Resources,1,3130.0,No,1,0,1.05,0.516,Medium
+E01987,Sales,2,4050.0,No,3,1,0.844,0.515,Medium
+E00611,Marketing,3,8910.0,Yes,4,1,1.226,0.515,Medium
+E01379,Human Resources,2,4640.0,Yes,2,0,1.022,0.515,Medium
+E02543,Operations,1,3040.0,No,1,0,0.993,0.514,Medium
+E01771,Customer Service,1,2680.0,No,2,0,0.975,0.514,Medium
+E01042,Sales,2,5760.0,Yes,3,0,1.2,0.514,Medium
+E03371,Operations,2,4140.0,No,3,1,0.911,0.514,Medium
+E03400,Operations,2,4130.0,No,2,2,0.909,0.514,Medium
+E01325,IT,4,10980.0,No,2,7,0.817,0.514,Medium
+E01912,Customer Service,2,3490.0,No,4,1,0.845,0.514,Medium
+E00244,IT,2,4930.0,No,4,0,0.854,0.514,Medium
+E03265,Sales,3,6020.0,No,1,2,0.853,0.514,Medium
+E00336,Sales,4,9290.0,No,2,2,0.863,0.514,Medium
+E02406,Sales,2,4660.0,No,3,6,0.971,0.513,Medium
+E02569,IT,4,14760.0,Yes,1,1,1.098,0.513,Medium
+E03867,Sales,4,10640.0,Yes,3,1,0.989,0.512,Medium
+E00831,IT,3,10000.0,Yes,1,0,1.163,0.512,Medium
+E01686,Operations,3,7240.0,Yes,2,1,1.057,0.512,Medium
+E03473,Operations,3,7650.0,No,2,1,1.117,0.511,Medium
+E03073,Finance,3,8070.0,No,1,0,1.006,0.511,Medium
+E00121,Sales,2,4180.0,No,3,1,0.871,0.511,Medium
+E03503,Human Resources,3,6930.0,No,3,6,1.013,0.51,Medium
+E00471,Sales,1,3090.0,Yes,2,0,0.969,0.51,Medium
+E00509,Sales,1,2880.0,No,4,2,0.903,0.51,Medium
+E00285,IT,3,7130.0,No,1,3,0.83,0.51,Medium
+E01023,Customer Service,3,5680.0,No,4,0,0.941,0.51,Medium
+E03147,Customer Service,2,4260.0,No,3,0,1.031,0.51,Medium
+E00548,Operations,3,6460.0,Yes,3,1,0.943,0.51,Medium
+E01766,Marketing,2,4380.0,No,2,4,0.953,0.51,Medium
+E01127,Finance,3,7990.0,No,1,1,0.996,0.51,Medium
+E02929,Customer Service,3,6160.0,No,4,5,1.021,0.51,Medium
+E03081,Operations,2,5160.0,Yes,4,2,1.135,0.509,Medium
+E02539,IT,1,2970.0,No,2,1,0.777,0.509,Medium
+E02218,Sales,1,3250.0,No,1,2,1.019,0.509,Medium
+E02079,Customer Service,2,2700.0,No,4,2,0.654,0.509,Medium
+E02492,Operations,2,4460.0,Yes,2,0,0.981,0.508,Medium
+E01093,Finance,3,7150.0,No,2,7,0.891,0.508,Medium
+E00488,Operations,2,5650.0,Yes,2,1,1.243,0.507,Medium
+E01569,Operations,4,9720.0,No,4,2,0.919,0.507,Medium
+E02475,Operations,2,4670.0,Yes,4,0,1.028,0.507,Medium
+E02828,IT,5,18940.0,Yes,4,3,0.941,0.507,Medium
+E00183,Finance,3,7910.0,No,3,6,0.986,0.506,Medium
+E01797,Sales,1,2850.0,No,3,1,0.893,0.506,Medium
+E00386,Operations,3,5940.0,Yes,4,2,0.867,0.506,Medium
+E00040,Sales,3,6800.0,Yes,3,0,0.964,0.506,Medium
+E03298,Finance,2,4370.0,No,1,1,0.823,0.506,Medium
+E01840,Finance,5,18610.0,Yes,4,2,1.013,0.506,Medium
+E02943,Sales,2,4260.0,No,3,2,0.888,0.506,Medium
+E00494,Operations,3,8690.0,Yes,3,1,1.269,0.505,Medium
+E01542,Sales,2,4830.0,No,3,0,1.006,0.505,Medium
+E00427,Operations,4,9940.0,No,1,0,0.94,0.505,Medium
+E00925,Operations,2,5170.0,Yes,1,1,1.138,0.505,Medium
+E00882,IT,1,4150.0,Yes,2,1,1.086,0.504,Medium
+E01532,IT,2,5900.0,Yes,3,0,1.023,0.504,Medium
+E02209,Operations,2,3570.0,No,2,2,0.785,0.504,Medium
+E00334,Sales,1,3370.0,No,1,0,1.056,0.503,Medium
+E03863,Customer Service,2,3690.0,No,4,1,0.893,0.503,Medium
+E03019,IT,3,7300.0,No,3,1,0.849,0.503,Medium
+E02264,Sales,2,5060.0,Yes,4,0,1.054,0.503,Medium
+E03200,Operations,4,9490.0,No,2,0,0.897,0.503,Medium
+E03979,Sales,1,3620.0,No,3,0,1.135,0.502,Medium
+E00060,Operations,3,6910.0,No,4,5,1.009,0.502,Medium
+E01555,Operations,1,3100.0,No,3,1,1.013,0.501,Medium
+E00697,Human Resources,1,2560.0,No,2,2,0.859,0.501,Medium
+E02435,IT,1,4510.0,Yes,2,2,1.181,0.501,Medium
+E01012,Sales,2,5950.0,Yes,2,0,1.24,0.501,Medium
+E01091,Customer Service,2,4070.0,Yes,3,0,0.985,0.5,Medium
+E02267,Customer Service,3,8010.0,Yes,2,5,1.327,0.5,Medium
+E03370,IT,3,7440.0,No,2,1,0.866,0.5,Medium
+E01760,Sales,1,4070.0,Yes,3,2,1.276,0.5,Medium
+E00360,IT,3,8830.0,No,3,2,1.027,0.5,Medium
+E03056,Sales,2,3900.0,No,2,0,0.812,0.5,Medium
+E00376,Human Resources,1,2920.0,No,2,0,0.98,0.499,Medium
+E00921,Customer Service,2,3270.0,No,3,0,0.792,0.499,Medium
+E01863,Operations,4,10260.0,No,3,2,0.97,0.499,Medium
+E01820,Customer Service,5,14440.0,No,2,1,0.996,0.499,Medium
+E00164,Sales,1,2340.0,No,4,0,0.734,0.499,Medium
+E01308,Finance,3,8780.0,No,1,1,1.094,0.499,Medium
+E01130,Sales,4,13480.0,Yes,3,2,1.253,0.498,Medium
+E00297,Marketing,3,7170.0,No,1,3,0.986,0.498,Medium
+E03526,IT,2,5190.0,No,3,2,0.899,0.498,Medium
+E00950,IT,5,20120.0,No,2,2,1.0,0.497,Medium
+E03051,Human Resources,5,14260.0,No,3,0,0.765,0.497,Medium
+E03742,IT,3,8250.0,No,4,2,0.96,0.497,Medium
+E01697,Customer Service,1,2820.0,No,3,0,1.025,0.497,Medium
+E00846,Operations,5,14550.0,Yes,4,1,0.912,0.497,Medium
+E00306,Operations,2,5520.0,Yes,4,1,1.215,0.495,Medium
+E03033,Customer Service,4,9070.0,No,2,2,0.973,0.495,Medium
+E01734,Operations,2,3940.0,No,3,1,0.867,0.495,Medium
+E02898,Operations,1,3320.0,No,3,0,1.085,0.495,Medium
+E01881,Sales,1,3050.0,No,4,1,0.956,0.495,Medium
+E01154,Human Resources,2,3450.0,No,2,1,0.76,0.494,Medium
+E03552,Customer Service,4,9300.0,No,2,1,0.998,0.494,Medium
+E03210,Finance,1,3310.0,No,4,0,0.975,0.493,Medium
+E02291,Finance,3,8020.0,No,3,1,0.999,0.493,Medium
+E03325,Customer Service,3,5140.0,No,4,0,0.852,0.493,Medium
+E01259,IT,5,18140.0,Yes,3,0,0.902,0.492,Medium
+E01620,IT,3,7450.0,No,1,2,0.867,0.492,Medium
+E03911,Sales,1,3360.0,No,1,2,1.053,0.492,Medium
+E02248,Finance,1,3240.0,No,4,5,0.954,0.492,Medium
+E03424,Finance,1,3560.0,Yes,4,0,1.049,0.491,Medium
+E01397,Customer Service,3,5390.0,No,1,2,0.893,0.491,Medium
+E03447,Sales,3,6240.0,No,1,1,0.884,0.491,Medium
+E00928,Operations,2,4090.0,Yes,3,1,0.9,0.491,Medium
+E00114,Marketing,4,8870.0,Yes,1,1,0.808,0.491,Medium
+E03441,Customer Service,4,6520.0,No,3,0,0.7,0.491,Medium
+E02971,Finance,4,8680.0,No,4,7,0.702,0.491,Medium
+E02590,Marketing,3,7820.0,Yes,2,3,1.076,0.49,Medium
+E02800,Finance,3,8950.0,No,3,0,1.115,0.49,Medium
+E00261,Sales,1,2810.0,No,3,2,0.881,0.49,Medium
+E03398,Sales,2,3710.0,No,4,1,0.773,0.49,Medium
+E00364,Operations,2,4600.0,Yes,3,1,1.012,0.489,Medium
+E03302,Operations,2,4770.0,No,2,3,1.05,0.489,Medium
+E03906,Operations,1,2730.0,No,3,0,0.892,0.489,Medium
+E00587,Marketing,4,8300.0,No,1,1,0.756,0.488,Medium
+E00201,Finance,4,12660.0,No,4,1,1.024,0.488,Medium
+E01190,Human Resources,3,7870.0,Yes,3,2,1.151,0.488,Medium
+E01991,Sales,3,5800.0,No,3,0,0.822,0.487,Medium
+E01673,Sales,5,13590.0,No,4,1,0.821,0.487,Medium
+E02586,Finance,5,16880.0,No,3,0,0.919,0.487,Medium
+E00659,Customer Service,2,5380.0,Yes,2,0,1.303,0.487,Medium
+E02945,Operations,2,3550.0,No,3,0,0.781,0.487,Medium
+E03347,Human Resources,2,4210.0,No,4,0,0.927,0.487,Medium
+E02619,Marketing,1,3000.0,No,3,2,0.924,0.486,Medium
+E02394,Operations,3,6410.0,No,4,0,0.936,0.486,Medium
+E02428,Customer Service,4,8800.0,No,4,0,0.944,0.486,Medium
+E03756,Operations,1,3350.0,Yes,3,2,1.095,0.486,Medium
+E01636,Sales,1,3380.0,No,2,0,1.06,0.485,Medium
+E00368,Finance,2,5660.0,Yes,3,1,1.066,0.485,Medium
+E03531,Sales,3,6350.0,No,4,4,0.9,0.485,Medium
+E03416,Sales,5,17260.0,Yes,3,4,1.043,0.485,Medium
+E02908,Finance,3,6430.0,No,3,1,0.801,0.485,Medium
+E00891,Sales,2,4260.0,No,4,0,0.888,0.485,Medium
+E01833,Operations,2,4130.0,No,1,0,0.909,0.485,Medium
+E03571,Marketing,2,4690.0,No,1,1,1.021,0.485,Medium
+E03368,IT,1,3620.0,No,4,0,0.948,0.484,Medium
+E03707,Sales,3,6330.0,No,4,1,0.897,0.483,Medium
+E01662,Customer Service,1,2900.0,No,3,0,1.055,0.483,Medium
+E02069,Operations,1,2400.0,No,3,0,0.784,0.483,Medium
+E03153,Customer Service,4,9630.0,No,1,7,1.033,0.483,Medium
+E03466,Sales,3,9710.0,Yes,4,1,1.376,0.483,Medium
+E03366,Sales,4,11160.0,No,1,1,1.037,0.482,Medium
+E01062,Customer Service,2,4410.0,No,3,1,1.068,0.482,Medium
+E00322,Sales,2,4760.0,No,3,1,0.992,0.482,Medium
+E00717,Customer Service,1,2610.0,No,4,1,0.949,0.482,Medium
+E00961,Operations,2,4480.0,No,1,0,0.986,0.481,Medium
+E01028,Customer Service,3,5070.0,No,3,7,0.84,0.481,Medium
+E01537,Operations,1,2900.0,No,3,0,0.948,0.481,Medium
+E00047,Sales,1,2730.0,No,1,2,0.856,0.481,Medium
+E01452,Sales,2,4500.0,No,2,0,0.938,0.481,Medium
+E02108,Human Resources,4,11160.0,Yes,1,1,1.023,0.48,Medium
+E00097,Sales,2,4830.0,No,4,3,1.006,0.48,Medium
+E02566,Sales,3,9110.0,Yes,4,3,1.291,0.48,Medium
+E01394,IT,2,5230.0,No,3,0,0.906,0.48,Medium
+E00722,Finance,2,6020.0,Yes,3,2,1.134,0.48,Medium
+E03660,Marketing,5,12120.0,No,2,3,0.688,0.479,Medium
+E03696,Operations,2,5340.0,Yes,4,0,1.175,0.478,Medium
+E03237,Human Resources,2,3720.0,No,3,1,0.819,0.478,Medium
+E02736,Operations,4,8910.0,No,3,8,0.842,0.478,Medium
+E01251,Marketing,4,8240.0,No,3,0,0.751,0.478,Medium
+E02805,Sales,2,4300.0,No,3,2,0.896,0.478,Medium
+E00543,IT,3,7120.0,No,1,2,0.828,0.477,Medium
+E03367,Sales,1,2780.0,No,3,0,0.871,0.477,Medium
+E02548,Sales,4,9480.0,Yes,4,1,0.881,0.477,Medium
+E00858,Human Resources,1,2460.0,No,1,0,0.826,0.477,Medium
+E00768,Customer Service,4,9020.0,No,2,1,0.968,0.477,Medium
+E01923,Customer Service,4,8190.0,No,1,1,0.879,0.476,Medium
+E02638,Human Resources,1,2470.0,No,3,1,0.829,0.476,Medium
+E00172,IT,4,11010.0,No,1,0,0.819,0.476,Medium
+E01165,Sales,4,11660.0,No,3,2,1.084,0.476,Medium
+E03574,Human Resources,1,2420.0,No,4,0,0.812,0.476,Medium
+E02574,IT,1,4570.0,Yes,2,0,1.196,0.476,Medium
+E02005,Operations,3,7450.0,No,3,1,1.088,0.476,Medium
+E00353,Sales,3,6480.0,No,3,1,0.918,0.475,Medium
+E01288,Operations,4,9410.0,No,3,0,0.889,0.475,Medium
+E03890,Customer Service,1,2590.0,No,1,0,0.942,0.475,Medium
+E00977,Customer Service,3,6120.0,Yes,4,1,1.014,0.474,Medium
+E03715,Sales,1,2920.0,No,2,0,0.915,0.474,Medium
+E02057,Customer Service,3,6330.0,Yes,3,3,1.049,0.474,Medium
+E02048,Customer Service,3,7230.0,No,1,3,1.198,0.474,Medium
+E02051,Finance,2,5270.0,No,2,1,0.992,0.474,Medium
+E01512,Finance,4,9850.0,No,3,0,0.797,0.474,Medium
+E02667,Operations,1,2650.0,No,3,0,0.866,0.474,Medium
+E02650,Sales,4,10730.0,No,1,0,0.997,0.474,Medium
+E02879,Customer Service,2,3240.0,No,2,0,0.785,0.473,Medium
+E00078,Marketing,1,3180.0,No,3,0,0.98,0.473,Medium
+E01357,Sales,4,12260.0,No,2,3,1.139,0.473,Medium
+E03082,Operations,5,14030.0,No,4,1,0.88,0.473,Medium
+E00311,Operations,2,4150.0,No,3,0,0.913,0.473,Medium
+E02007,IT,3,7200.0,No,1,6,0.838,0.472,Medium
+E01944,Operations,2,4360.0,No,3,0,0.959,0.471,Medium
+E01261,IT,3,6290.0,No,3,0,0.732,0.47,Medium
+E00473,Finance,4,11620.0,No,4,6,0.94,0.47,Medium
+E01634,IT,4,14200.0,Yes,2,4,1.057,0.47,Medium
+E00335,Marketing,2,4980.0,Yes,4,0,1.084,0.47,Medium
+E01447,Sales,2,5430.0,No,2,0,1.131,0.469,Medium
+E03677,Operations,2,4470.0,No,4,2,0.983,0.469,Medium
+E00055,Customer Service,3,5690.0,No,4,1,0.943,0.468,Medium
+E02733,IT,2,6200.0,No,1,1,1.075,0.468,Medium
+E03290,IT,2,5340.0,No,2,0,0.925,0.468,Medium
+E00581,Human Resources,3,5820.0,No,2,0,0.851,0.468,Medium
+E01940,IT,4,10990.0,No,3,2,0.818,0.468,Medium
+E03220,IT,3,8090.0,No,4,0,0.941,0.468,Medium
+E01621,IT,1,2870.0,No,3,0,0.751,0.467,Medium
+E00209,Finance,3,7870.0,Yes,3,1,0.981,0.467,Medium
+E03487,Operations,5,15670.0,Yes,4,4,0.982,0.467,Medium
+E00763,Customer Service,1,2860.0,No,2,0,1.04,0.467,Medium
+E01392,Sales,1,4010.0,Yes,4,0,1.257,0.467,Medium
+E03982,Marketing,2,3390.0,No,3,0,0.738,0.466,Medium
+E00802,Sales,3,6560.0,No,4,0,0.93,0.466,Medium
+E02208,Operations,4,10210.0,Yes,3,2,0.965,0.465,Medium
+E03683,Marketing,2,3820.0,No,2,2,0.831,0.465,Medium
+E02357,Sales,3,8910.0,Yes,3,0,1.263,0.465,Medium
+E02804,Sales,1,3470.0,No,3,1,1.088,0.465,Medium
+E00491,Customer Service,1,2510.0,No,1,0,0.913,0.464,Medium
+E00999,Human Resources,2,4890.0,Yes,2,3,1.077,0.464,Medium
+E01400,Sales,4,9630.0,No,3,1,0.895,0.464,Medium
+E03655,Sales,1,3780.0,No,2,5,1.185,0.464,Medium
+E00268,Customer Service,3,6880.0,No,2,0,1.14,0.464,Medium
+E00253,Sales,1,2480.0,No,3,0,0.777,0.464,Medium
+E02168,IT,3,6680.0,No,3,1,0.777,0.463,Medium
+E00388,IT,2,4730.0,No,3,3,0.82,0.463,Medium
+E00063,IT,3,9570.0,Yes,3,1,1.113,0.463,Medium
+E00740,Sales,1,3600.0,Yes,1,4,1.129,0.462,Medium
+E01653,Sales,4,9870.0,No,3,0,0.917,0.462,Medium
+E02374,IT,3,8020.0,No,1,3,0.933,0.461,Medium
+E02785,IT,4,12190.0,No,4,0,0.907,0.461,Medium
+E00979,Customer Service,3,5890.0,No,1,0,0.976,0.461,Medium
+E01460,IT,2,5280.0,No,4,1,0.915,0.461,Medium
+E00811,Marketing,2,4720.0,Yes,4,0,1.027,0.46,Medium
+E01423,Finance,1,3180.0,No,3,0,0.937,0.46,Medium
+E03623,Customer Service,3,5890.0,No,2,1,0.976,0.46,Medium
+E03737,IT,1,3560.0,No,1,1,0.932,0.46,Medium
+E02328,Sales,1,3880.0,No,1,1,1.216,0.46,Medium
+E01543,Sales,2,4830.0,No,2,1,1.006,0.459,Medium
+E02911,IT,3,10940.0,Yes,4,1,1.273,0.459,Medium
+E02946,Customer Service,1,2690.0,No,1,0,0.978,0.459,Medium
+E03411,Sales,5,19960.0,Yes,1,1,1.206,0.458,Medium
+E02759,Finance,3,8500.0,Yes,4,2,1.059,0.458,Medium
+E00903,Human Resources,2,4020.0,No,3,0,0.885,0.458,Medium
+E02570,Customer Service,5,16160.0,No,1,1,1.114,0.458,Medium
+E01458,Operations,1,2860.0,No,3,0,0.935,0.458,Medium
+E01451,Operations,3,5740.0,No,2,1,0.838,0.458,Medium
+E01910,IT,2,4880.0,No,3,2,0.846,0.458,Medium
+E02197,IT,4,14440.0,No,3,0,1.074,0.458,Medium
+E02914,Customer Service,1,2860.0,No,3,0,1.04,0.458,Medium
+E01350,IT,4,15080.0,Yes,2,2,1.122,0.458,Medium
+E00073,Finance,1,3030.0,No,3,0,0.892,0.457,Medium
+E00148,Operations,1,2500.0,No,4,1,0.817,0.457,Medium
+E00709,Sales,2,5710.0,No,2,3,1.19,0.457,Medium
+E00653,IT,2,6210.0,No,1,1,1.076,0.456,Medium
+E00620,IT,3,6470.0,No,3,1,0.753,0.456,Medium
+E02561,IT,3,9410.0,Yes,4,1,1.095,0.456,Medium
+E00320,IT,2,7280.0,Yes,3,2,1.262,0.456,Medium
+E03964,Marketing,1,3620.0,Yes,1,0,1.116,0.454,Medium
+E00125,IT,3,9280.0,No,1,1,1.08,0.454,Medium
+E00129,Sales,1,4400.0,Yes,2,2,1.379,0.454,Medium
+E02969,Finance,5,14900.0,No,4,3,0.811,0.454,Medium
+E01026,Customer Service,1,2410.0,No,2,0,0.876,0.454,Medium
+E01744,Marketing,2,4510.0,Yes,3,1,0.982,0.454,Medium
+E03793,Sales,1,3200.0,Yes,2,2,1.003,0.453,Medium
+E03799,Customer Service,1,2840.0,No,3,3,1.033,0.453,Medium
+E01907,Operations,3,7370.0,No,4,1,1.076,0.453,Medium
+E01314,IT,2,5350.0,No,4,1,0.927,0.452,Medium
+E01617,Finance,4,12040.0,No,4,1,0.974,0.452,Medium
+E01984,Customer Service,2,3860.0,No,2,0,0.935,0.452,Medium
+E00257,Sales,2,4120.0,No,4,0,0.858,0.452,Medium
+E00677,Sales,1,3300.0,No,2,0,1.034,0.452,Medium
+E02905,Customer Service,2,4100.0,No,4,0,0.993,0.452,Medium
+E01382,Sales,1,3960.0,No,3,1,1.241,0.452,Medium
+E01498,Customer Service,1,2180.0,No,2,6,0.793,0.452,Medium
+E03872,Operations,1,2810.0,No,2,1,0.918,0.451,Medium
+E00370,Sales,3,8020.0,Yes,3,11,1.137,0.451,Medium
+E03231,Sales,1,3640.0,Yes,4,4,1.141,0.451,Medium
+E00732,Operations,3,6120.0,No,3,2,0.893,0.45,Medium
+E02066,Operations,3,6820.0,No,3,0,0.996,0.45,Medium
+E03584,Human Resources,3,6170.0,No,3,3,0.902,0.45,Medium
+E02340,Operations,4,11120.0,Yes,3,4,1.051,0.449,Medium
+E02185,Marketing,3,6630.0,No,4,0,0.912,0.449,Medium
+E00963,Sales,4,8810.0,No,1,0,0.819,0.449,Medium
+E03984,Sales,2,4740.0,Yes,4,2,0.988,0.448,Medium
+E02089,IT,3,8130.0,No,3,1,0.946,0.448,Medium
+E02744,Operations,2,4190.0,No,1,1,0.922,0.448,Medium
+E00361,Customer Service,2,4390.0,Yes,4,0,1.063,0.448,Medium
+E00845,Customer Service,3,7350.0,Yes,3,1,1.218,0.447,Medium
+E01001,Finance,3,7270.0,No,3,0,0.906,0.447,Medium
+E00694,Sales,1,2730.0,No,4,1,0.856,0.446,Medium
+E02639,Customer Service,1,2780.0,No,3,0,1.011,0.446,Medium
+E01906,Sales,1,3140.0,No,1,1,0.984,0.446,Medium
+E03770,Sales,4,11270.0,No,3,0,1.047,0.446,Medium
+E03184,Sales,3,7030.0,No,3,0,0.996,0.446,Medium
+E01336,IT,3,9360.0,Yes,3,0,1.089,0.445,Medium
+E03099,Sales,1,3740.0,No,4,0,1.172,0.445,Medium
+E02009,Customer Service,3,5910.0,No,4,2,0.979,0.445,Medium
+E00482,Customer Service,2,4150.0,No,3,5,1.005,0.445,Medium
+E01656,Customer Service,3,5190.0,No,2,5,0.86,0.444,Medium
+E02483,Sales,1,2950.0,No,3,2,0.925,0.443,Medium
+E00098,Customer Service,2,3450.0,No,1,0,0.835,0.443,Medium
+E03817,Customer Service,3,7510.0,Yes,2,2,1.244,0.442,Medium
+E03933,Sales,5,13890.0,No,2,0,0.839,0.442,Medium
+E03166,Customer Service,1,2660.0,No,3,0,0.967,0.442,Medium
+E03670,IT,1,3670.0,No,1,2,0.961,0.442,Medium
+E00639,Operations,1,3050.0,Yes,2,4,0.997,0.442,Medium
+E03116,Customer Service,4,9370.0,No,3,0,1.005,0.442,Medium
+E01111,Sales,2,4910.0,No,4,1,1.023,0.442,Medium
+E00889,IT,3,6990.0,No,3,1,0.813,0.442,Medium
+E01596,Finance,2,5800.0,No,4,0,1.092,0.442,Medium
+E00789,Sales,1,3450.0,No,1,0,1.082,0.441,Medium
+E03162,Sales,4,8570.0,No,4,5,0.796,0.441,Medium
+E01061,IT,1,3580.0,No,4,1,0.937,0.441,Medium
+E03358,IT,1,3670.0,No,1,0,0.961,0.441,Medium
+E03966,IT,3,8840.0,No,1,1,1.029,0.441,Medium
+E03003,IT,3,8060.0,No,4,1,0.938,0.441,Medium
+E02366,Operations,2,4810.0,Yes,4,1,1.058,0.441,Medium
+E02485,Marketing,1,2970.0,No,2,0,0.915,0.441,Medium
+E01470,Operations,5,15210.0,Yes,4,4,0.954,0.441,Medium
+E03077,Customer Service,1,2600.0,Yes,4,0,0.945,0.44,Medium
+E02955,IT,3,8840.0,No,3,3,1.029,0.44,Medium
+E00033,Sales,3,7120.0,No,4,2,1.009,0.44,Medium
+E01842,IT,3,6840.0,No,1,1,0.796,0.44,Medium
+E00256,Operations,2,4490.0,No,1,0,0.988,0.44,Medium
+E03453,Customer Service,1,2370.0,No,3,1,0.862,0.44,Medium
+E03128,Operations,5,17230.0,No,1,0,1.08,0.439,Medium
+E01227,Marketing,1,3150.0,No,2,0,0.971,0.439,Medium
+E01043,Sales,1,3020.0,No,3,0,0.947,0.439,Medium
+E03950,Customer Service,2,3630.0,No,3,4,0.879,0.439,Medium
+E02787,Customer Service,4,9950.0,Yes,3,1,1.068,0.438,Medium
+E00004,Sales,1,3360.0,No,3,0,1.053,0.438,Medium
+E02756,Customer Service,5,10400.0,No,4,0,0.717,0.438,Medium
+E03853,Operations,3,7540.0,Yes,3,1,1.101,0.438,Medium
+E00879,Customer Service,1,2590.0,No,3,0,0.942,0.438,Medium
+E03937,Sales,3,7640.0,No,3,0,1.083,0.437,Medium
+E02776,IT,5,21050.0,Yes,4,0,1.046,0.437,Medium
+E03305,Operations,2,4550.0,No,1,1,1.001,0.437,Medium
+E03362,Marketing,4,7780.0,No,1,2,0.709,0.436,Medium
+E00051,Customer Service,2,3050.0,No,3,1,0.738,0.436,Medium
+E03407,Sales,2,5330.0,Yes,4,1,1.11,0.435,Medium
+E00997,Finance,2,5440.0,No,2,2,1.024,0.435,Medium
+E03727,Sales,1,2930.0,No,4,2,0.918,0.435,Medium
+E00478,Operations,1,3580.0,No,1,0,1.17,0.435,Medium
+E01073,Operations,1,2720.0,No,4,0,0.889,0.435,Medium
+E02047,Sales,3,5680.0,No,2,2,0.805,0.435,Medium
+E02807,Human Resources,3,5740.0,No,2,1,0.839,0.435,Medium
+E03277,Sales,1,3490.0,No,2,1,1.094,0.435,Medium
+E03763,Customer Service,2,4420.0,No,3,0,1.07,0.434,Medium
+E02962,Customer Service,3,6450.0,No,3,0,1.069,0.434,Medium
+E02772,Operations,1,2630.0,No,1,2,0.859,0.434,Medium
+E01733,Finance,4,12290.0,Yes,4,1,0.994,0.434,Medium
+E02768,Marketing,3,5790.0,No,4,0,0.796,0.434,Medium
+E01540,Sales,3,6170.0,No,3,1,0.875,0.433,Medium
+E01585,Customer Service,4,8760.0,Yes,4,1,0.94,0.433,Medium
+E00402,Marketing,1,3330.0,Yes,3,0,1.026,0.433,Medium
+E03662,Sales,1,3000.0,No,4,2,0.94,0.433,Medium
+E02190,Finance,3,8090.0,No,2,0,1.008,0.433,Medium
+E00838,IT,1,4210.0,Yes,2,0,1.102,0.432,Medium
+E00412,IT,2,5310.0,No,3,0,0.92,0.432,Medium
+E03491,Customer Service,2,5100.0,No,3,1,1.235,0.432,Medium
+E00292,Sales,3,7700.0,No,1,4,1.091,0.432,Medium
+E02939,IT,2,6680.0,No,2,1,1.158,0.432,Medium
+E00502,Finance,1,3150.0,No,4,1,0.928,0.432,Medium
+E00369,Finance,1,3530.0,No,3,0,1.04,0.431,Medium
+E03027,Customer Service,1,2710.0,No,2,1,0.985,0.431,Medium
+E02685,Human Resources,1,2890.0,Yes,3,0,0.97,0.431,Medium
+E01084,Operations,3,6140.0,No,4,0,0.896,0.43,Medium
+E00638,IT,4,12090.0,No,1,0,0.9,0.43,Medium
+E00479,Operations,2,5010.0,No,2,2,1.102,0.43,Medium
+E01600,Finance,2,5470.0,Yes,4,4,1.03,0.43,Medium
+E00176,Customer Service,2,4280.0,No,3,1,1.036,0.429,Medium
+E02993,IT,2,5620.0,No,4,1,0.974,0.429,Medium
+E03300,Customer Service,1,2620.0,No,2,1,0.953,0.429,Medium
+E02763,IT,3,7950.0,No,3,2,0.925,0.428,Medium
+E03156,Sales,1,3140.0,No,4,1,0.984,0.428,Medium
+E03020,IT,1,3880.0,No,4,0,1.016,0.428,Medium
+E04000,Customer Service,3,5880.0,No,4,5,0.974,0.428,Medium
+E01409,Finance,3,7990.0,No,2,2,0.996,0.427,Medium
+E03915,Sales,1,3510.0,No,3,0,1.1,0.427,Medium
+E00711,Finance,2,4740.0,No,2,0,0.893,0.426,Medium
+E01660,Customer Service,2,5260.0,Yes,1,0,1.274,0.426,Medium
+E00202,IT,5,18700.0,No,1,1,0.929,0.426,Medium
+E02529,Sales,2,4890.0,No,4,1,1.019,0.426,Medium
+E02705,IT,4,11120.0,No,1,1,0.827,0.426,Medium
+E02646,Operations,3,6030.0,No,3,1,0.88,0.425,Medium
+E01484,Sales,5,22000.0,Yes,3,3,1.329,0.425,Medium
+E00991,IT,2,6070.0,Yes,2,1,1.052,0.425,Medium
+E02689,Sales,1,3520.0,No,3,3,1.103,0.425,Medium
+E03576,Human Resources,1,3050.0,No,1,0,1.023,0.424,Medium
+E03245,Sales,1,3220.0,No,2,2,1.009,0.424,Medium
+E02416,Customer Service,4,9760.0,Yes,2,0,1.047,0.424,Medium
+E01749,Sales,1,4120.0,Yes,1,0,1.292,0.424,Medium
+E01996,Customer Service,2,4040.0,No,3,0,0.978,0.424,Medium
+E00853,Customer Service,3,6210.0,No,3,1,1.029,0.423,Medium
+E00030,Operations,2,4230.0,No,1,1,0.931,0.423,Medium
+E00057,Finance,3,7430.0,No,2,3,0.926,0.423,Medium
+E01901,Customer Service,4,10020.0,Yes,2,2,1.075,0.422,Medium
+E00440,Sales,3,8910.0,No,1,1,1.263,0.422,Medium
+E01507,IT,2,5400.0,Yes,4,0,0.936,0.422,Medium
+E01877,Customer Service,3,6280.0,No,1,1,1.041,0.422,Medium
+E00764,Sales,3,7040.0,No,1,2,0.998,0.421,Medium
+E03175,Finance,4,10650.0,No,4,1,0.862,0.421,Medium
+E00880,Human Resources,2,4200.0,No,1,0,0.925,0.421,Medium
+E00550,Sales,2,4470.0,No,4,1,0.931,0.421,Medium
+E00922,Customer Service,1,2270.0,No,4,3,0.825,0.42,Medium
+E01509,IT,3,12110.0,Yes,2,2,1.409,0.42,Medium
+E03296,Operations,2,5560.0,Yes,1,1,1.223,0.42,Medium
+E03103,Sales,3,6280.0,No,4,2,0.89,0.42,Medium
+E02139,IT,3,8320.0,Yes,3,2,0.968,0.42,Medium
+E01469,IT,3,8860.0,No,4,0,1.031,0.42,Medium
+E01891,Operations,1,2890.0,No,3,1,0.944,0.42,Medium
+E01994,IT,4,14540.0,Yes,3,1,1.082,0.42,Medium
+E00676,Finance,1,3310.0,No,4,1,0.975,0.419,Medium
+E01255,Marketing,1,3290.0,Yes,3,0,1.014,0.419,Medium
+E01922,IT,4,13420.0,No,3,1,0.999,0.419,Medium
+E02990,Sales,4,9400.0,No,3,0,0.874,0.419,Medium
+E02868,Sales,2,5200.0,No,2,0,1.083,0.419,Medium
+E01047,Sales,4,10450.0,No,3,1,0.971,0.418,Medium
+E01959,Finance,1,3840.0,Yes,4,0,1.131,0.418,Medium
+E03993,Sales,2,4370.0,No,3,2,0.91,0.418,Medium
+E02695,Customer Service,4,6120.0,No,4,0,0.657,0.418,Medium
+E02832,Sales,2,5130.0,No,4,0,1.069,0.417,Medium
+E01501,IT,2,6720.0,Yes,4,2,1.165,0.417,Medium
+E00020,Human Resources,2,5010.0,No,1,0,1.104,0.415,Medium
+E01824,Finance,2,4380.0,No,4,2,0.825,0.415,Medium
+E01278,Customer Service,3,4410.0,No,2,2,0.731,0.415,Medium
+E03165,Customer Service,3,5650.0,No,3,1,0.936,0.415,Medium
+E03092,Finance,3,9310.0,Yes,4,1,1.16,0.414,Medium
+E01128,Sales,1,3080.0,No,4,1,0.966,0.414,Medium
+E00562,Sales,1,3780.0,No,2,1,1.185,0.414,Medium
+E02850,Finance,3,7430.0,No,2,0,0.926,0.413,Medium
+E00583,Sales,2,4360.0,No,1,0,0.908,0.413,Medium
+E01112,Operations,4,8680.0,No,4,0,0.82,0.413,Medium
+E00449,Operations,3,6900.0,No,2,1,1.007,0.412,Medium
+E00008,Finance,3,8400.0,No,2,0,1.047,0.412,Medium
+E01873,Marketing,3,7460.0,Yes,1,0,1.026,0.412,Medium
+E03480,Finance,2,5190.0,No,3,0,0.977,0.412,Medium
+E03582,Sales,5,18070.0,No,2,4,1.092,0.412,Medium
+E00956,Sales,2,5030.0,Yes,3,1,1.048,0.411,Medium
+E02270,IT,2,5560.0,No,4,2,0.964,0.411,Medium
+E01343,Operations,3,9070.0,Yes,3,0,1.324,0.411,Medium
+E03232,Sales,5,17710.0,No,4,0,1.07,0.411,Medium
+E01635,IT,3,7050.0,No,2,0,0.82,0.41,Medium
+E00841,Sales,4,9940.0,No,2,4,0.924,0.41,Medium
+E03369,Marketing,1,2620.0,No,4,0,0.807,0.41,Medium
+E01412,IT,2,5220.0,No,2,1,0.905,0.409,Medium
+E01670,Customer Service,3,5320.0,No,3,1,0.882,0.409,Medium
+E02423,Customer Service,1,2880.0,No,3,2,1.047,0.408,Medium
+E03105,Customer Service,4,8670.0,No,3,4,0.93,0.408,Medium
+E03088,IT,1,3840.0,No,2,1,1.005,0.407,Medium
+E03085,Operations,3,5940.0,No,1,1,0.867,0.407,Medium
+E02308,Sales,4,10710.0,No,4,0,0.995,0.407,Medium
+E02799,Operations,3,7490.0,Yes,4,2,1.093,0.407,Medium
+E02523,Finance,3,7840.0,No,4,1,0.977,0.407,Medium
+E02125,Sales,4,11170.0,No,2,1,1.038,0.407,Medium
+E03414,Finance,5,17840.0,No,2,0,0.971,0.406,Medium
+E03512,Sales,3,7600.0,No,2,2,1.077,0.406,Medium
+E03055,Operations,2,4700.0,Yes,4,1,1.034,0.406,Medium
+E00535,IT,2,6910.0,No,3,1,1.198,0.406,Medium
+E00330,Sales,2,4950.0,No,1,2,1.031,0.405,Medium
+E02182,Marketing,2,5720.0,Yes,3,2,1.245,0.405,Medium
+E00775,Customer Service,2,3960.0,No,1,0,0.959,0.405,Medium
+E01123,Finance,5,13930.0,No,1,2,0.758,0.405,Medium
+E03585,Operations,2,4270.0,No,3,1,0.939,0.405,Medium
+E00337,IT,2,6060.0,Yes,4,0,1.05,0.405,Medium
+E01172,Finance,3,7720.0,No,1,2,0.962,0.405,Medium
+E01481,Sales,4,10840.0,No,1,2,1.007,0.405,Medium
+E03772,Operations,2,5160.0,No,2,3,1.135,0.404,Medium
+E00106,Customer Service,2,4310.0,No,2,1,1.044,0.404,Medium
+E00701,Operations,2,5070.0,No,1,4,1.116,0.404,Medium
+E03604,Finance,3,9200.0,Yes,3,3,1.146,0.404,Medium
+E01376,Human Resources,3,7950.0,Yes,3,2,1.162,0.404,Medium
+E03800,IT,1,3990.0,No,3,1,1.045,0.404,Medium
+E00224,IT,2,6110.0,No,2,4,1.059,0.403,Medium
+E03949,Customer Service,1,2860.0,No,4,0,1.04,0.403,Medium
+E00252,Operations,3,7960.0,Yes,3,0,1.162,0.403,Medium
+E03663,Human Resources,2,5300.0,Yes,4,0,1.167,0.403,Medium
+E00664,Sales,4,10230.0,No,2,2,0.951,0.402,Medium
+E03499,Finance,1,3430.0,No,3,0,1.01,0.402,Medium
+E00492,Customer Service,3,7210.0,No,1,0,1.195,0.402,Medium
+E01234,Marketing,2,4190.0,No,3,0,0.912,0.401,Medium
+E03862,IT,3,9510.0,No,1,3,1.106,0.401,Medium
+E03006,Sales,1,2920.0,No,4,0,0.915,0.401,Medium
+E03497,Customer Service,3,5000.0,No,1,2,0.829,0.401,Medium
+E02173,IT,3,8710.0,No,1,1,1.013,0.4,Medium
+E03578,IT,1,3280.0,No,1,0,0.859,0.4,Medium
+E01934,Operations,3,5900.0,No,4,3,0.861,0.4,Medium
+E02464,Marketing,2,4590.0,No,3,0,0.999,0.4,Medium
+E00396,Sales,1,2950.0,No,4,1,0.925,0.4,Medium
+E03214,Sales,1,2570.0,No,4,0,0.806,0.399,Medium
+E01816,Human Resources,4,11980.0,Yes,2,6,1.099,0.399,Medium
+E01046,Customer Service,3,5920.0,No,2,2,0.981,0.399,Medium
+E03426,Marketing,3,9130.0,Yes,3,1,1.256,0.399,Medium
+E02094,Finance,2,4150.0,No,4,1,0.782,0.399,Medium
+E00796,Operations,4,10480.0,No,3,0,0.991,0.399,Medium
+E01324,Operations,2,3770.0,No,2,0,0.829,0.399,Medium
+E03805,Customer Service,1,3020.0,No,3,0,1.098,0.398,Medium
+E01051,Sales,4,9010.0,No,2,2,0.837,0.398,Medium
+E01859,Human Resources,2,4660.0,No,1,0,1.026,0.398,Medium
+E01528,Finance,2,5700.0,No,4,2,1.073,0.398,Medium
+E01954,IT,2,5260.0,No,4,0,0.912,0.398,Medium
+E00756,Customer Service,1,3290.0,Yes,4,1,1.196,0.398,Medium
+E00837,IT,1,4580.0,Yes,2,0,1.199,0.397,Medium
+E00814,Customer Service,3,4520.0,No,3,2,0.749,0.397,Medium
+E00312,Customer Service,3,6470.0,No,4,1,1.072,0.397,Medium
+E02549,Sales,1,3860.0,No,1,1,1.21,0.397,Medium
+E03507,Finance,3,7720.0,No,3,2,0.962,0.397,Medium
+E03781,Marketing,4,11250.0,No,3,1,1.025,0.397,Medium
+E02581,Operations,2,5400.0,No,3,0,1.188,0.396,Medium
+E01625,IT,4,11530.0,No,4,1,0.858,0.396,Medium
+E01708,Customer Service,2,3770.0,No,3,1,0.913,0.395,Medium
+E01279,Operations,3,6560.0,No,3,1,0.958,0.395,Medium
+E03502,Marketing,3,8540.0,Yes,3,4,1.175,0.395,Medium
+E03588,Operations,2,4930.0,Yes,3,2,1.085,0.395,Medium
+E00200,Operations,3,6830.0,No,4,0,0.997,0.395,Medium
+E02441,Finance,3,9100.0,No,3,1,1.134,0.395,Medium
+E02099,IT,1,5060.0,Yes,4,1,1.325,0.395,Medium
+E01845,Finance,2,5800.0,No,3,0,1.092,0.394,Medium
+E01118,Operations,4,10680.0,No,2,2,1.009,0.394,Medium
+E02668,Finance,2,4970.0,No,1,1,0.936,0.394,Medium
+E01082,Sales,4,12790.0,Yes,3,0,1.189,0.394,Medium
+E02884,IT,3,6850.0,No,4,1,0.797,0.394,Medium
+E01482,Operations,2,4370.0,No,3,0,0.961,0.393,Medium
+E01513,Marketing,2,3590.0,No,3,1,0.781,0.393,Medium
+E01548,Finance,2,5290.0,No,3,4,0.996,0.393,Medium
+E02502,IT,2,6400.0,Yes,4,0,1.109,0.393,Medium
+E00807,Human Resources,2,4890.0,Yes,3,3,1.077,0.392,Medium
+E00321,Human Resources,1,2370.0,No,4,0,0.795,0.392,Medium
+E02294,Human Resources,5,18640.0,No,2,0,1.0,0.392,Medium
+E01367,Sales,3,6690.0,No,4,2,0.948,0.391,Medium
+E01322,Customer Service,1,2860.0,No,3,0,1.04,0.391,Medium
+E00269,Customer Service,3,5750.0,No,3,2,0.953,0.391,Medium
+E00079,Operations,2,5410.0,Yes,4,2,1.19,0.391,Medium
+E02655,Operations,1,3150.0,No,2,0,1.029,0.391,Medium
+E00803,Finance,4,12830.0,No,3,1,1.038,0.391,Medium
+E00860,Sales,2,6250.0,No,4,1,1.302,0.389,Medium
+E03329,IT,2,6350.0,No,1,0,1.101,0.389,Medium
+E02230,Operations,2,4190.0,Yes,3,0,0.922,0.389,Medium
+E01462,Operations,2,5010.0,No,4,2,1.102,0.389,Medium
+E01738,Human Resources,2,4310.0,No,3,1,0.949,0.389,Medium
+E03752,Sales,4,9460.0,No,2,1,0.879,0.389,Medium
+E02791,Sales,3,7800.0,Yes,1,0,1.106,0.388,Medium
+E00646,IT,2,4670.0,No,3,2,0.809,0.388,Medium
+E00725,Customer Service,5,12660.0,No,4,2,0.873,0.387,Medium
+E00651,IT,1,4270.0,No,1,0,1.118,0.387,Medium
+E00023,Operations,4,7810.0,No,3,3,0.738,0.387,Medium
+E03980,Customer Service,1,3150.0,No,1,0,1.145,0.387,Medium
+E00032,Customer Service,4,7980.0,Yes,4,1,0.856,0.387,Medium
+E00844,Customer Service,2,3500.0,No,4,1,0.847,0.387,Medium
+E01601,IT,2,5040.0,No,4,1,0.873,0.386,Medium
+E01352,Customer Service,3,5510.0,No,3,1,0.913,0.386,Medium
+E01140,Operations,2,4550.0,No,1,1,1.001,0.386,Medium
+E02968,Operations,2,4100.0,No,1,2,0.902,0.386,Medium
+E02589,Operations,3,5100.0,No,4,1,0.745,0.386,Medium
+E03169,Human Resources,2,3810.0,No,4,0,0.839,0.386,Medium
+E02455,Finance,2,5750.0,No,3,0,1.083,0.385,Medium
+E00976,Finance,3,9860.0,No,2,1,1.229,0.385,Medium
+E03301,Finance,4,11560.0,No,1,0,0.935,0.385,Medium
+E01557,Finance,1,3070.0,No,3,0,0.904,0.385,Medium
+E01862,Marketing,2,4470.0,No,1,1,0.973,0.385,Medium
+E02924,IT,1,3690.0,No,4,0,0.966,0.385,Medium
+E00157,Customer Service,1,2920.0,No,2,0,1.062,0.384,Medium
+E00852,Sales,2,4650.0,No,4,1,0.969,0.384,Medium
+E00037,Customer Service,4,9240.0,No,2,0,0.991,0.384,Medium
+E03102,Sales,1,4590.0,Yes,4,1,1.439,0.384,Medium
+E01166,Finance,1,4210.0,No,3,4,1.24,0.384,Medium
+E02635,IT,1,3760.0,No,4,0,0.984,0.384,Medium
+E02288,Sales,1,3390.0,No,4,0,1.063,0.384,Medium
+E03086,Human Resources,2,4430.0,No,4,0,0.976,0.383,Medium
+E03229,Operations,3,7740.0,Yes,4,0,1.13,0.383,Medium
+E02495,Operations,2,4820.0,Yes,4,2,1.061,0.383,Medium
+E00101,Human Resources,1,2920.0,Yes,1,0,0.98,0.383,Medium
+E02383,Sales,1,3700.0,No,3,0,1.16,0.383,Medium
+E01298,Finance,1,2670.0,No,3,3,0.786,0.383,Medium
+E00966,Operations,1,3390.0,Yes,1,0,1.108,0.383,Medium
+E03755,Operations,5,18790.0,Yes,1,2,1.178,0.383,Medium
+E02642,Sales,3,8080.0,Yes,1,0,1.145,0.383,Medium
+E03801,Operations,1,2900.0,No,4,0,0.948,0.383,Medium
+E01290,Customer Service,4,7980.0,No,2,0,0.856,0.382,Medium
+E01850,Marketing,3,6270.0,No,2,1,0.862,0.382,Medium
+E03570,Marketing,3,9310.0,Yes,3,1,1.281,0.382,Medium
+E00556,Customer Service,1,3020.0,No,3,2,1.098,0.382,Medium
+E02565,Operations,3,6410.0,No,2,1,0.936,0.382,Medium
+E03903,IT,1,4450.0,No,4,0,1.165,0.382,Medium
+E00436,Sales,1,2520.0,No,4,0,0.79,0.381,Medium
+E02843,Operations,2,5040.0,No,3,0,1.109,0.381,Medium
+E00957,Operations,4,9550.0,No,3,1,0.903,0.381,Medium
+E00110,Operations,2,3720.0,No,3,5,0.818,0.38,Medium
+E02167,Operations,2,5160.0,No,2,0,1.135,0.38,Medium
+E00625,IT,1,3350.0,No,4,1,0.877,0.38,Medium
+E02203,Customer Service,1,2950.0,No,4,5,1.073,0.379,Medium
+E00533,Operations,4,14770.0,Yes,3,1,1.396,0.379,Medium
+E01633,IT,1,3510.0,No,3,2,0.919,0.379,Medium
+E03881,Sales,4,9650.0,No,3,1,0.897,0.379,Medium
+E01568,Finance,2,5480.0,No,4,1,1.032,0.378,Medium
+E03744,Marketing,3,7250.0,No,1,0,0.997,0.378,Medium
+E02511,Finance,3,7170.0,No,2,2,0.893,0.378,Medium
+E01474,Finance,1,3480.0,No,2,1,1.025,0.378,Medium
+E00133,Customer Service,1,2750.0,No,3,1,1.0,0.377,Medium
+E02794,Finance,4,11020.0,No,3,2,0.892,0.377,Medium
+E00485,Customer Service,3,6030.0,No,3,1,0.999,0.377,Medium
+E00781,IT,5,17080.0,No,2,1,0.849,0.377,Medium
+E02501,Operations,2,4150.0,No,3,2,0.913,0.377,Medium
+E00579,IT,3,8090.0,No,4,1,0.941,0.377,Medium
+E00293,Finance,3,7890.0,No,4,1,0.983,0.376,Medium
+E01581,Human Resources,1,3000.0,No,1,0,1.007,0.376,Medium
+E02907,Sales,2,5160.0,No,2,1,1.075,0.376,Medium
+E02824,IT,3,8730.0,No,4,1,1.016,0.376,Medium
+E00134,Customer Service,5,14860.0,No,1,1,1.024,0.376,Medium
+E03247,Operations,1,2930.0,No,2,0,0.958,0.376,Medium
+E02395,Operations,1,2880.0,No,4,0,0.941,0.376,Medium
+E01440,Sales,2,4700.0,No,2,2,0.979,0.375,Medium
+E01466,Customer Service,3,5960.0,No,3,0,0.988,0.375,Medium
+E01301,Customer Service,3,7320.0,No,3,0,1.213,0.375,Medium
+E03837,Operations,2,4730.0,No,1,3,1.041,0.375,Medium
+E00969,Customer Service,1,2880.0,No,3,5,1.047,0.374,Medium
+E00277,Sales,3,7400.0,No,2,1,1.049,0.374,Medium
+E02480,IT,3,7050.0,No,4,0,0.82,0.374,Medium
+E03946,IT,3,9260.0,No,3,1,1.077,0.374,Medium
+E03785,Customer Service,1,2640.0,No,4,0,0.96,0.374,Medium
+E01260,Marketing,3,6320.0,No,2,1,0.869,0.374,Medium
+E02963,Customer Service,3,5710.0,No,2,3,0.946,0.374,Medium
+E02750,Sales,4,12410.0,Yes,3,1,1.153,0.373,Medium
+E01951,Operations,2,4890.0,Yes,2,0,1.076,0.373,Medium
+E02615,Sales,3,7340.0,No,2,0,1.04,0.373,Medium
+E02856,Sales,1,3120.0,No,3,0,0.978,0.373,Medium
+E00318,Customer Service,2,3800.0,Yes,3,5,0.92,0.373,Medium
+E01807,Customer Service,1,3250.0,No,2,0,1.182,0.372,Medium
+E00077,Marketing,1,2730.0,No,4,1,0.841,0.372,Medium
+E02252,Marketing,3,5770.0,No,2,3,0.794,0.372,Medium
+E02833,IT,3,6950.0,No,2,0,0.809,0.372,Medium
+E03753,Sales,4,9390.0,No,4,1,0.873,0.372,Medium
+E02724,Marketing,3,6120.0,No,2,2,0.842,0.371,Medium
+E00821,Sales,2,4850.0,No,3,0,1.01,0.371,Medium
+E02006,Operations,4,9870.0,No,3,1,0.933,0.371,Medium
+E03190,Sales,3,6670.0,No,3,0,0.945,0.371,Medium
+E02211,Customer Service,3,4640.0,No,4,2,0.769,0.371,Medium
+E00669,Customer Service,3,7550.0,Yes,1,0,1.251,0.371,Medium
+E00379,Operations,5,11890.0,No,4,0,0.745,0.37,Medium
+E01167,Customer Service,5,11930.0,No,3,1,0.822,0.37,Medium
+E03495,Customer Service,3,5860.0,No,3,1,0.971,0.37,Medium
+E02315,Marketing,2,4180.0,Yes,3,0,0.91,0.37,Medium
+E00083,Operations,3,7640.0,Yes,4,2,1.115,0.37,Medium
+E03754,Finance,5,21820.0,Yes,3,1,1.188,0.37,Medium
+E03712,Customer Service,1,3170.0,No,2,0,1.153,0.37,Medium
+E00850,Sales,5,15740.0,No,2,1,0.951,0.37,Medium
+E03087,Customer Service,3,6930.0,Yes,4,1,1.148,0.369,Medium
+E03596,Customer Service,3,5290.0,No,4,4,0.877,0.369,Medium
+E01924,Operations,2,4510.0,No,4,1,0.992,0.368,Medium
+E02327,Customer Service,4,9320.0,Yes,3,1,1.0,0.368,Medium
+E01755,Sales,2,5740.0,Yes,4,2,1.196,0.368,Medium
+E01208,Sales,2,4720.0,No,3,2,0.983,0.368,Medium
+E03832,Customer Service,3,4690.0,No,2,0,0.777,0.368,Medium
+E01786,Customer Service,2,4250.0,No,3,1,1.029,0.368,Medium
+E03205,Customer Service,2,4520.0,No,4,0,1.094,0.368,Medium
+E01334,Operations,2,4520.0,No,2,2,0.994,0.367,Medium
+E02199,Sales,5,15830.0,No,2,2,0.956,0.366,Medium
+E03360,IT,3,8230.0,No,4,0,0.958,0.366,Medium
+E01329,IT,1,4160.0,No,1,0,1.089,0.366,Medium
+E01896,Operations,1,3140.0,No,4,1,1.026,0.366,Medium
+E03581,Customer Service,3,6810.0,No,1,1,1.128,0.366,Medium
+E02158,IT,5,19170.0,No,2,5,0.953,0.366,Medium
+E00876,Sales,2,4800.0,No,4,0,1.0,0.366,Medium
+E02757,IT,1,4420.0,No,1,0,1.157,0.366,Medium
+E01160,Operations,2,4170.0,No,3,1,0.917,0.366,Medium
+E01643,Sales,2,3870.0,No,4,1,0.806,0.365,Medium
+E02500,Finance,2,5060.0,No,4,1,0.953,0.365,Medium
+E03261,Sales,4,10760.0,No,1,4,1.0,0.365,Medium
+E00698,Operations,2,5610.0,Yes,3,1,1.234,0.364,Medium
+E02409,Finance,3,9660.0,Yes,4,0,1.204,0.364,Medium
+E00470,IT,4,11310.0,No,4,0,0.842,0.364,Medium
+E03075,Operations,2,4160.0,No,4,1,0.915,0.364,Medium
+E02018,Marketing,4,9870.0,No,3,3,0.899,0.364,Medium
+E00998,Sales,1,3100.0,No,3,0,0.972,0.363,Medium
+E03930,Operations,4,11160.0,No,3,1,1.055,0.363,Medium
+E02341,Sales,2,5250.0,No,2,0,1.094,0.363,Medium
+E02378,Customer Service,1,2730.0,No,3,5,0.993,0.363,Medium
+E00799,IT,2,6750.0,Yes,3,0,1.17,0.362,Medium
+E02297,Finance,3,7180.0,No,4,1,0.895,0.362,Medium
+E02330,Operations,3,7110.0,No,3,2,1.038,0.362,Medium
+E03181,Operations,2,4190.0,No,2,0,0.922,0.362,Medium
+E02919,Sales,1,3160.0,No,3,0,0.991,0.361,Medium
+E01304,Operations,4,11580.0,Yes,4,0,1.095,0.361,Medium
+E03626,Finance,3,7160.0,No,4,1,0.892,0.361,Medium
+E02994,Operations,1,3330.0,Yes,2,1,1.088,0.361,Medium
+E01450,IT,4,12700.0,No,2,3,0.945,0.361,Medium
+E00948,Finance,1,3640.0,No,3,5,1.072,0.36,Medium
+E03703,Operations,1,2970.0,No,1,2,0.971,0.36,Medium
+E03048,IT,3,9230.0,No,2,1,1.074,0.36,Medium
+E01960,Operations,4,9030.0,No,4,1,0.853,0.36,Medium
+E02953,IT,2,5070.0,No,3,1,0.879,0.359,Medium
+E01814,Customer Service,4,7180.0,No,3,1,0.77,0.359,Medium
+E01913,Operations,2,4620.0,No,3,0,1.017,0.359,Medium
+E02061,Sales,4,10920.0,No,4,1,1.015,0.359,Medium
+E00982,Operations,4,13110.0,Yes,4,1,1.239,0.359,Medium
+E01787,Sales,4,11320.0,Yes,3,3,1.052,0.359,Medium
+E00649,Sales,4,11510.0,No,2,1,1.07,0.359,Medium
+E03798,Operations,3,6550.0,No,4,0,0.956,0.359,Medium
+E00847,Operations,2,4080.0,No,3,1,0.898,0.359,Medium
+E02735,Customer Service,5,12140.0,No,2,0,0.837,0.358,Medium
+E01095,Customer Service,2,5350.0,Yes,1,0,1.295,0.358,Medium
+E03687,Customer Service,2,3880.0,No,1,1,0.939,0.358,Medium
+E03791,Sales,4,11880.0,No,1,3,1.104,0.358,Medium
+E02318,IT,4,15770.0,No,2,1,1.173,0.358,Medium
+E02728,Sales,2,4410.0,No,4,0,0.919,0.357,Medium
+E01685,Sales,3,7140.0,No,2,2,1.012,0.357,Medium
+E02261,IT,1,3660.0,Yes,4,1,0.958,0.357,Medium
+E00668,Marketing,2,4910.0,Yes,1,2,1.069,0.357,Medium
+E03548,Operations,2,4380.0,No,2,0,0.964,0.357,Medium
+E03692,Sales,3,8500.0,No,1,0,1.205,0.356,Medium
+E00871,Customer Service,5,16060.0,Yes,3,3,1.107,0.356,Medium
+E02227,Sales,3,6240.0,No,3,2,0.884,0.356,Medium
+E00989,Sales,3,7620.0,No,3,1,1.08,0.356,Medium
+E02959,Human Resources,1,2840.0,No,4,1,0.953,0.355,Medium
+E01380,IT,2,6420.0,No,4,1,1.113,0.355,Medium
+E02719,Operations,4,12820.0,Yes,3,1,1.212,0.355,Medium
+E02984,Marketing,1,2950.0,No,3,0,0.909,0.354,Medium
+E01066,Customer Service,2,3350.0,No,4,2,0.811,0.354,Medium
+E02988,Operations,1,3030.0,No,3,0,0.99,0.354,Medium
+E01158,Marketing,3,8560.0,Yes,2,0,1.177,0.354,Medium
+E02161,IT,3,6930.0,No,3,1,0.806,0.354,Medium
+E02451,Sales,3,8700.0,No,4,6,1.233,0.354,Medium
+E02243,IT,1,3460.0,No,3,2,0.906,0.354,Medium
+E02802,Human Resources,3,6890.0,Yes,2,3,1.007,0.353,Medium
+E01476,Operations,1,2710.0,No,4,0,0.886,0.353,Medium
+E03068,IT,2,4960.0,No,4,4,0.86,0.353,Medium
+E01248,Operations,1,3020.0,No,3,2,0.987,0.353,Medium
+E01574,Finance,2,4890.0,No,3,2,0.921,0.353,Medium
+E03152,IT,2,5500.0,Yes,2,1,0.953,0.352,Medium
+E02696,IT,2,6410.0,No,3,1,1.111,0.352,Medium
+E00102,IT,2,5540.0,No,3,0,0.96,0.352,Medium
+E00107,Operations,3,8280.0,Yes,2,3,1.209,0.352,Medium
+E00307,Customer Service,4,10400.0,Yes,3,1,1.116,0.352,Medium
+E00433,Operations,1,3080.0,No,4,0,1.007,0.352,Medium
+E00351,Sales,2,3890.0,No,3,1,0.81,0.352,Medium
+E00229,Finance,2,5790.0,No,4,1,1.09,0.352,Medium
+E03421,IT,1,3980.0,Yes,2,0,1.042,0.352,Medium
+E01152,Operations,5,14900.0,No,4,1,0.934,0.352,Medium
+E03142,Sales,2,5160.0,No,4,0,1.075,0.351,Medium
+E03876,Operations,2,4980.0,Yes,4,1,1.096,0.351,Medium
+E02012,Finance,3,7190.0,No,4,2,0.896,0.35,Medium
+E02669,Operations,1,3300.0,No,2,0,1.078,0.35,Medium
+E01580,Marketing,3,7180.0,No,1,2,0.988,0.35,Medium
+E00537,Sales,1,3900.0,Yes,3,2,1.223,0.35,Medium
+E02677,Marketing,3,7590.0,No,3,1,1.044,0.35,Medium
+E00325,Marketing,4,10210.0,Yes,2,2,0.93,0.349,Medium
+E00640,Finance,4,16080.0,Yes,2,4,1.301,0.349,Medium
+E01188,Operations,3,6240.0,No,4,1,0.911,0.349,Medium
+E03013,Sales,2,5270.0,No,3,1,1.098,0.349,Medium
+E00349,Customer Service,4,9400.0,No,3,1,1.009,0.348,Medium
+E00053,Sales,3,7620.0,No,3,2,1.08,0.348,Medium
+E03168,Customer Service,2,4190.0,No,3,0,1.015,0.347,Medium
+E00766,IT,1,4390.0,Yes,3,0,1.149,0.347,Medium
+E01964,Operations,1,2880.0,No,3,4,0.941,0.347,Medium
+E03126,Human Resources,4,9270.0,No,4,0,0.85,0.347,Medium
+E01381,IT,3,9430.0,Yes,4,1,1.097,0.347,Medium
+E02447,Operations,5,15950.0,No,1,4,1.0,0.347,Medium
+E01186,Finance,3,8440.0,No,3,1,1.052,0.346,Medium
+E00011,Customer Service,4,7600.0,No,1,0,0.815,0.346,Medium
+E03115,Customer Service,5,12660.0,No,3,5,0.873,0.346,Medium
+E00059,Human Resources,5,15550.0,No,3,1,0.834,0.346,Medium
+E00641,Customer Service,1,2390.0,No,1,0,0.869,0.345,Medium
+E02516,Customer Service,4,9730.0,No,3,1,1.044,0.345,Medium
+E02864,Customer Service,4,9120.0,No,4,4,0.979,0.345,Medium
+E02157,Marketing,1,2440.0,No,4,2,0.752,0.345,Medium
+E00665,Operations,5,15630.0,No,3,1,0.98,0.345,Medium
+E01516,Customer Service,3,5400.0,No,1,1,0.895,0.345,Medium
+E01822,Sales,3,8220.0,No,4,2,1.165,0.344,Medium
+E00522,IT,3,9710.0,Yes,4,1,1.13,0.344,Medium
+E01467,Sales,3,5980.0,No,3,0,0.848,0.344,Medium
+E03089,Sales,2,5180.0,No,1,1,1.079,0.344,Medium
+E00103,Operations,3,7240.0,No,3,0,1.057,0.344,Medium
+E03320,Sales,4,11300.0,No,4,0,1.05,0.344,Medium
+E00382,Customer Service,2,4300.0,No,4,0,1.041,0.344,Medium
+E01253,Operations,1,2880.0,No,4,1,0.941,0.344,Medium
+E03612,Customer Service,2,4470.0,No,4,3,1.082,0.344,Medium
+E01395,Operations,2,3890.0,No,3,5,0.856,0.343,Medium
+E02479,Finance,2,4260.0,No,3,0,0.802,0.343,Medium
+E02300,Customer Service,3,5670.0,No,3,1,0.94,0.343,Medium
+E01843,Customer Service,2,4230.0,No,4,0,1.024,0.343,Medium
+E00155,IT,4,11820.0,No,4,0,0.879,0.343,Medium
+E03969,Sales,4,11200.0,No,1,0,1.041,0.343,Medium
+E03004,Marketing,4,7660.0,No,3,5,0.698,0.343,Medium
+E00703,Operations,3,7560.0,Yes,3,3,1.104,0.343,Medium
+E03748,Customer Service,3,6670.0,No,3,0,1.105,0.342,Medium
+E01654,Marketing,5,16850.0,No,3,7,0.956,0.342,Medium
+E03708,Sales,1,3440.0,No,3,1,1.078,0.341,Medium
+E02216,IT,4,14450.0,No,3,2,1.075,0.341,Medium
+E03704,Finance,4,11020.0,No,4,0,0.892,0.341,Medium
+E02184,Marketing,1,2980.0,No,3,0,0.918,0.341,Medium
+E01920,IT,1,3790.0,No,3,3,0.992,0.341,Medium
+E03672,Customer Service,3,7530.0,No,1,1,1.248,0.341,Medium
+E02849,Human Resources,1,3150.0,No,2,0,1.057,0.341,Medium
+E01353,Sales,3,8240.0,No,2,3,1.168,0.34,Medium
+E02891,Customer Service,3,5900.0,No,4,0,0.978,0.34,Medium
+E02707,Sales,1,3240.0,No,3,0,1.016,0.34,Medium
+E03227,IT,4,14900.0,Yes,2,2,1.109,0.34,Medium
+E01525,Human Resources,3,8280.0,Yes,3,2,1.211,0.339,Medium
+E02295,IT,1,3880.0,No,4,0,1.016,0.339,Medium
+E01570,Customer Service,5,13440.0,No,2,0,0.927,0.338,Medium
+E03871,Finance,2,5350.0,No,4,1,1.008,0.338,Medium
+E02535,Marketing,2,5550.0,No,1,2,1.208,0.338,Medium
+E01348,Customer Service,1,2770.0,No,3,2,1.007,0.338,Medium
+E00733,Marketing,1,3280.0,Yes,4,1,1.011,0.337,Medium
+E02356,Customer Service,3,6700.0,No,2,1,1.11,0.337,Medium
+E00362,Operations,2,4620.0,No,3,0,1.017,0.337,Medium
+E03650,Finance,3,7600.0,No,3,2,0.947,0.337,Medium
+E01811,Customer Service,5,17500.0,No,4,0,1.206,0.337,Medium
+E02888,IT,2,5950.0,Yes,4,0,1.031,0.337,Medium
+E03157,Customer Service,1,3570.0,No,1,0,1.298,0.337,Medium
+E01137,Sales,3,7370.0,No,3,1,1.045,0.336,Medium
+E02564,Sales,2,3920.0,No,4,0,0.817,0.336,Medium
+E03667,Operations,2,5990.0,Yes,3,6,1.318,0.336,Medium
+E01321,IT,4,15360.0,No,1,0,1.143,0.336,Medium
+E00158,Customer Service,3,7270.0,No,2,7,1.205,0.336,Medium
+E00013,Customer Service,1,2800.0,No,4,1,1.018,0.336,Medium
+E03634,IT,2,6410.0,No,3,3,1.111,0.335,Medium
+E00633,Sales,2,5080.0,No,1,1,1.058,0.335,Medium
+E01078,IT,1,4770.0,Yes,3,1,1.249,0.335,Medium
+E03538,Customer Service,1,2930.0,No,3,2,1.065,0.334,Medium
+E01648,IT,4,14810.0,No,1,2,1.102,0.334,Medium
+E00596,Operations,1,2800.0,No,3,0,0.915,0.334,Medium
+E02742,Customer Service,1,3050.0,No,1,3,1.109,0.334,Medium
+E02672,Customer Service,4,8740.0,No,3,1,0.938,0.334,Medium
+E02278,Sales,5,19120.0,Yes,1,1,1.155,0.334,Medium
+E01035,Sales,2,5580.0,No,2,3,1.162,0.334,Medium
+E02616,Marketing,3,6340.0,No,3,1,0.872,0.334,Medium
+E02148,Customer Service,3,5410.0,No,1,1,0.896,0.334,Medium
+E00593,Human Resources,2,3290.0,No,2,0,0.725,0.333,Medium
+E03211,Finance,5,14220.0,No,4,1,0.774,0.333,Medium
+E03218,Finance,1,2960.0,No,4,3,0.872,0.333,Medium
+E01536,Human Resources,4,9540.0,No,2,1,0.875,0.333,Medium
+E03617,Finance,2,6430.0,Yes,2,1,1.211,0.333,Medium
+E00132,Operations,2,4920.0,No,2,1,1.083,0.333,Medium
+E02665,Customer Service,1,2500.0,No,3,1,0.909,0.333,Medium
+E02670,Sales,4,10320.0,No,1,0,0.959,0.333,Medium
+E00015,Operations,2,3660.0,No,2,2,0.805,0.333,Medium
+E00018,Finance,4,8750.0,No,4,0,0.708,0.333,Medium
+E00986,Operations,2,4160.0,No,4,1,0.915,0.333,Medium
+E03861,Customer Service,4,8490.0,No,4,2,0.911,0.332,Medium
+E03642,IT,5,16350.0,No,4,0,0.813,0.332,Medium
+E03354,Operations,3,7230.0,No,4,1,1.055,0.332,Medium
+E03410,Human Resources,3,5520.0,No,1,0,0.807,0.332,Medium
+E02163,Human Resources,2,5010.0,Yes,1,2,1.104,0.332,Medium
+E02186,Sales,4,13220.0,Yes,3,2,1.229,0.332,Medium
+E01694,Human Resources,3,6150.0,No,4,1,0.899,0.332,Medium
+E02982,Customer Service,3,6990.0,No,1,4,1.158,0.332,Medium
+E03746,Customer Service,2,4640.0,No,3,0,1.123,0.332,Medium
+E03545,Finance,3,7210.0,No,4,3,0.898,0.331,Medium
+E00089,Customer Service,5,15510.0,No,4,4,1.069,0.331,Medium
+E02774,IT,2,5180.0,No,4,0,0.898,0.331,Medium
+E01267,IT,4,14110.0,No,3,0,1.05,0.331,Medium
+E01222,Sales,1,2990.0,No,3,1,0.937,0.331,Medium
+E00614,Customer Service,3,6270.0,No,2,0,1.039,0.331,Medium
+E00483,Operations,2,4710.0,No,4,1,1.036,0.331,Medium
+E03225,Operations,4,10690.0,Yes,4,1,1.01,0.33,Medium
+E00323,IT,1,4190.0,No,1,0,1.097,0.33,Medium
+E02443,Finance,3,8580.0,No,3,0,1.069,0.33,Medium
+E02352,Marketing,2,5590.0,Yes,4,0,1.217,0.33,Medium
+E01199,Sales,3,8140.0,No,3,1,1.154,0.33,Medium
+E00118,Sales,1,2970.0,No,3,1,0.931,0.329,Medium
+E02086,Marketing,5,18150.0,Yes,3,2,1.03,0.329,Medium
+E02075,Sales,1,2910.0,No,2,1,0.912,0.329,Medium
+E02930,Sales,4,10610.0,No,3,0,0.986,0.328,Medium
+E01198,Marketing,3,6730.0,No,2,2,0.926,0.328,Medium
+E00444,Finance,3,8880.0,No,2,0,1.107,0.328,Medium
+E01774,Operations,2,5280.0,Yes,4,8,1.162,0.328,Medium
+E03629,IT,3,8820.0,No,2,3,1.026,0.328,Medium
+E02912,Customer Service,1,3440.0,No,3,1,1.251,0.327,Medium
+E01100,Sales,2,5260.0,No,4,0,1.096,0.327,Medium
+E01948,IT,2,5300.0,No,1,2,0.919,0.327,Medium
+E02889,Sales,3,7130.0,No,3,0,1.011,0.327,Medium
+E03884,Finance,2,5300.0,No,2,0,0.998,0.327,Medium
+E00569,Customer Service,3,7430.0,No,2,1,1.231,0.327,Medium
+E01269,Operations,1,3020.0,No,4,0,0.987,0.326,Medium
+E02835,Human Resources,3,6930.0,No,3,1,1.013,0.326,Medium
+E02404,Marketing,3,6520.0,Yes,3,1,0.897,0.326,Medium
+E01645,Customer Service,1,2870.0,No,3,1,1.044,0.326,Medium
+E03504,Marketing,5,18270.0,No,1,1,1.037,0.326,Medium
+E02296,Customer Service,4,9980.0,No,4,1,1.071,0.326,Medium
+E00439,Operations,4,10420.0,No,1,0,0.985,0.326,Medium
+E01541,Sales,2,5010.0,No,2,3,1.044,0.326,Medium
+E02931,Sales,1,2950.0,No,2,0,0.925,0.326,Medium
+E02600,Sales,3,8260.0,Yes,4,0,1.171,0.325,Medium
+E00177,IT,1,4340.0,No,1,0,1.136,0.325,Medium
+E03025,Human Resources,1,2730.0,No,1,0,0.916,0.325,Medium
+E02721,IT,1,3630.0,No,2,0,0.95,0.325,Medium
+E03761,Sales,3,8310.0,No,1,1,1.178,0.325,Medium
+E01124,Operations,2,4080.0,No,4,0,0.898,0.325,Medium
+E03375,Customer Service,4,8520.0,No,4,3,0.914,0.325,Medium
+E01593,Sales,3,7150.0,No,3,0,1.013,0.324,Medium
+E01291,Operations,2,4380.0,No,1,2,0.964,0.324,Medium
+E00210,Sales,3,7220.0,No,4,0,1.023,0.324,Medium
+E00643,IT,3,7940.0,No,3,0,0.924,0.324,Medium
+E03114,Operations,1,3430.0,No,3,0,1.121,0.324,Medium
+E00949,IT,1,3840.0,No,1,0,1.005,0.324,Medium
+E02387,Operations,1,3360.0,No,4,1,1.098,0.324,Medium
+E03917,Sales,4,10180.0,No,2,3,0.946,0.323,Medium
+E00691,Customer Service,3,6670.0,Yes,3,1,1.105,0.323,Medium
+E03363,Finance,3,6970.0,No,3,6,0.869,0.323,Medium
+E02901,Customer Service,2,3800.0,No,2,3,0.92,0.322,Medium
+E00958,Human Resources,1,2660.0,No,4,0,0.893,0.322,Medium
+E01349,Sales,4,14180.0,No,2,1,1.318,0.322,Medium
+E02369,Human Resources,3,6660.0,No,3,1,0.974,0.322,Medium
+E01641,Customer Service,1,3250.0,No,2,0,1.182,0.322,Medium
+E00139,Operations,3,7970.0,Yes,1,3,1.164,0.322,Medium
+E00211,Customer Service,3,6620.0,No,4,0,1.097,0.322,Medium
+E03312,Sales,1,3380.0,No,1,0,1.06,0.322,Medium
+E01937,Finance,3,9220.0,No,2,0,1.149,0.321,Medium
+E00864,Customer Service,2,4230.0,No,3,1,1.024,0.321,Medium
+E02247,Human Resources,1,3990.0,Yes,4,0,1.339,0.321,Medium
+E03445,IT,2,4890.0,No,3,1,0.847,0.321,Medium
+E01036,Human Resources,2,4520.0,No,1,2,0.996,0.321,Medium
+E00184,Operations,5,14910.0,No,3,1,0.935,0.321,Medium
+E02434,Operations,4,9870.0,No,4,1,0.933,0.321,Medium
+E01809,Marketing,2,4330.0,No,3,1,0.942,0.32,Medium
+E03676,Operations,2,3940.0,No,3,0,0.867,0.32,Medium
+E00310,Finance,5,19750.0,Yes,3,0,1.075,0.32,Medium
+E03235,Sales,1,3650.0,No,3,0,1.144,0.319,Medium
+E00391,IT,2,8030.0,Yes,1,1,1.392,0.319,Medium
+E02595,Customer Service,3,6110.0,No,2,0,1.012,0.319,Medium
+E00751,Operations,3,6850.0,No,2,2,1.0,0.319,Medium
+E03557,Operations,3,6480.0,No,4,0,0.946,0.319,Medium
+E00679,Finance,2,4950.0,No,3,7,0.932,0.318,Medium
+E03204,Customer Service,4,9420.0,Yes,4,1,1.011,0.318,Medium
+E02932,Customer Service,3,6470.0,Yes,3,2,1.072,0.318,Medium
+E02461,Operations,4,9720.0,No,4,4,0.919,0.318,Medium
+E03532,IT,1,3720.0,No,4,1,0.974,0.318,Medium
+E02557,Operations,4,12700.0,Yes,2,0,1.2,0.318,Medium
+E01839,Customer Service,2,4480.0,No,3,2,1.085,0.318,Medium
+E00225,Operations,2,6180.0,Yes,3,0,1.36,0.318,Medium
+E02444,Operations,4,10730.0,No,3,4,1.014,0.317,Medium
+E02871,Customer Service,1,3010.0,No,3,1,1.095,0.317,Medium
+E02922,Finance,4,13240.0,No,3,3,1.071,0.317,Medium
+E01871,Finance,3,7960.0,No,4,1,0.992,0.317,Medium
+E00507,Customer Service,2,4000.0,No,1,1,0.969,0.317,Medium
+E02236,Human Resources,4,9620.0,No,3,0,0.882,0.317,Medium
+E02836,Customer Service,3,6850.0,No,3,3,1.135,0.317,Medium
+E03374,Operations,2,4300.0,No,2,0,0.946,0.316,Medium
+E01848,Finance,3,8070.0,No,3,2,1.006,0.316,Medium
+E01448,Human Resources,3,6600.0,Yes,3,1,0.965,0.316,Medium
+E01463,Sales,5,16730.0,No,3,4,1.011,0.316,Medium
+E00178,Finance,3,7290.0,No,1,1,0.908,0.316,Medium
+E00978,Finance,3,7930.0,No,2,3,0.988,0.315,Medium
+E00236,Sales,5,17270.0,No,4,3,1.044,0.315,Medium
+E01268,Sales,2,5090.0,No,2,1,1.06,0.315,Medium
+E00706,Sales,4,11830.0,No,1,4,1.099,0.315,Medium
+E02765,Customer Service,3,6730.0,No,3,1,1.115,0.314,Medium
+E01011,Marketing,1,3150.0,Yes,2,4,0.971,0.314,Medium
+E01657,Operations,4,12220.0,No,3,1,1.155,0.314,Medium
+E00442,Sales,2,4780.0,No,4,1,0.996,0.314,Medium
+E03856,IT,3,8580.0,No,3,1,0.998,0.314,Medium
+E00904,Finance,4,12160.0,No,2,2,0.984,0.314,Medium
+E02274,IT,1,3820.0,No,3,0,1.0,0.313,Medium
+E01773,Marketing,2,4480.0,No,1,3,0.975,0.313,Medium
+E01919,Sales,4,8680.0,No,3,0,0.807,0.313,Medium
+E02240,Customer Service,3,5200.0,No,1,1,0.862,0.313,Medium
+E03535,Sales,2,4540.0,No,3,4,0.946,0.313,Medium
+E02694,Customer Service,3,5880.0,No,3,0,0.974,0.313,Medium
+E01240,IT,3,10320.0,No,1,0,1.201,0.312,Medium
+E03864,Sales,1,3370.0,No,4,4,1.056,0.312,Medium
+E02450,Finance,2,5670.0,No,3,0,1.068,0.312,Medium
+E00238,Sales,2,5090.0,No,3,3,1.06,0.312,Medium
+E02883,Sales,4,9870.0,No,4,0,0.917,0.311,Medium
+E00684,IT,1,3470.0,No,3,0,0.908,0.311,Medium
+E03219,Sales,3,6120.0,No,4,0,0.867,0.311,Medium
+E01231,Customer Service,3,6680.0,No,2,4,1.107,0.311,Medium
+E01022,Customer Service,2,3700.0,No,4,1,0.896,0.311,Medium
+E02320,Customer Service,3,7920.0,No,3,1,1.312,0.311,Medium
+E02607,IT,4,12000.0,Yes,3,1,0.893,0.31,Medium
+E00314,IT,2,5420.0,No,3,2,0.939,0.31,Medium
+E00862,Operations,3,6340.0,Yes,4,4,0.926,0.31,Medium
+E03270,Operations,1,3030.0,No,4,0,0.99,0.31,Medium
+E02798,Customer Service,3,5870.0,No,1,0,0.973,0.31,Medium
+E03568,Sales,2,5170.0,No,1,1,1.077,0.31,Medium
+E00564,Sales,4,12250.0,Yes,2,1,1.138,0.309,Medium
+E03293,IT,1,3670.0,No,1,0,0.961,0.309,Medium
+E01223,Customer Service,3,5230.0,No,2,2,0.867,0.309,Medium
+E01763,Sales,3,8220.0,No,3,0,1.165,0.309,Medium
+E01088,Operations,4,9880.0,No,4,0,0.934,0.309,Medium
+E02299,Marketing,3,5360.0,No,2,2,0.737,0.309,Medium
+E01605,Customer Service,3,6350.0,No,1,0,1.052,0.309,Medium
+E01296,Human Resources,4,9580.0,No,4,1,0.878,0.309,Medium
+E01736,Customer Service,5,13220.0,No,3,1,0.911,0.308,Medium
+E02544,Customer Service,1,3220.0,No,2,2,1.171,0.308,Medium
+E00346,Human Resources,4,10450.0,No,3,2,0.958,0.308,Medium
+E00942,Operations,1,3040.0,No,2,2,0.993,0.308,Medium
+E01192,Operations,3,6540.0,No,1,2,0.955,0.308,Medium
+E00805,Finance,3,8120.0,No,2,1,1.012,0.308,Medium
+E02382,IT,3,10340.0,No,1,2,1.203,0.307,Medium
+E03566,Customer Service,2,4300.0,No,3,1,1.041,0.307,Medium
+E01039,Human Resources,2,4560.0,No,1,0,1.004,0.307,Medium
+E03892,Customer Service,3,4970.0,No,3,1,0.824,0.307,Medium
+E02096,Operations,3,6680.0,No,2,1,0.975,0.307,Medium
+E01718,Customer Service,5,15550.0,Yes,3,0,1.072,0.307,Medium
+E00407,Operations,1,3050.0,No,3,4,0.997,0.307,Medium
+E02506,Finance,2,6030.0,No,3,0,1.136,0.307,Medium
+E01408,Sales,1,3050.0,No,1,0,0.956,0.307,Medium
+E00856,Customer Service,2,3550.0,No,3,3,0.86,0.306,Medium
+E03275,Marketing,2,4570.0,Yes,4,0,0.995,0.306,Medium
+E02104,Operations,5,14940.0,No,2,1,0.937,0.306,Medium
+E00300,Customer Service,1,2870.0,No,4,0,1.044,0.306,Medium
+E01407,IT,3,7760.0,No,4,0,0.903,0.306,Medium
+E01899,Human Resources,2,3620.0,No,2,0,0.797,0.306,Medium
+E01270,Operations,2,3930.0,No,4,0,0.865,0.306,Medium
+E02629,Sales,3,7270.0,No,4,1,1.03,0.306,Medium
+E00484,Human Resources,2,5460.0,No,3,1,1.203,0.306,Medium
+E00151,Customer Service,2,4370.0,No,3,1,1.058,0.305,Medium
+E00350,Customer Service,1,3060.0,No,3,0,1.113,0.305,Medium
+E03054,Finance,2,5040.0,No,3,0,0.949,0.305,Medium
+E01205,Marketing,2,5750.0,Yes,1,0,1.251,0.305,Medium
+E03182,IT,1,4240.0,No,3,0,1.11,0.304,Medium
+E02272,Sales,1,3040.0,No,2,0,0.953,0.304,Medium
+E01275,IT,4,13780.0,No,3,2,1.025,0.304,Medium
+E01368,Operations,5,13920.0,No,1,1,0.873,0.304,Medium
+E00675,Operations,1,3130.0,No,3,0,1.023,0.303,Medium
+E02246,Operations,2,3740.0,No,4,0,0.823,0.303,Medium
+E02095,Sales,3,7120.0,No,3,2,1.009,0.303,Medium
+E02989,Customer Service,1,3450.0,No,2,1,1.255,0.302,Medium
+E01534,Operations,2,5480.0,Yes,3,1,1.206,0.302,Medium
+E00296,Human Resources,5,22800.0,Yes,3,1,1.223,0.302,Medium
+E01775,Customer Service,4,8430.0,No,2,2,0.905,0.302,Medium
+E02210,Sales,3,7720.0,No,2,1,1.094,0.302,Medium
+E01492,Customer Service,4,12130.0,Yes,1,1,1.302,0.301,Medium
+E02321,Sales,1,3230.0,No,2,0,1.013,0.301,Medium
+E02936,Finance,2,5150.0,No,1,0,0.97,0.301,Medium
+E01928,Operations,1,3390.0,Yes,3,0,1.108,0.301,Medium
+E00328,Human Resources,3,8050.0,Yes,4,3,1.177,0.301,Medium
+E01389,IT,1,4520.0,Yes,1,3,1.183,0.301,Medium
+E02228,Operations,2,4800.0,No,4,0,1.056,0.301,Medium
+E00214,IT,2,5410.0,No,4,2,0.938,0.301,Medium
+E01106,Marketing,1,3510.0,No,3,2,1.082,0.3,Low
+E00197,Sales,2,5010.0,No,4,0,1.044,0.3,Low
+E03960,Customer Service,3,7130.0,No,3,0,1.181,0.3,Low
+E03789,IT,1,4090.0,No,3,0,1.071,0.3,Low
+E01105,Customer Service,1,2670.0,No,4,3,0.971,0.3,Low
+E01758,Sales,4,10980.0,No,3,2,1.02,0.3,Low
+E03944,Sales,4,12010.0,No,3,2,1.116,0.299,Low
+E00227,IT,4,13480.0,No,2,6,1.003,0.299,Low
+E02751,Marketing,3,8360.0,No,4,4,1.15,0.299,Low
+E00791,Marketing,2,4140.0,No,2,0,0.901,0.299,Low
+E00817,Operations,1,3560.0,No,2,2,1.163,0.299,Low
+E03401,Finance,1,3710.0,No,1,0,1.093,0.299,Low
+E01776,Marketing,2,4470.0,No,3,0,0.973,0.298,Low
+E00525,Operations,2,4680.0,No,3,0,1.03,0.298,Low
+E01318,Sales,3,6390.0,No,4,0,0.906,0.298,Low
+E00064,Sales,3,5750.0,No,3,1,0.815,0.298,Low
+E01664,Operations,3,6340.0,No,3,2,0.926,0.298,Low
+E01798,Marketing,4,11390.0,Yes,2,1,1.038,0.298,Low
+E00120,Finance,1,3690.0,No,3,4,1.087,0.298,Low
+E00081,Sales,4,11810.0,No,4,0,1.098,0.297,Low
+E03769,Human Resources,2,4080.0,No,3,2,0.899,0.297,Low
+E02716,Customer Service,4,9340.0,No,4,3,1.002,0.297,Low
+E01890,Operations,1,3010.0,No,2,2,0.984,0.297,Low
+E01856,Operations,2,5090.0,No,3,0,1.12,0.297,Low
+E01416,Operations,1,4290.0,No,1,0,1.402,0.297,Low
+E03938,Finance,4,12170.0,No,2,0,0.985,0.296,Low
+E03257,IT,1,4030.0,No,4,0,1.055,0.296,Low
+E02223,Sales,4,11230.0,No,3,2,1.044,0.296,Low
+E02837,Sales,3,7880.0,No,4,0,1.117,0.295,Low
+E00716,Customer Service,5,12150.0,No,2,0,0.838,0.295,Low
+E00279,IT,3,10290.0,No,2,1,1.197,0.295,Low
+E03860,IT,1,3730.0,No,3,0,0.976,0.295,Low
+E00642,IT,1,3610.0,No,4,0,0.945,0.295,Low
+E03561,Finance,2,5650.0,No,3,0,1.064,0.295,Low
+E03427,Finance,1,3370.0,No,4,1,0.993,0.294,Low
+E01044,Operations,4,11380.0,No,3,5,1.076,0.294,Low
+E02052,IT,2,6170.0,No,2,1,1.069,0.294,Low
+E01770,Finance,2,5870.0,No,3,0,1.105,0.294,Low
+E01630,Sales,3,7330.0,No,2,0,1.039,0.294,Low
+E02956,IT,3,8280.0,No,4,0,0.963,0.294,Low
+E02838,Operations,4,11730.0,No,1,0,1.109,0.293,Low
+E03505,Customer Service,3,7500.0,Yes,4,0,1.243,0.293,Low
+E01726,Operations,2,5010.0,No,4,0,1.102,0.293,Low
+E02545,Sales,4,13610.0,No,1,0,1.265,0.293,Low
+E01972,Human Resources,2,4760.0,No,3,2,1.048,0.293,Low
+E03796,Sales,2,4760.0,No,3,1,0.992,0.292,Low
+E02902,Human Resources,1,3100.0,No,1,2,1.04,0.292,Low
+E00615,Sales,5,16610.0,No,1,0,1.004,0.292,Low
+E02538,Operations,3,7660.0,Yes,4,2,1.118,0.291,Low
+E02915,Sales,4,10210.0,No,4,0,0.949,0.291,Low
+E03448,Marketing,1,3250.0,No,3,1,1.002,0.291,Low
+E00305,IT,3,8660.0,No,3,3,1.008,0.291,Low
+E00317,Marketing,3,8500.0,Yes,2,5,1.169,0.29,Low
+E03093,Operations,3,7140.0,No,3,2,1.042,0.29,Low
+E03539,Sales,5,20680.0,Yes,4,1,1.25,0.29,Low
+E02521,Customer Service,5,13760.0,No,3,4,0.949,0.29,Low
+E00770,Customer Service,1,2150.0,No,3,1,0.782,0.29,Low
+E02337,Customer Service,2,4190.0,No,4,0,1.015,0.29,Low
+E02342,Sales,3,7920.0,No,1,0,1.123,0.29,Low
+E01971,IT,5,18180.0,No,1,2,0.904,0.29,Low
+E00608,Operations,3,7300.0,No,2,1,1.066,0.289,Low
+E00906,Operations,3,6670.0,No,4,2,0.974,0.289,Low
+E02083,Operations,5,15440.0,No,3,2,0.968,0.289,Low
+E00045,IT,2,4420.0,No,4,5,0.766,0.289,Low
+E03624,Sales,2,5550.0,No,2,6,1.156,0.289,Low
+E01756,Sales,5,16480.0,No,4,2,0.996,0.289,Low
+E02896,Marketing,3,5980.0,No,3,3,0.823,0.289,Low
+E03874,IT,4,11420.0,No,1,0,0.85,0.289,Low
+E00710,Operations,3,6850.0,No,2,3,1.0,0.288,Low
+E00938,Operations,4,9320.0,No,4,3,0.881,0.288,Low
+E02880,Finance,3,8170.0,No,2,1,1.018,0.288,Low
+E01759,Human Resources,2,4350.0,No,2,6,0.958,0.288,Low
+E00182,Finance,4,14610.0,Yes,4,1,1.182,0.288,Low
+E03385,Customer Service,5,12860.0,No,4,4,0.887,0.287,Low
+E03390,Sales,1,4250.0,No,2,0,1.332,0.287,Low
+E00804,Customer Service,4,7590.0,No,3,0,0.814,0.287,Low
+E03694,IT,3,10470.0,No,3,0,1.218,0.287,Low
+E01698,IT,3,8850.0,No,4,0,1.03,0.287,Low
+E01584,Customer Service,4,10100.0,No,1,1,1.084,0.286,Low
+E00973,Human Resources,4,12930.0,Yes,4,2,1.186,0.286,Low
+E03701,Customer Service,1,2660.0,No,3,1,0.967,0.286,Low
+E01497,Sales,1,2850.0,No,3,2,0.893,0.286,Low
+E01375,Finance,4,12440.0,No,4,0,1.006,0.286,Low
+E02624,Sales,1,3480.0,No,4,3,1.091,0.285,Low
+E00213,Sales,4,11810.0,No,3,1,1.098,0.285,Low
+E00459,IT,3,8110.0,No,4,0,0.944,0.285,Low
+E00554,Sales,2,3970.0,No,2,0,0.827,0.285,Low
+E02769,Operations,2,4500.0,No,2,0,0.99,0.285,Low
+E01628,Customer Service,3,5900.0,No,4,0,0.978,0.285,Low
+E00075,Sales,5,18160.0,No,1,3,1.097,0.284,Low
+E02025,Operations,3,7410.0,No,3,0,1.082,0.284,Low
+E02649,Operations,4,12120.0,Yes,4,0,1.146,0.284,Low
+E02127,Sales,2,5180.0,No,3,2,1.079,0.284,Low
+E03994,Operations,4,10610.0,No,1,1,1.003,0.284,Low
+E00505,IT,2,5830.0,No,2,0,1.01,0.283,Low
+E01815,Customer Service,2,5220.0,No,2,3,1.264,0.283,Low
+E03733,Sales,1,3760.0,No,2,0,1.179,0.283,Low
+E02967,IT,1,3650.0,No,1,0,0.955,0.283,Low
+E01945,Marketing,3,6920.0,Yes,3,3,0.952,0.283,Low
+E02319,Finance,1,4090.0,Yes,3,1,1.205,0.283,Low
+E02708,IT,4,13140.0,No,2,1,0.978,0.283,Low
+E02839,Operations,3,7140.0,No,3,2,1.042,0.282,Low
+E02532,IT,3,8670.0,No,3,0,1.009,0.282,Low
+E00218,Finance,5,19720.0,No,4,1,1.073,0.282,Low
+E00964,Customer Service,5,14700.0,No,1,3,1.013,0.281,Low
+E00810,Marketing,1,2420.0,No,3,0,0.746,0.281,Low
+E02691,Sales,4,10040.0,No,1,3,0.933,0.281,Low
+E01363,IT,2,6470.0,No,4,1,1.121,0.281,Low
+E03929,Sales,4,12000.0,No,2,0,1.115,0.28,Low
+E01020,Sales,1,3230.0,No,3,3,1.013,0.28,Low
+E02825,Finance,1,3200.0,No,4,0,0.943,0.28,Low
+E00785,IT,4,15170.0,Yes,4,0,1.129,0.28,Low
+E01529,IT,1,3850.0,No,1,0,1.008,0.279,Low
+E00980,IT,3,11060.0,Yes,3,1,1.287,0.278,Low
+E02995,Customer Service,4,11100.0,No,2,2,1.191,0.278,Low
+E00461,Operations,2,4240.0,No,3,0,0.933,0.278,Low
+E01681,Finance,1,3230.0,No,2,0,0.951,0.278,Low
+E03123,Customer Service,3,5640.0,No,3,0,0.935,0.278,Low
+E03965,IT,2,6630.0,Yes,3,1,1.149,0.278,Low
+E00874,Marketing,2,5140.0,No,1,1,1.119,0.278,Low
+E00547,Customer Service,2,4140.0,No,2,3,1.002,0.278,Low
+E01717,Operations,4,10410.0,No,2,0,0.984,0.278,Low
+E03308,Operations,2,5280.0,Yes,4,2,1.162,0.278,Low
+E00265,Sales,4,11110.0,No,1,2,1.033,0.278,Low
+E01830,Operations,4,13480.0,Yes,2,2,1.274,0.277,Low
+E03620,Customer Service,5,16450.0,Yes,3,1,1.134,0.277,Low
+E02580,Operations,3,7790.0,No,4,0,1.137,0.277,Low
+E00205,Operations,3,5170.0,No,3,1,0.755,0.277,Low
+E02928,Operations,2,4710.0,No,3,1,1.036,0.276,Low
+E03846,Operations,4,13110.0,Yes,3,0,1.239,0.276,Low
+E01235,Sales,4,9930.0,No,2,0,0.923,0.276,Low
+E03117,Finance,3,7340.0,No,2,2,0.915,0.276,Low
+E01915,Marketing,3,7690.0,No,3,0,1.058,0.275,Low
+E02462,Sales,4,11760.0,No,4,5,1.093,0.275,Low
+E01523,Finance,2,5760.0,No,1,0,1.085,0.275,Low
+E01505,Customer Service,4,9690.0,No,2,0,1.04,0.275,Low
+E02608,Human Resources,3,8550.0,No,2,0,1.25,0.275,Low
+E02196,Sales,3,7590.0,No,4,4,1.076,0.275,Low
+E03124,Operations,2,4790.0,No,2,1,1.054,0.275,Low
+E03482,Customer Service,4,9260.0,No,4,2,0.994,0.275,Low
+E01665,Sales,1,3230.0,No,3,1,1.013,0.275,Low
+E03517,Marketing,2,4380.0,No,3,1,0.953,0.275,Low
+E03572,Operations,2,4440.0,No,4,5,0.977,0.275,Low
+E01606,Customer Service,4,9540.0,No,4,4,1.024,0.274,Low
+E01079,Customer Service,4,8040.0,No,3,1,0.863,0.274,Low
+E02658,Customer Service,2,4130.0,No,1,0,1.0,0.274,Low
+E02343,IT,2,6310.0,No,1,3,1.094,0.274,Low
+E02737,Marketing,3,10160.0,Yes,4,2,1.398,0.273,Low
+E01150,Operations,3,7630.0,Yes,4,1,1.114,0.273,Low
+E01212,Sales,2,5380.0,No,1,0,1.121,0.273,Low
+E01597,IT,3,7770.0,No,1,2,0.904,0.273,Low
+E00487,Customer Service,1,2870.0,No,3,0,1.044,0.273,Low
+E00146,Marketing,2,4560.0,No,1,4,0.992,0.273,Low
+E02044,Operations,1,3340.0,No,2,2,1.092,0.273,Low
+E02339,Sales,3,6860.0,No,3,1,0.972,0.273,Low
+E03148,Marketing,4,11910.0,No,1,3,1.085,0.272,Low
+E02727,Finance,3,9780.0,No,1,0,1.219,0.272,Low
+E03349,Marketing,1,3820.0,Yes,4,0,1.177,0.272,Low
+E01870,Sales,2,4990.0,No,4,1,1.04,0.272,Low
+E02256,Human Resources,2,4510.0,No,4,2,0.993,0.272,Low
+E03440,IT,1,4910.0,Yes,3,0,1.285,0.272,Low
+E01623,Finance,3,8030.0,No,2,0,1.001,0.271,Low
+E01683,IT,2,6080.0,No,4,1,1.054,0.271,Low
+E01274,Customer Service,4,8780.0,No,3,2,0.942,0.271,Low
+E00520,IT,5,17130.0,No,4,3,0.851,0.271,Low
+E00419,IT,2,5680.0,No,4,1,0.984,0.271,Low
+E00552,IT,4,14150.0,No,4,1,1.053,0.271,Low
+E03336,Operations,2,4180.0,No,1,2,0.92,0.271,Low
+E02841,IT,4,14000.0,No,3,1,1.042,0.271,Low
+E02781,Finance,3,7980.0,No,2,1,0.994,0.27,Low
+E03340,IT,4,11810.0,No,1,0,0.879,0.27,Low
+E01689,Operations,1,4300.0,Yes,3,4,1.405,0.27,Low
+E03630,Human Resources,2,4940.0,No,4,1,1.088,0.27,Low
+E00453,Finance,3,8470.0,No,4,7,1.055,0.27,Low
+E01030,Customer Service,3,7610.0,No,3,4,1.261,0.27,Low
+E00712,Sales,1,3290.0,No,4,0,1.031,0.27,Low
+E03268,Customer Service,2,4280.0,No,4,0,1.036,0.269,Low
+E02392,IT,3,9250.0,No,2,0,1.076,0.269,Low
+E00187,Sales,2,5500.0,No,4,1,1.146,0.269,Low
+E03777,Marketing,1,3290.0,No,1,2,1.014,0.269,Low
+E00174,Sales,2,5990.0,No,3,0,1.248,0.269,Low
+E02493,Sales,3,8530.0,Yes,4,1,1.209,0.268,Low
+E01757,Operations,2,4230.0,No,3,1,0.931,0.268,Low
+E01233,Sales,2,5290.0,No,2,0,1.102,0.268,Low
+E00786,Sales,1,3400.0,No,2,1,1.066,0.268,Low
+E03854,Marketing,1,3940.0,No,1,0,1.214,0.268,Low
+E03282,Operations,1,3440.0,Yes,3,1,1.124,0.268,Low
+E02869,Operations,2,4180.0,No,2,1,0.92,0.268,Low
+E02494,Operations,1,3230.0,No,3,2,1.056,0.267,Low
+E00503,Finance,4,9700.0,No,4,1,0.785,0.267,Low
+E00046,IT,4,10960.0,No,3,0,0.815,0.267,Low
+E03474,Operations,4,13280.0,Yes,2,1,1.255,0.267,Low
+E02385,Marketing,3,6310.0,No,3,1,0.868,0.267,Low
+E03866,Customer Service,3,6510.0,No,2,0,1.079,0.266,Low
+E03356,Finance,3,8170.0,No,2,0,1.018,0.266,Low
+E01700,Finance,1,3120.0,No,3,0,0.919,0.266,Low
+E00953,Finance,4,10780.0,No,1,1,0.872,0.266,Low
+E03804,Operations,2,4780.0,No,1,1,1.052,0.266,Low
+E00161,Sales,3,9270.0,Yes,4,1,1.314,0.266,Low
+E01836,Sales,5,16540.0,No,4,1,0.999,0.265,Low
+E02612,Operations,2,5240.0,No,1,1,1.153,0.265,Low
+E01138,Customer Service,4,10410.0,No,4,1,1.117,0.265,Low
+E03097,Customer Service,3,6340.0,No,1,1,1.051,0.265,Low
+E03058,Operations,1,3440.0,No,4,3,1.124,0.265,Low
+E01422,Operations,1,2500.0,No,4,0,0.817,0.265,Low
+E03432,Marketing,3,9710.0,Yes,2,1,1.336,0.265,Low
+E02904,Customer Service,1,2500.0,No,3,0,0.909,0.265,Low
+E01638,Finance,2,5260.0,No,1,0,0.991,0.264,Low
+E00723,Marketing,1,3310.0,No,3,1,1.02,0.264,Low
+E03028,Operations,1,2720.0,No,3,1,0.889,0.263,Low
+E01599,Sales,5,21800.0,No,2,6,1.317,0.263,Low
+E00699,IT,3,8590.0,No,1,1,0.999,0.263,Low
+E03291,Sales,2,4550.0,No,4,0,0.948,0.263,Low
+E03230,Operations,5,19240.0,No,1,0,1.206,0.263,Low
+E01750,Customer Service,2,4840.0,No,4,0,1.172,0.263,Low
+E03621,Human Resources,3,8020.0,No,3,1,1.173,0.263,Low
+E03281,Operations,2,5890.0,No,2,3,1.296,0.263,Low
+E00273,Operations,4,10920.0,No,3,2,1.032,0.263,Low
+E00830,Customer Service,1,2590.0,No,4,1,0.942,0.262,Low
+E03725,Operations,3,6260.0,No,2,2,0.914,0.262,Low
+E01530,Sales,3,6860.0,No,4,0,0.972,0.261,Low
+E01779,Sales,2,4890.0,No,3,0,1.019,0.261,Low
+E03260,Customer Service,1,3380.0,No,3,1,1.229,0.26,Low
+E03700,Customer Service,3,7160.0,No,1,3,1.186,0.26,Low
+E03337,IT,3,8200.0,No,3,1,0.954,0.26,Low
+E01060,IT,2,4870.0,No,4,0,0.844,0.259,Low
+E01307,Sales,2,7030.0,No,3,1,1.465,0.259,Low
+E03002,Finance,3,6430.0,No,4,1,0.801,0.259,Low
+E02311,Sales,4,12750.0,No,2,3,1.185,0.259,Low
+E00108,IT,2,7860.0,Yes,3,0,1.362,0.258,Low
+E01644,Operations,5,18320.0,No,2,1,1.149,0.258,Low
+E00968,Operations,5,14300.0,No,3,0,0.897,0.258,Low
+E01300,Finance,4,12830.0,No,2,0,1.038,0.258,Low
+E02056,IT,1,4140.0,No,1,0,1.084,0.258,Low
+E02384,Customer Service,2,4020.0,No,3,0,0.973,0.258,Low
+E03569,Operations,2,4920.0,No,4,3,1.083,0.258,Low
+E01961,Customer Service,2,5160.0,No,3,3,1.249,0.257,Low
+E03042,Finance,1,3430.0,No,4,0,1.01,0.257,Low
+E03193,Finance,1,3610.0,No,2,1,1.063,0.257,Low
+E00603,Customer Service,2,4160.0,No,4,3,1.007,0.257,Low
+E01869,Operations,2,4350.0,No,3,1,0.957,0.256,Low
+E00589,Operations,1,3750.0,No,4,0,1.225,0.256,Low
+E03279,Customer Service,3,6590.0,No,2,1,1.092,0.256,Low
+E03898,Finance,2,5620.0,No,4,0,1.058,0.256,Low
+E01518,Finance,1,3180.0,No,3,0,0.937,0.255,Low
+E00278,IT,2,8130.0,Yes,2,2,1.409,0.255,Low
+E02720,Finance,2,6640.0,No,3,1,1.25,0.255,Low
+E00769,IT,4,12970.0,No,4,3,0.965,0.255,Low
+E02717,Finance,3,8080.0,No,3,1,1.007,0.255,Low
+E03782,IT,3,8590.0,No,3,1,0.999,0.254,Low
+E01086,Operations,3,6010.0,No,2,0,0.877,0.254,Low
+E01252,Sales,2,4970.0,No,4,1,1.035,0.254,Low
+E01949,Customer Service,3,7210.0,No,2,5,1.195,0.254,Low
+E03359,Customer Service,4,9930.0,No,3,1,1.065,0.253,Low
+E01428,Operations,3,7910.0,No,4,2,1.155,0.253,Low
+E03479,Operations,4,10500.0,No,1,1,0.992,0.253,Low
+E00851,Human Resources,2,4100.0,No,3,3,0.903,0.253,Low
+E00217,Finance,4,11920.0,No,4,1,0.964,0.253,Low
+E01554,Customer Service,1,3310.0,No,4,0,1.204,0.252,Low
+E02926,Operations,3,6940.0,No,4,0,1.013,0.252,Low
+E01966,Sales,2,6220.0,No,4,3,1.296,0.252,Low
+E00528,Human Resources,1,3660.0,Yes,4,1,1.228,0.251,Low
+E02690,Operations,4,8160.0,No,1,1,0.771,0.251,Low
+E02747,Human Resources,3,7170.0,No,4,0,1.048,0.251,Low
+E00919,Customer Service,4,10350.0,No,2,1,1.111,0.25,Low
+E00469,Operations,3,6500.0,No,4,1,0.949,0.25,Low
+E00104,Operations,1,2610.0,No,3,1,0.853,0.25,Low
+E03790,Human Resources,2,4420.0,No,3,0,0.974,0.25,Low
+E01056,Customer Service,3,6010.0,No,2,1,0.996,0.25,Low
+E00496,Sales,1,3600.0,No,1,0,1.129,0.249,Low
+E03170,Finance,4,9640.0,No,4,1,0.78,0.249,Low
+E03546,Customer Service,3,7120.0,No,3,1,1.18,0.249,Low
+E01041,Sales,2,5130.0,No,2,1,1.069,0.249,Low
+E02628,Sales,3,9440.0,Yes,4,2,1.338,0.249,Low
+E00551,Operations,3,7570.0,No,4,1,1.105,0.248,Low
+E00105,Finance,2,4780.0,No,4,1,0.9,0.248,Low
+E03213,IT,3,9130.0,No,3,2,1.062,0.248,Low
+E03732,Sales,3,7740.0,No,1,2,1.097,0.248,Low
+E03241,IT,4,12380.0,No,3,2,0.921,0.247,Low
+E01472,IT,2,6730.0,No,4,1,1.166,0.247,Low
+E01153,Operations,2,3840.0,No,4,0,0.845,0.247,Low
+E03735,Customer Service,2,6170.0,Yes,1,1,1.494,0.247,Low
+E02306,IT,3,9170.0,No,3,0,1.067,0.247,Low
+E00944,Marketing,3,6640.0,No,2,1,0.913,0.247,Low
+E00451,Operations,1,2680.0,No,4,1,0.876,0.247,Low
+E02400,Finance,2,5620.0,No,2,0,1.058,0.247,Low
+E03826,Operations,3,5700.0,No,4,0,0.832,0.247,Low
+E03974,Sales,1,2940.0,No,3,1,0.922,0.246,Low
+E00570,Customer Service,3,5760.0,No,3,1,0.954,0.246,Low
+E02866,Operations,1,3800.0,No,3,0,1.242,0.246,Low
+E00692,Sales,1,3680.0,No,1,0,1.154,0.246,Low
+E01595,Marketing,2,5890.0,No,3,0,1.282,0.246,Low
+E01727,Customer Service,3,7330.0,No,3,0,1.215,0.245,Low
+E03808,Customer Service,3,6040.0,No,2,1,1.001,0.245,Low
+E02080,Customer Service,3,6760.0,No,3,2,1.12,0.245,Low
+E02415,Finance,3,8020.0,No,3,1,0.999,0.244,Low
+E02887,Finance,4,9950.0,No,3,1,0.805,0.244,Low
+E02283,Operations,1,3740.0,Yes,3,0,1.222,0.244,Low
+E01795,Customer Service,3,6790.0,No,1,0,1.125,0.244,Low
+E03815,Sales,2,6970.0,No,2,1,1.452,0.244,Low
+E02822,Marketing,4,12280.0,No,2,2,1.119,0.243,Low
+E03139,Sales,1,3400.0,No,3,1,1.066,0.243,Low
+E00636,Operations,2,4680.0,No,4,2,1.03,0.243,Low
+E00284,Operations,1,2980.0,No,2,0,0.974,0.243,Low
+E03958,Operations,4,12240.0,No,2,0,1.157,0.242,Low
+E02353,Sales,1,3740.0,No,2,3,1.172,0.242,Low
+E03155,Finance,1,3450.0,No,3,2,1.016,0.242,Low
+E02809,Operations,1,3040.0,No,2,2,0.993,0.242,Low
+E02391,Customer Service,2,4810.0,No,4,2,1.165,0.241,Low
+E02367,Sales,5,15220.0,No,2,3,0.92,0.241,Low
+E00274,Marketing,3,7270.0,No,3,1,1.0,0.241,Low
+E00395,Customer Service,1,2560.0,No,1,2,0.931,0.241,Low
+E00835,Sales,1,4880.0,Yes,1,1,1.53,0.241,Low
+E00839,Customer Service,4,12020.0,No,2,2,1.29,0.241,Low
+E00526,IT,3,8650.0,No,3,0,1.006,0.24,Low
+E00518,IT,3,11530.0,Yes,1,0,1.341,0.24,Low
+E02954,Operations,4,12840.0,No,1,1,1.214,0.24,Low
+E01009,Sales,3,9300.0,No,4,9,1.318,0.24,Low
+E02471,Customer Service,2,4230.0,No,4,3,1.024,0.24,Low
+E02847,Marketing,4,11590.0,No,4,1,1.056,0.24,Low
+E00658,Customer Service,4,7460.0,No,3,0,0.8,0.24,Low
+E00460,Customer Service,1,3090.0,No,3,1,1.124,0.239,Low
+E01647,Operations,1,3820.0,Yes,4,0,1.248,0.238,Low
+E02734,Marketing,2,4230.0,No,4,1,0.921,0.238,Low
+E00782,Operations,3,6680.0,No,3,0,0.975,0.237,Low
+E00472,Customer Service,3,6440.0,No,2,5,1.067,0.237,Low
+E01926,Sales,2,4510.0,No,2,4,0.94,0.237,Low
+E03408,Marketing,3,7000.0,No,4,1,0.963,0.237,Low
+E00848,Sales,3,8820.0,No,1,0,1.25,0.236,Low
+E00372,Sales,3,8180.0,No,1,2,1.159,0.236,Low
+E01631,Customer Service,3,6440.0,No,4,0,1.067,0.236,Low
+E01851,Customer Service,2,4170.0,No,3,6,1.01,0.236,Low
+E03158,IT,1,5130.0,No,4,1,1.343,0.236,Low
+E02980,IT,4,11680.0,No,2,4,0.869,0.236,Low
+E01069,IT,2,6790.0,No,3,0,1.177,0.236,Low
+E02900,Operations,3,7680.0,No,1,0,1.121,0.236,Low
+E00787,Marketing,1,3330.0,No,4,0,1.026,0.235,Low
+E02317,IT,3,10660.0,No,3,1,1.24,0.235,Low
+E01426,Human Resources,3,7040.0,No,2,0,1.029,0.235,Low
+E02144,Customer Service,3,4820.0,No,4,1,0.799,0.235,Low
+E02220,Marketing,4,11170.0,Yes,4,0,1.018,0.235,Low
+E01538,IT,3,7320.0,No,4,2,0.852,0.234,Low
+E02892,Finance,3,7020.0,No,4,2,0.875,0.234,Low
+E02820,Human Resources,2,4920.0,No,3,6,1.084,0.234,Low
+E00861,Operations,2,3700.0,No,2,0,0.814,0.234,Low
+E03988,Customer Service,3,7090.0,No,4,1,1.175,0.233,Low
+E00234,Marketing,1,3240.0,No,3,0,0.998,0.233,Low
+E01385,Marketing,3,6470.0,No,4,4,0.89,0.233,Low
+E03053,Operations,4,11780.0,No,4,2,1.113,0.233,Low
+E03351,IT,4,10610.0,No,3,1,0.789,0.233,Low
+E01796,Finance,2,5780.0,No,4,0,1.089,0.233,Low
+E02542,IT,1,4360.0,No,3,2,1.141,0.233,Low
+E00434,Operations,3,8280.0,Yes,3,3,1.209,0.232,Low
+E01847,Finance,2,5850.0,No,3,5,1.102,0.232,Low
+E02470,Operations,4,9540.0,No,2,0,0.902,0.232,Low
+E02425,Operations,3,7220.0,No,3,0,1.054,0.232,Low
+E02587,Finance,3,8570.0,No,3,0,1.068,0.232,Low
+E03899,Operations,1,3350.0,No,3,2,1.095,0.231,Low
+E00540,Operations,2,5020.0,No,4,1,1.105,0.231,Low
+E01804,Customer Service,3,5750.0,No,4,0,0.953,0.231,Low
+E00298,Finance,4,12570.0,No,3,4,1.017,0.231,Low
+E00116,IT,2,5660.0,No,4,2,0.981,0.23,Low
+E02073,Customer Service,2,4840.0,No,4,1,1.172,0.23,Low
+E03709,Human Resources,4,11310.0,No,4,0,1.037,0.229,Low
+E00266,Sales,3,7920.0,No,3,1,1.123,0.229,Low
+E00019,IT,1,4500.0,No,4,0,1.178,0.229,Low
+E02448,IT,5,18290.0,Yes,4,0,0.909,0.229,Low
+E01825,Finance,2,6290.0,No,1,0,1.185,0.229,Low
+E02515,Marketing,1,4060.0,No,1,1,1.251,0.228,Low
+E02960,Operations,4,12030.0,No,2,1,1.137,0.228,Low
+E02304,Customer Service,1,2770.0,No,1,2,1.007,0.228,Low
+E00295,IT,1,4480.0,No,1,0,1.173,0.228,Low
+E02082,Operations,5,14060.0,No,4,0,0.882,0.228,Low
+E01780,Finance,3,7560.0,No,3,4,0.942,0.228,Low
+E01228,Customer Service,2,4350.0,No,1,0,1.053,0.228,Low
+E01950,Operations,2,5210.0,No,3,2,1.146,0.228,Low
+E02687,Customer Service,1,2950.0,No,4,0,1.073,0.227,Low
+E00913,Finance,2,6470.0,No,1,0,1.218,0.227,Low
+E00538,Customer Service,3,5900.0,No,4,1,0.978,0.227,Low
+E02648,Operations,2,4570.0,No,2,2,1.006,0.227,Low
+E01442,Customer Service,4,10110.0,No,3,1,1.085,0.227,Low
+E00204,Sales,3,8550.0,No,3,0,1.212,0.227,Low
+E03443,Marketing,2,4050.0,No,3,1,0.881,0.227,Low
+E02793,Operations,3,6550.0,No,3,2,0.956,0.227,Low
+E00215,Finance,4,13360.0,No,3,1,1.081,0.226,Low
+E03816,Customer Service,2,3460.0,No,4,2,0.838,0.226,Low
+E03338,Customer Service,1,2670.0,No,4,0,0.971,0.226,Low
+E02422,Finance,4,14630.0,No,1,1,1.184,0.226,Low
+E02663,Sales,2,5230.0,No,4,1,1.09,0.226,Low
+E01767,IT,3,8190.0,No,3,0,0.953,0.226,Low
+E01545,Customer Service,2,3870.0,No,4,2,0.937,0.225,Low
+E02123,IT,4,10820.0,No,2,0,0.805,0.225,Low
+E00052,Operations,2,4980.0,No,3,2,1.096,0.225,Low
+E03151,Operations,5,16220.0,No,1,3,1.017,0.225,Low
+E01861,Sales,2,5340.0,No,2,0,1.112,0.225,Low
+E03951,Sales,1,3600.0,No,3,2,1.129,0.225,Low
+E01806,Customer Service,1,3210.0,No,3,0,1.167,0.225,Low
+E02942,Finance,3,9230.0,No,2,1,1.15,0.225,Low
+E01449,Finance,2,5680.0,No,1,2,1.07,0.225,Low
+E01841,Marketing,5,18120.0,No,1,2,1.028,0.224,Low
+E02487,Marketing,3,8420.0,No,3,4,1.158,0.224,Low
+E00695,Sales,3,10200.0,Yes,3,1,1.446,0.224,Low
+E02322,Operations,1,2920.0,No,3,0,0.954,0.224,Low
+E02000,Sales,1,3420.0,No,4,3,1.072,0.224,Low
+E00397,IT,5,22410.0,No,4,0,1.114,0.223,Low
+E02692,Sales,3,8850.0,No,2,2,1.254,0.223,Low
+E01396,Sales,1,3080.0,No,4,1,0.966,0.223,Low
+E02417,Customer Service,4,11490.0,Yes,4,0,1.233,0.223,Low
+E02087,Human Resources,1,3560.0,No,1,0,1.195,0.223,Low
+E00138,Operations,2,4630.0,No,3,1,1.019,0.223,Low
+E02431,Sales,3,8110.0,No,4,0,1.15,0.223,Low
+E02284,Sales,4,9990.0,No,4,2,0.928,0.223,Low
+E01882,Customer Service,2,4850.0,No,3,0,1.174,0.223,Low
+E03469,Operations,2,5100.0,No,2,1,1.122,0.222,Low
+E01174,Human Resources,2,4560.0,No,3,3,1.004,0.222,Low
+E01439,Operations,4,14590.0,Yes,3,0,1.379,0.222,Low
+E02562,Customer Service,3,8030.0,No,2,2,1.331,0.222,Low
+E02745,Sales,1,3120.0,No,3,0,0.978,0.221,Low
+E02923,Marketing,2,4360.0,No,4,3,0.949,0.221,Low
+E01812,IT,4,14470.0,Yes,3,0,1.077,0.221,Low
+E03176,Sales,4,11290.0,No,3,2,1.049,0.221,Low
+E00573,Marketing,3,8350.0,Yes,1,1,1.149,0.221,Low
+E03668,Customer Service,1,2700.0,No,4,3,0.982,0.221,Low
+E03485,IT,3,10670.0,No,3,4,1.241,0.221,Low
+E02314,Sales,1,3460.0,No,4,2,1.085,0.221,Low
+E00793,Marketing,1,3070.0,No,1,1,0.946,0.22,Low
+E03412,IT,2,7230.0,No,3,1,1.253,0.22,Low
+E03907,Human Resources,2,4980.0,No,2,1,1.097,0.22,Low
+E02174,Operations,1,2980.0,No,3,1,0.974,0.22,Low
+E00245,Sales,1,3720.0,No,2,0,1.166,0.22,Low
+E00486,Operations,3,6850.0,No,2,0,1.0,0.219,Low
+E03133,Operations,1,3550.0,No,1,1,1.16,0.219,Low
+E03373,IT,2,7520.0,No,1,0,1.303,0.218,Low
+E02591,Operations,1,3220.0,No,4,0,1.052,0.218,Low
+E03341,Finance,2,4830.0,No,3,2,0.91,0.218,Low
+E00413,Human Resources,2,3910.0,No,4,1,0.861,0.218,Low
+E03372,IT,3,9020.0,No,1,4,1.049,0.218,Low
+E02354,Customer Service,2,3720.0,No,3,2,0.901,0.218,Low
+E00239,Operations,1,3600.0,No,1,0,1.176,0.218,Low
+E01053,IT,2,6080.0,No,4,0,1.054,0.217,Low
+E02997,Operations,3,6950.0,No,4,0,1.015,0.217,Low
+E01999,Sales,2,4800.0,No,3,3,1.0,0.217,Low
+E02684,Finance,5,17660.0,Yes,3,2,0.961,0.217,Low
+E03614,Sales,2,4780.0,No,3,2,0.996,0.217,Low
+E00809,Operations,2,4820.0,No,2,2,1.061,0.217,Low
+E03050,IT,2,7760.0,No,1,3,1.345,0.216,Low
+E00605,Sales,1,3760.0,No,3,9,1.179,0.216,Low
+E01070,IT,5,22660.0,No,1,0,1.126,0.216,Low
+E02909,IT,3,7520.0,No,2,2,0.875,0.216,Low
+E03254,Operations,4,13150.0,Yes,2,0,1.243,0.215,Low
+E02200,Sales,2,4870.0,No,3,0,1.015,0.215,Low
+E01810,Marketing,3,8060.0,No,1,0,1.109,0.215,Low
+E01626,Sales,3,8510.0,No,2,0,1.206,0.214,Low
+E02623,Customer Service,5,14930.0,No,3,1,1.029,0.214,Low
+E00450,Finance,2,6850.0,No,4,3,1.29,0.214,Low
+E01556,Sales,4,12260.0,No,3,0,1.139,0.214,Low
+E01286,Finance,4,13970.0,No,2,4,1.13,0.213,Low
+E03248,Operations,3,5660.0,No,3,4,0.826,0.213,Low
+E01456,Customer Service,2,5000.0,No,2,5,1.211,0.213,Low
+E01502,IT,1,4290.0,No,4,0,1.123,0.213,Low
+E00788,Sales,4,11350.0,No,2,3,1.055,0.213,Low
+E02674,Human Resources,2,4270.0,No,3,0,0.941,0.212,Low
+E00088,Customer Service,3,7670.0,No,1,0,1.271,0.212,Low
+E00974,Operations,3,6570.0,No,2,0,0.959,0.212,Low
+E01857,Operations,1,3680.0,No,4,0,1.203,0.212,Low
+E00467,Finance,3,8510.0,No,3,5,1.06,0.212,Low
+E02088,Customer Service,1,2830.0,No,4,0,1.029,0.211,Low
+E01682,IT,5,24060.0,No,3,3,1.196,0.211,Low
+E00532,Sales,2,5950.0,No,1,1,1.24,0.21,Low
+E02207,Sales,3,8040.0,No,4,1,1.14,0.21,Low
+E01567,Operations,2,5230.0,No,4,1,1.151,0.21,Low
+E00877,IT,3,9800.0,No,1,2,1.14,0.209,Low
+E01340,IT,2,4770.0,No,2,1,0.827,0.209,Low
+E00262,IT,3,11180.0,No,4,3,1.301,0.209,Low
+E00347,Marketing,1,3170.0,No,2,2,0.977,0.209,Low
+E03383,Human Resources,2,4570.0,No,1,0,1.007,0.209,Low
+E00462,IT,3,9260.0,No,2,1,1.077,0.209,Low
+E02560,Sales,2,4350.0,No,3,2,0.906,0.209,Low
+E00208,Human Resources,3,6740.0,No,4,2,0.985,0.209,Low
+E00289,IT,2,5930.0,No,4,0,1.028,0.208,Low
+E03138,Sales,4,14450.0,No,3,0,1.343,0.208,Low
+E01666,Operations,3,6560.0,No,4,0,0.958,0.208,Low
+E02840,Customer Service,1,2420.0,No,3,0,0.88,0.208,Low
+E03625,Finance,4,15220.0,Yes,4,0,1.231,0.208,Low
+E03638,Finance,1,3430.0,No,4,2,1.01,0.208,Low
+E02453,Operations,2,4220.0,No,3,2,0.928,0.208,Low
+E01868,Finance,5,18740.0,No,2,3,1.02,0.208,Low
+E00623,Marketing,3,6050.0,No,4,8,0.832,0.207,Low
+E00644,IT,4,14960.0,No,3,0,1.113,0.207,Low
+E02604,Marketing,1,2880.0,No,4,0,0.888,0.207,Low
+E01721,Customer Service,2,3930.0,No,4,5,0.952,0.207,Low
+E00875,Operations,1,3540.0,No,3,3,1.157,0.207,Low
+E01021,IT,4,13240.0,No,2,3,0.985,0.207,Low
+E02147,IT,1,4200.0,No,4,2,1.099,0.207,Low
+E03251,Marketing,3,8700.0,Yes,1,0,1.197,0.207,Low
+E02710,Operations,2,4460.0,No,3,4,0.981,0.206,Low
+E00417,Finance,2,5080.0,No,3,1,0.957,0.206,Low
+E02513,Finance,4,13130.0,No,2,1,1.062,0.206,Low
+E00416,IT,3,9900.0,No,3,0,1.152,0.206,Low
+E03516,Sales,3,6710.0,No,2,0,0.951,0.205,Low
+E02693,Sales,4,11080.0,No,2,1,1.03,0.204,Low
+E02948,Operations,5,18090.0,Yes,3,2,1.134,0.204,Low
+E01699,Sales,3,8100.0,Yes,4,0,1.148,0.204,Low
+E00690,Human Resources,3,7850.0,No,2,2,1.148,0.204,Low
+E03037,Operations,1,4150.0,No,2,0,1.356,0.203,Low
+E02873,Operations,1,3260.0,No,2,3,1.065,0.203,Low
+E00897,IT,2,6290.0,No,2,0,1.09,0.203,Low
+E03593,Finance,3,10100.0,No,3,1,1.259,0.203,Low
+E03658,Customer Service,2,4080.0,No,4,0,0.988,0.203,Low
+E02921,Human Resources,3,7250.0,No,3,1,1.06,0.203,Low
+E02031,IT,2,6720.0,No,3,1,1.165,0.202,Low
+E02146,Customer Service,3,7020.0,No,2,1,1.163,0.202,Low
+E00035,IT,4,15120.0,No,2,2,1.125,0.202,Low
+E02577,Sales,2,5590.0,No,1,1,1.165,0.202,Low
+E01063,Human Resources,2,4330.0,No,4,6,0.954,0.202,Low
+E00731,Sales,5,16540.0,No,1,2,0.999,0.202,Low
+E03710,Customer Service,2,4530.0,No,3,2,1.097,0.201,Low
+E02177,Sales,3,9000.0,No,3,0,1.276,0.201,Low
+E00754,Sales,5,20710.0,No,2,1,1.251,0.201,Low
+E03896,Sales,2,5960.0,No,1,0,1.242,0.201,Low
+E02601,IT,4,16220.0,No,4,1,1.207,0.201,Low
+E01256,Sales,2,6570.0,No,4,0,1.369,0.201,Low
+E03773,Customer Service,1,3460.0,No,2,1,1.258,0.201,Low
+E00932,Customer Service,3,8570.0,Yes,4,2,1.42,0.201,Low
+E00595,Customer Service,2,4820.0,No,3,3,1.167,0.201,Low
+E00243,Operations,4,9640.0,No,3,7,0.911,0.201,Low
+E03961,IT,3,9160.0,No,4,0,1.066,0.201,Low
+E03711,Marketing,2,5150.0,No,1,0,1.121,0.201,Low
+E02077,IT,1,4500.0,No,4,5,1.178,0.201,Low
+E00613,Finance,2,5690.0,No,4,0,1.072,0.2,Low
+E01494,Customer Service,5,13670.0,No,4,2,0.942,0.2,Low
+E03382,Human Resources,1,4000.0,Yes,3,0,1.342,0.2,Low
+E03869,Operations,2,5370.0,No,2,0,1.182,0.2,Low
+E03543,Customer Service,4,10290.0,No,4,2,1.104,0.2,Low
+E02301,Human Resources,2,4360.0,Yes,4,2,0.96,0.2,Low
+E01146,Operations,3,7790.0,No,2,0,1.137,0.2,Low
+E01068,Sales,5,17380.0,No,4,6,1.05,0.2,Low
+E02859,Sales,5,15110.0,No,3,2,0.913,0.2,Low
+E03239,IT,1,4500.0,No,1,0,1.178,0.199,Low
+E03947,Marketing,1,3210.0,No,3,1,0.989,0.199,Low
+E00001,IT,1,4110.0,No,3,0,1.076,0.199,Low
+E02303,IT,2,7400.0,No,2,0,1.282,0.199,Low
+E03494,Sales,1,3140.0,No,4,1,0.984,0.199,Low
+E01793,Human Resources,3,6810.0,No,4,2,0.996,0.199,Low
+E01938,Customer Service,2,4550.0,No,2,2,1.102,0.198,Low
+E03573,Operations,4,12120.0,No,1,3,1.146,0.198,Low
+E02081,Sales,1,3760.0,No,3,1,1.179,0.198,Low
+E01728,Customer Service,2,5100.0,No,2,2,1.235,0.198,Low
+E02175,Customer Service,3,6570.0,No,4,1,1.089,0.198,Low
+E02645,Customer Service,1,3630.0,No,4,0,1.32,0.198,Low
+E00288,Operations,2,5030.0,No,3,1,1.107,0.198,Low
+E02410,Marketing,2,4630.0,No,3,0,1.008,0.197,Low
+E02957,Human Resources,2,5480.0,No,2,1,1.207,0.197,Low
+E00688,Operations,1,4230.0,No,2,0,1.382,0.197,Low
+E02885,Finance,2,5530.0,No,4,0,1.041,0.197,Low
+E01277,Customer Service,3,6850.0,No,3,1,1.135,0.197,Low
+E02965,Operations,2,4970.0,No,4,2,1.094,0.196,Low
+E02662,Sales,4,12760.0,No,2,3,1.186,0.196,Low
+E03310,Operations,1,3090.0,No,3,0,1.01,0.196,Low
+E03699,Sales,4,13180.0,Yes,4,1,1.225,0.196,Low
+E03841,Customer Service,4,10740.0,No,3,2,1.152,0.196,Low
+E03848,Customer Service,3,5920.0,No,4,0,0.981,0.196,Low
+E03183,Sales,5,19430.0,No,1,10,1.174,0.196,Low
+E00324,Finance,1,3860.0,No,4,0,1.137,0.196,Low
+E00465,Finance,3,8700.0,No,2,7,1.084,0.196,Low
+E02032,Sales,4,12660.0,No,3,2,1.177,0.196,Low
+E02609,Sales,1,4530.0,No,3,0,1.42,0.196,Low
+E01289,Marketing,4,11520.0,No,4,0,1.05,0.195,Low
+E03685,Finance,4,14120.0,Yes,3,2,1.142,0.195,Low
+E03276,Sales,1,3790.0,No,4,1,1.188,0.195,Low
+E02478,Customer Service,5,15990.0,No,4,3,1.102,0.195,Low
+E02703,IT,2,6440.0,No,3,3,1.116,0.194,Low
+E01885,Operations,4,13130.0,Yes,3,1,1.241,0.194,Low
+E02020,Operations,1,3750.0,No,1,1,1.225,0.194,Low
+E03825,Operations,3,7610.0,No,4,1,1.111,0.193,Low
+E02976,Operations,1,3870.0,Yes,4,0,1.265,0.193,Low
+E00571,Finance,3,9730.0,No,4,0,1.212,0.193,Low
+E02289,Operations,1,4410.0,No,1,2,1.441,0.193,Low
+E00939,Sales,2,6950.0,No,1,4,1.448,0.193,Low
+E02235,Customer Service,1,3520.0,No,3,0,1.28,0.193,Low
+E03784,Human Resources,1,3070.0,No,1,1,1.03,0.193,Low
+E01197,Customer Service,1,2900.0,No,3,0,1.055,0.193,Low
+E01135,Marketing,4,10860.0,No,1,1,0.99,0.192,Low
+E01784,Customer Service,3,6340.0,No,2,1,1.051,0.192,Low
+E01103,Customer Service,2,4370.0,No,4,0,1.058,0.192,Low
+E02466,IT,1,3850.0,No,3,2,1.008,0.192,Low
+E03831,Finance,3,8320.0,No,4,1,1.037,0.191,Low
+E02334,Marketing,1,3330.0,No,1,3,1.026,0.191,Low
+E02114,IT,2,6630.0,No,3,0,1.149,0.191,Low
+E02834,Human Resources,3,6400.0,No,4,1,0.936,0.191,Low
+E01957,Finance,1,3420.0,No,3,0,1.007,0.19,Low
+E03674,Customer Service,3,7270.0,No,4,1,1.205,0.19,Low
+E00365,IT,4,13570.0,No,4,2,1.01,0.19,Low
+E00967,Customer Service,3,5880.0,No,3,1,0.974,0.19,Low
+E00686,Customer Service,1,2850.0,No,4,1,1.036,0.19,Low
+E03064,Sales,3,9250.0,Yes,3,0,1.311,0.189,Low
+E03615,Operations,3,7510.0,No,3,1,1.096,0.189,Low
+E02412,Customer Service,4,10660.0,No,2,1,1.144,0.189,Low
+E00637,Customer Service,2,4540.0,No,4,1,1.099,0.189,Low
+E03515,Marketing,2,5150.0,No,3,1,1.121,0.189,Low
+E01411,IT,2,7970.0,No,2,0,1.381,0.189,Low
+E01434,Finance,3,9340.0,No,4,0,1.164,0.189,Low
+E00521,Customer Service,4,10920.0,No,3,0,1.172,0.189,Low
+E02377,Sales,4,13250.0,No,4,4,1.231,0.189,Low
+E03609,Human Resources,1,3040.0,No,3,0,1.02,0.188,Low
+E01457,Marketing,1,3270.0,No,4,0,1.008,0.188,Low
+E00497,Finance,4,13490.0,No,3,3,1.091,0.188,Low
+E02972,Marketing,4,10540.0,No,1,1,0.96,0.188,Low
+E03953,Marketing,2,4870.0,No,1,2,1.06,0.188,Low
+E03145,Sales,2,5500.0,No,2,0,1.146,0.187,Low
+E00194,Operations,3,7800.0,No,4,2,1.139,0.187,Low
+E03094,Sales,2,5120.0,No,1,2,1.067,0.187,Low
+E01669,Human Resources,1,3510.0,No,4,0,1.178,0.187,Low
+E02368,Customer Service,1,3240.0,No,1,2,1.178,0.187,Low
+E00602,IT,1,4460.0,No,3,2,1.168,0.186,Low
+E02722,Human Resources,1,3610.0,No,1,0,1.211,0.186,Low
+E03721,Customer Service,5,15350.0,No,2,0,1.058,0.186,Low
+E00426,Human Resources,2,4190.0,No,1,2,0.923,0.186,Low
+E01495,Operations,5,14210.0,No,4,1,0.891,0.186,Low
+E02335,Finance,5,18880.0,No,3,1,1.028,0.186,Low
+E02553,Finance,1,3950.0,No,1,2,1.163,0.185,Low
+E00309,Sales,4,12190.0,No,4,1,1.133,0.185,Low
+E01377,Operations,3,5930.0,No,4,3,0.866,0.185,Low
+E01243,Operations,3,8100.0,No,3,1,1.182,0.185,Low
+E00109,Customer Service,1,3250.0,No,3,0,1.182,0.185,Low
+E02110,Operations,5,19400.0,Yes,4,0,1.216,0.185,Low
+E00190,Customer Service,3,8010.0,No,1,1,1.327,0.185,Low
+E01354,IT,4,13460.0,No,4,2,1.001,0.185,Low
+E00924,Sales,3,6940.0,No,3,2,0.984,0.184,Low
+E02508,Sales,1,3380.0,No,4,1,1.06,0.184,Low
+E00992,Sales,3,8780.0,No,4,1,1.245,0.184,Low
+E00339,Operations,2,4840.0,No,3,3,1.065,0.184,Low
+E02938,Marketing,2,3900.0,No,1,3,0.849,0.184,Low
+E01425,IT,4,13270.0,No,2,1,0.987,0.184,Low
+E03035,Operations,5,17940.0,No,3,0,1.125,0.183,Low
+E03740,Customer Service,1,3620.0,No,1,3,1.316,0.183,Low
+E00144,Finance,3,10170.0,Yes,3,1,1.267,0.183,Low
+E01612,Customer Service,4,10420.0,No,2,2,1.118,0.183,Low
+E01281,Customer Service,2,4650.0,No,4,0,1.126,0.183,Low
+E00358,Operations,4,10820.0,No,4,3,1.023,0.183,Low
+E01808,Sales,5,16350.0,No,2,1,0.988,0.183,Low
+E00504,Operations,1,3240.0,No,4,0,1.059,0.182,Low
+E00240,Marketing,4,11090.0,No,3,2,1.01,0.182,Low
+E01935,IT,3,10990.0,No,2,0,1.279,0.182,Low
+E00061,Operations,2,4620.0,No,3,0,1.017,0.182,Low
+E00294,IT,3,9500.0,No,3,0,1.105,0.182,Low
+E02440,Marketing,1,3380.0,No,2,0,1.042,0.182,Low
+E00534,IT,3,7280.0,No,4,1,0.847,0.182,Low
+E03433,Operations,3,8840.0,No,3,0,1.291,0.181,Low
+E00447,IT,2,5550.0,No,3,1,0.962,0.181,Low
+E00331,Operations,4,10140.0,No,4,1,0.958,0.181,Low
+E01956,Customer Service,1,3050.0,No,1,0,1.109,0.181,Low
+E02420,Marketing,3,6980.0,No,4,0,0.96,0.181,Low
+E01745,Customer Service,3,7860.0,No,4,4,1.302,0.181,Low
+E01266,Sales,1,3240.0,No,3,2,1.016,0.181,Low
+E01989,Customer Service,4,9700.0,No,4,2,1.041,0.18,Low
+E01778,Customer Service,1,3250.0,No,1,0,1.182,0.18,Low
+E03945,IT,3,9150.0,No,2,0,1.065,0.18,Low
+E03070,Human Resources,4,9960.0,No,3,2,0.913,0.18,Low
+E03095,IT,1,5520.0,No,1,1,1.445,0.18,Low
+E01974,IT,3,9450.0,No,3,2,1.099,0.179,Low
+E02180,Marketing,4,10350.0,No,3,3,0.943,0.179,Low
+E03012,Operations,1,2800.0,No,4,0,0.915,0.179,Low
+E00489,Marketing,3,8390.0,No,3,0,1.154,0.179,Low
+E01303,Customer Service,1,2670.0,No,1,2,0.971,0.179,Low
+E00498,Customer Service,1,2370.0,No,4,2,0.862,0.179,Low
+E00627,Finance,2,6290.0,No,4,1,1.185,0.179,Low
+E01125,Marketing,4,12470.0,No,4,0,1.136,0.178,Low
+E02376,Sales,3,7990.0,No,2,0,1.133,0.178,Low
+E01587,Finance,3,8230.0,No,3,1,1.026,0.178,Low
+E03422,Operations,2,3890.0,No,4,2,0.856,0.178,Low
+E00739,Operations,3,6890.0,No,4,3,1.006,0.178,Low
+E00514,IT,2,6140.0,No,4,0,1.064,0.178,Low
+E01271,Operations,4,10560.0,No,2,1,0.998,0.178,Low
+E03845,Sales,3,7840.0,No,3,1,1.111,0.178,Low
+E00990,Customer Service,5,16820.0,No,4,0,1.16,0.178,Low
+E03751,Operations,5,15270.0,No,2,1,0.957,0.177,Low
+E02732,Finance,2,5310.0,No,2,1,1.0,0.177,Low
+E00995,Human Resources,2,4340.0,No,2,0,0.956,0.177,Low
+E01618,Operations,4,13260.0,No,4,1,1.253,0.177,Low
+E01478,IT,3,10160.0,No,1,5,1.182,0.177,Low
+E00254,Customer Service,2,4580.0,No,4,0,1.109,0.177,Low
+E01465,Marketing,2,4110.0,No,4,5,0.894,0.176,Low
+E02675,Operations,3,8160.0,No,4,1,1.191,0.176,Low
+E00410,Finance,3,6980.0,No,4,2,0.87,0.176,Low
+E03109,IT,1,3740.0,No,3,3,0.979,0.176,Low
+E03583,Marketing,5,17130.0,No,3,1,0.972,0.176,Low
+E02229,IT,2,7620.0,No,1,0,1.321,0.176,Low
+E00983,Marketing,4,12490.0,No,1,0,1.138,0.175,Low
+E03215,IT,3,10160.0,No,3,1,1.182,0.175,Low
+E03875,Finance,2,5620.0,No,4,2,1.058,0.175,Low
+E03887,IT,4,15760.0,No,1,1,1.173,0.175,Low
+E03877,Sales,3,7990.0,No,2,4,1.133,0.175,Low
+E00050,Finance,3,10160.0,Yes,1,0,1.266,0.175,Low
+E03542,Operations,1,3360.0,No,3,0,1.098,0.175,Low
+E03212,Operations,1,3040.0,No,2,0,0.993,0.174,Low
+E03249,IT,1,4720.0,No,1,3,1.236,0.174,Low
+E03403,Finance,4,13650.0,No,3,2,1.104,0.174,Low
+E01735,Operations,5,19080.0,No,1,0,1.196,0.174,Low
+E01860,Human Resources,3,7440.0,Yes,2,0,1.088,0.174,Low
+E02429,Customer Service,2,4330.0,No,3,1,1.048,0.173,Low
+E01909,Marketing,3,6590.0,No,2,3,0.906,0.173,Low
+E00291,Sales,3,6110.0,No,3,0,0.866,0.173,Low
+E02999,Operations,4,13330.0,Yes,3,3,1.26,0.173,Low
+E00965,Sales,3,8000.0,No,2,0,1.134,0.173,Low
+E00561,Operations,3,8770.0,No,4,0,1.28,0.173,Low
+E01765,Sales,4,14660.0,No,1,5,1.362,0.173,Low
+E03091,IT,1,5460.0,No,3,0,1.429,0.173,Low
+E00028,Marketing,3,7690.0,No,4,3,1.058,0.172,Low
+E01637,IT,3,9950.0,No,3,3,1.158,0.172,Low
+E00421,Operations,4,13040.0,Yes,4,3,1.233,0.172,Low
+E02351,Marketing,2,4460.0,No,3,1,0.971,0.172,Low
+E02790,Sales,3,8390.0,No,4,2,1.189,0.172,Low
+E00445,Sales,3,8320.0,No,3,2,1.179,0.172,Low
+E02122,Operations,2,4170.0,No,4,2,0.917,0.171,Low
+E03262,Operations,2,5390.0,No,1,2,1.186,0.171,Low
+E03161,Marketing,1,4030.0,No,1,0,1.242,0.171,Low
+E02853,Finance,2,7420.0,Yes,1,1,1.397,0.171,Low
+E02676,Sales,3,7920.0,No,2,1,1.123,0.17,Low
+E02118,Operations,1,3930.0,No,3,0,1.284,0.17,Low
+E02852,Operations,2,5620.0,No,2,0,1.237,0.17,Low
+E03914,Marketing,1,3310.0,No,4,0,1.02,0.17,Low
+E03144,Operations,5,17460.0,No,4,0,1.095,0.17,Low
+E03508,Sales,2,5460.0,No,3,2,1.138,0.169,Low
+E00363,Customer Service,2,4900.0,No,2,2,1.186,0.168,Low
+E03635,Operations,4,11370.0,No,1,2,1.075,0.168,Low
+E00006,Finance,2,5700.0,No,4,2,1.073,0.168,Low
+E00332,Operations,1,3510.0,No,3,0,1.147,0.167,Low
+E00477,IT,3,8680.0,No,3,1,1.01,0.167,Low
+E01558,Finance,2,6030.0,No,1,3,1.136,0.167,Low
+E03541,Customer Service,3,8230.0,No,3,1,1.364,0.166,Low
+E01895,Customer Service,4,9310.0,No,3,2,0.999,0.166,Low
+E02151,IT,5,18680.0,No,2,0,0.928,0.166,Low
+E02481,IT,4,14500.0,No,3,1,1.079,0.166,Low
+E00137,Human Resources,2,4830.0,No,4,1,1.064,0.165,Low
+E01967,Customer Service,5,17750.0,No,1,1,1.224,0.165,Low
+E00920,Finance,2,5670.0,No,3,0,1.068,0.165,Low
+E01855,Operations,3,7380.0,No,2,2,1.077,0.165,Low
+E01374,Customer Service,5,16150.0,No,3,1,1.113,0.165,Low
+E01142,IT,2,7390.0,No,1,1,1.281,0.164,Low
+E03428,Marketing,1,3090.0,No,4,0,0.952,0.164,Low
+E00437,Operations,4,11490.0,No,4,1,1.086,0.164,Low
+E01932,Customer Service,4,10290.0,No,4,1,1.104,0.164,Low
+E01107,Sales,3,10800.0,No,1,2,1.531,0.164,Low
+E01358,Customer Service,3,6430.0,No,4,0,1.065,0.164,Low
+E02419,Finance,1,3890.0,No,3,0,1.146,0.163,Low
+E02141,Customer Service,5,15530.0,No,4,0,1.071,0.163,Low
+E03690,Human Resources,2,4820.0,No,2,0,1.062,0.163,Low
+E01247,IT,2,7060.0,No,3,0,1.224,0.163,Low
+E00574,Marketing,3,8180.0,No,3,3,1.125,0.163,Low
+E02585,Customer Service,4,10580.0,No,2,2,1.135,0.163,Low
+E03286,Customer Service,2,4890.0,No,2,2,1.184,0.162,Low
+E01844,Operations,3,9540.0,Yes,2,2,1.393,0.162,Low
+E01121,IT,4,16900.0,Yes,4,0,1.257,0.162,Low
+E00367,Customer Service,1,3130.0,Yes,4,1,1.138,0.162,Low
+E03376,Finance,2,5300.0,No,4,2,0.998,0.162,Low
+E03327,Finance,2,6420.0,No,2,0,1.209,0.162,Low
+E00972,Marketing,2,4500.0,No,2,4,0.979,0.162,Low
+E00072,Customer Service,5,16400.0,No,4,2,1.131,0.162,Low
+E03464,Marketing,2,4430.0,No,3,2,0.964,0.162,Low
+E00207,Finance,2,7150.0,No,3,0,1.347,0.162,Low
+E01264,IT,3,7960.0,No,4,2,0.926,0.162,Low
+E02019,Operations,3,6370.0,No,2,3,0.93,0.162,Low
+E01491,Customer Service,3,6990.0,No,4,1,1.158,0.161,Low
+E01074,Operations,3,7520.0,No,4,1,1.098,0.161,Low
+E03386,IT,2,7460.0,No,1,0,1.293,0.161,Low
+E03758,Marketing,1,3020.0,No,1,1,0.931,0.16,Low
+E01801,Operations,3,7060.0,No,2,2,1.031,0.16,Low
+E02541,IT,3,10770.0,Yes,2,2,1.253,0.16,Low
+E03222,Sales,3,6970.0,No,3,4,0.988,0.16,Low
+E00524,Operations,4,11640.0,No,2,0,1.1,0.16,Low
+E03533,Operations,1,3480.0,No,3,2,1.137,0.159,Low
+E01147,Marketing,3,8620.0,No,3,6,1.186,0.159,Low
+E00044,Finance,1,4100.0,No,3,0,1.208,0.159,Low
+E01970,IT,4,16050.0,Yes,3,1,1.194,0.159,Low
+E02090,Finance,4,12470.0,No,4,7,1.009,0.159,Low
+E02021,Finance,2,5880.0,No,3,1,1.107,0.159,Low
+E03895,Sales,1,3530.0,No,2,0,1.107,0.159,Low
+E03490,Operations,3,7080.0,No,3,1,1.034,0.159,Low
+E03618,Finance,3,8770.0,No,3,1,1.093,0.158,Low
+E02016,Marketing,1,2980.0,No,1,0,0.918,0.158,Low
+E01461,Sales,3,8160.0,No,3,1,1.157,0.158,Low
+E02829,Sales,3,8890.0,No,3,0,1.26,0.158,Low
+E02766,Customer Service,1,3320.0,No,4,2,1.207,0.158,Low
+E02796,Sales,1,3250.0,No,4,0,1.019,0.157,Low
+E02848,Marketing,2,4410.0,No,4,0,0.96,0.157,Low
+E00165,Operations,3,8760.0,No,4,1,1.279,0.157,Low
+E00784,Human Resources,3,6500.0,No,2,1,0.95,0.157,Low
+E01229,Human Resources,2,5080.0,No,2,0,1.119,0.157,Low
+E03429,IT,1,4460.0,No,3,1,1.168,0.157,Low
+E03348,Finance,1,3620.0,No,4,0,1.066,0.157,Low
+E03007,Marketing,3,9050.0,No,2,1,1.245,0.157,Low
+E03346,Customer Service,2,3840.0,No,1,1,0.93,0.157,Low
+E01646,IT,3,10760.0,No,1,0,1.252,0.157,Low
+E01674,Marketing,4,10380.0,No,4,0,0.946,0.156,Low
+E02652,Human Resources,3,7020.0,No,3,1,1.026,0.156,Low
+E02445,IT,1,4740.0,No,3,0,1.241,0.156,Low
+E02659,Operations,3,7660.0,No,3,1,1.118,0.156,Low
+E02045,Customer Service,3,6950.0,No,4,1,1.152,0.156,Low
+E01404,Finance,1,3420.0,No,4,1,1.007,0.156,Low
+E02459,Finance,4,13230.0,No,4,0,1.07,0.156,Low
+E02817,Operations,2,6070.0,Yes,4,0,1.336,0.156,Low
+E03850,Human Resources,4,11280.0,No,3,0,1.034,0.156,Low
+E03616,IT,2,5960.0,No,4,0,1.033,0.156,Low
+E01272,Human Resources,3,7010.0,No,3,2,1.025,0.155,Low
+E03295,Customer Service,4,9860.0,No,4,2,1.058,0.155,Low
+E00622,Customer Service,5,18920.0,Yes,4,2,1.304,0.155,Low
+E02092,Customer Service,4,10600.0,No,2,2,1.137,0.155,Low
+E03627,Operations,2,6890.0,Yes,3,6,1.516,0.155,Low
+E01613,Customer Service,3,6340.0,No,3,2,1.051,0.155,Low
+E00280,Finance,3,9380.0,No,2,1,1.169,0.155,Low
+E02049,Finance,1,4330.0,No,3,0,1.275,0.155,Low
+E01347,Sales,1,4140.0,No,1,0,1.298,0.154,Low
+E02525,Human Resources,2,4760.0,No,1,2,1.048,0.154,Low
+E00017,Human Resources,1,2750.0,No,4,0,0.923,0.154,Low
+E01099,Human Resources,4,8440.0,No,3,1,0.774,0.154,Low
+E00169,Customer Service,2,5330.0,No,4,0,1.291,0.154,Low
+E03289,Customer Service,3,7080.0,No,2,1,1.173,0.154,Low
+E01424,IT,2,7240.0,No,1,1,1.255,0.153,Low
+E00599,IT,4,14290.0,No,4,5,1.063,0.153,Low
+E01113,Customer Service,1,3580.0,No,2,1,1.302,0.153,Low
+E00721,Sales,2,6180.0,No,2,1,1.288,0.152,Low
+E03592,IT,5,21780.0,No,1,1,1.083,0.152,Low
+E00702,IT,4,13400.0,No,3,0,0.997,0.152,Low
+E01453,Sales,3,8500.0,No,3,1,1.205,0.152,Low
+E01546,Customer Service,1,3050.0,No,4,0,1.109,0.152,Low
+E01884,IT,1,4740.0,No,3,2,1.241,0.152,Low
+E02119,IT,4,16170.0,No,2,1,1.203,0.151,Low
+E02040,Finance,3,9730.0,No,1,1,1.212,0.151,Low
+E03932,Customer Service,1,3560.0,No,1,0,1.295,0.151,Low
+E03430,Customer Service,3,6890.0,No,4,1,1.142,0.151,Low
+E00302,Sales,1,4150.0,No,4,1,1.301,0.151,Low
+E03141,Sales,1,3640.0,No,4,2,1.141,0.151,Low
+E01326,Marketing,1,3460.0,No,1,2,1.066,0.15,Low
+E00693,Customer Service,4,9610.0,No,2,0,1.031,0.15,Low
+E02269,IT,3,10000.0,No,4,1,1.163,0.15,Low
+E02484,Finance,2,5260.0,No,2,1,0.991,0.15,Low
+E01524,IT,4,13840.0,No,4,0,1.03,0.15,Low
+E02142,Customer Service,2,3960.0,No,4,2,0.959,0.15,Low
+E02584,Finance,3,8680.0,No,2,3,1.082,0.15,Low
+E02983,Sales,5,16470.0,No,3,1,0.995,0.15,Low
+E03365,IT,2,6190.0,No,2,2,1.073,0.149,Low
+E02644,Sales,2,6410.0,Yes,4,2,1.335,0.149,Low
+E03483,Sales,2,6310.0,No,3,1,1.315,0.149,Low
+E01168,Finance,4,13250.0,No,4,0,1.072,0.149,Low
+E02950,Human Resources,1,3290.0,Yes,4,0,1.104,0.149,Low
+E01311,Customer Service,3,7000.0,No,3,2,1.16,0.148,Low
+E03154,Customer Service,2,4560.0,No,3,0,1.104,0.148,Low
+E00952,Sales,2,6180.0,No,1,1,1.288,0.148,Low
+E02265,Finance,3,9870.0,No,3,0,1.23,0.147,Low
+E02686,Marketing,3,8240.0,No,2,0,1.133,0.147,Low
+E03921,IT,2,6470.0,No,2,1,1.121,0.147,Low
+E03990,Operations,3,7470.0,No,3,1,1.091,0.147,Low
+E03536,Marketing,4,11470.0,No,1,1,1.045,0.147,Low
+E03335,Marketing,4,11390.0,No,3,1,1.038,0.146,Low
+E03598,Operations,2,5420.0,No,3,2,1.193,0.146,Low
+E02305,Operations,1,3700.0,Yes,4,2,1.209,0.146,Low
+E00271,Operations,3,7700.0,No,4,1,1.124,0.145,Low
+E02862,Finance,2,5920.0,No,3,2,1.115,0.145,Low
+E01080,Marketing,2,4770.0,No,2,1,1.038,0.145,Low
+E03829,Operations,4,11010.0,No,1,2,1.041,0.145,Low
+E00094,Operations,4,9640.0,No,3,2,0.911,0.145,Low
+E01214,Marketing,2,4950.0,No,4,2,1.077,0.145,Low
+E02033,Sales,3,10440.0,Yes,4,1,1.48,0.145,Low
+E03164,Marketing,1,3920.0,No,3,0,1.208,0.144,Low
+E01829,Customer Service,4,10760.0,No,4,2,1.155,0.144,Low
+E02375,Customer Service,2,5620.0,No,4,0,1.361,0.144,Low
+E03528,Operations,3,8600.0,No,1,0,1.255,0.144,Low
+E00366,Operations,2,4710.0,No,4,2,1.036,0.143,Low
+E01331,IT,1,3910.0,No,4,2,1.024,0.143,Low
+E00829,Customer Service,3,6460.0,No,4,1,1.07,0.143,Low
+E01309,Finance,3,10040.0,No,3,2,1.251,0.142,Low
+E03104,Marketing,2,5650.0,No,1,0,1.23,0.142,Low
+E01710,Operations,3,6020.0,No,3,2,0.879,0.142,Low
+E02713,Finance,4,13630.0,No,2,1,1.103,0.142,Low
+E00014,Operations,3,7370.0,No,3,2,1.076,0.141,Low
+E00085,Marketing,2,4890.0,No,4,6,1.064,0.141,Low
+E03387,Human Resources,3,6680.0,No,4,0,0.977,0.141,Low
+E01865,Finance,5,20470.0,No,2,3,1.114,0.14,Low
+E03525,Human Resources,2,4960.0,No,4,2,1.093,0.14,Low
+E01942,IT,3,10190.0,No,3,1,1.186,0.139,Low
+E01025,Marketing,3,7620.0,No,4,6,1.048,0.139,Low
+E02166,Customer Service,2,4750.0,No,3,0,1.15,0.139,Low
+E03501,Customer Service,1,3590.0,No,3,4,1.305,0.138,Low
+E02171,Customer Service,3,6240.0,No,3,2,1.034,0.138,Low
+E02067,IT,1,4580.0,No,4,0,1.199,0.137,Low
+E01076,Marketing,1,3430.0,No,3,1,1.057,0.137,Low
+E01624,IT,3,9310.0,No,1,1,1.083,0.137,Low
+E03843,IT,2,6470.0,No,3,1,1.121,0.137,Low
+E00429,IT,2,6210.0,No,4,1,1.076,0.137,Low
+E00834,IT,2,6080.0,No,3,5,1.054,0.137,Low
+E00387,Marketing,3,6710.0,No,2,1,0.923,0.137,Low
+E00868,Operations,2,5110.0,No,4,0,1.124,0.137,Low
+E00431,IT,2,6220.0,No,4,0,1.078,0.136,Low
+E03523,Finance,5,18170.0,No,2,2,0.989,0.136,Low
+E03378,Marketing,5,18820.0,No,1,1,1.068,0.136,Low
+E01743,Customer Service,3,6790.0,No,4,2,1.125,0.136,Low
+E03017,Customer Service,1,3370.0,No,4,4,1.225,0.136,Low
+E00905,IT,3,10990.0,No,2,2,1.279,0.136,Low
+E00029,IT,5,20720.0,No,4,0,1.03,0.136,Low
+E03468,Human Resources,3,6890.0,No,2,0,1.007,0.136,Low
+E02764,IT,1,4890.0,No,1,1,1.28,0.136,Low
+E00705,Operations,3,8090.0,No,4,2,1.181,0.135,Low
+E01287,Customer Service,2,4750.0,No,2,1,1.15,0.135,Low
+E00819,Customer Service,1,3620.0,No,1,0,1.316,0.135,Low
+E02093,IT,3,11200.0,No,3,2,1.303,0.135,Low
+E01792,Operations,2,5020.0,No,3,0,1.105,0.135,Low
+E03163,Customer Service,3,7830.0,No,1,1,1.297,0.134,Low
+E03029,Operations,1,3860.0,No,2,2,1.261,0.133,Low
+E03924,Customer Service,5,17050.0,No,4,7,1.175,0.133,Low
+E03691,Finance,1,4530.0,No,3,1,1.334,0.133,Low
+E02987,Customer Service,3,7880.0,No,4,0,1.306,0.133,Low
+E01292,Operations,3,8090.0,No,2,1,1.181,0.133,Low
+E01531,Customer Service,2,5160.0,No,2,2,1.249,0.132,Low
+E00093,Operations,1,4330.0,No,2,0,1.415,0.132,Low
+E02063,Sales,1,3560.0,No,3,0,1.116,0.132,Low
+E02811,Customer Service,1,3010.0,No,3,0,1.095,0.132,Low
+E01544,Sales,4,11910.0,No,3,4,1.107,0.132,Low
+E01659,Operations,5,16200.0,No,3,0,1.016,0.132,Low
+E01553,Operations,4,14210.0,Yes,1,2,1.343,0.132,Low
+E02858,Customer Service,2,4460.0,No,4,3,1.08,0.131,Low
+E03607,Sales,3,8640.0,No,2,0,1.225,0.131,Low
+E03649,Sales,1,3770.0,No,3,0,1.182,0.131,Low
+E02438,Operations,3,7380.0,No,1,0,1.077,0.131,Low
+E01163,Human Resources,1,3260.0,No,2,0,1.094,0.13,Low
+E00070,Sales,2,5800.0,No,3,3,1.208,0.13,Low
+E03910,Marketing,1,3560.0,No,1,3,1.097,0.13,Low
+E03120,IT,1,4180.0,No,2,0,1.094,0.13,Low
+E03646,Customer Service,3,7850.0,No,1,3,1.301,0.13,Low
+E01126,Finance,2,5060.0,No,4,2,0.953,0.13,Low
+E00601,Finance,4,12430.0,No,4,6,1.006,0.13,Low
+E01059,Operations,5,20250.0,No,4,0,1.27,0.129,Low
+E01178,Marketing,2,4600.0,No,4,3,1.001,0.129,Low
+E03250,Customer Service,2,4400.0,No,2,1,1.065,0.129,Low
+E02597,Customer Service,1,3120.0,No,3,2,1.135,0.129,Low
+E03096,Marketing,2,5080.0,No,1,2,1.106,0.129,Low
+E03730,Marketing,4,12670.0,No,3,1,1.154,0.129,Low
+E01029,Marketing,1,3760.0,No,4,1,1.159,0.129,Low
+E01330,Customer Service,4,11220.0,No,4,3,1.204,0.129,Low
+E00934,Operations,5,16620.0,No,1,0,1.042,0.128,Low
+E03353,Sales,3,10140.0,No,3,1,1.437,0.128,Low
+E02611,Marketing,1,3360.0,No,4,0,1.035,0.128,Low
+E01687,IT,4,12920.0,No,4,1,0.961,0.128,Low
+E01916,Finance,3,7150.0,No,3,1,0.891,0.127,Low
+E03435,IT,2,6260.0,No,4,0,1.085,0.127,Low
+E01221,IT,4,15750.0,No,2,0,1.172,0.127,Low
+E00767,Customer Service,3,7090.0,No,3,2,1.175,0.127,Low
+E00728,Marketing,2,5540.0,No,1,0,1.206,0.127,Low
+E00130,Customer Service,5,16280.0,No,2,2,1.122,0.127,Low
+E00233,Finance,4,15810.0,No,3,0,1.279,0.127,Low
+E02633,Operations,2,4580.0,No,4,3,1.008,0.127,Low
+E02622,Customer Service,4,10930.0,No,4,1,1.173,0.127,Low
+E02078,IT,4,14410.0,No,3,3,1.072,0.126,Low
+E01517,IT,2,7280.0,Yes,4,3,1.262,0.126,Low
+E00316,Finance,2,6150.0,Yes,4,1,1.158,0.125,Low
+E02656,IT,5,24360.0,Yes,3,1,1.211,0.125,Low
+E02239,Finance,4,16980.0,Yes,4,2,1.374,0.125,Low
+E03309,Human Resources,2,4760.0,No,1,6,1.048,0.125,Low
+E02617,Customer Service,4,9550.0,No,4,5,1.025,0.125,Low
+E01914,Operations,1,4610.0,No,1,0,1.507,0.125,Low
+E01827,IT,3,10360.0,No,1,0,1.205,0.124,Low
+E01317,Operations,1,3700.0,No,3,0,1.209,0.124,Low
+E01701,Sales,1,3740.0,No,4,0,1.172,0.124,Low
+E02488,IT,3,9830.0,No,4,1,1.144,0.124,Low
+E00140,Marketing,5,19150.0,No,1,1,1.087,0.124,Low
+E02217,Operations,3,7750.0,No,4,1,1.131,0.123,Low
+E02071,IT,3,12230.0,Yes,4,1,1.423,0.122,Low
+E03065,Operations,5,20880.0,Yes,4,4,1.309,0.122,Low
+E01521,Sales,4,12610.0,No,4,0,1.172,0.122,Low
+E00806,Marketing,1,4070.0,No,3,0,1.254,0.122,Low
+E00612,IT,2,6320.0,No,4,1,1.095,0.122,Low
+E01604,Sales,3,7980.0,No,3,0,1.131,0.122,Low
+E03186,Customer Service,2,4550.0,No,2,1,1.102,0.122,Low
+E00385,Sales,2,6450.0,No,2,0,1.344,0.122,Low
+E03955,Customer Service,5,16860.0,Yes,4,2,1.162,0.122,Low
+E01185,Marketing,4,11160.0,No,1,1,1.017,0.122,Low
+E01341,Customer Service,4,12210.0,No,3,0,1.31,0.122,Low
+E02531,Marketing,1,2990.0,No,3,0,0.921,0.122,Low
+E03567,Sales,2,5520.0,No,2,1,1.15,0.122,Low
+E00600,Operations,2,4970.0,No,3,4,1.094,0.122,Low
+E03311,Finance,3,12340.0,Yes,1,1,1.538,0.121,Low
+E02224,Marketing,2,5550.0,No,4,0,1.208,0.121,Low
+E02810,Customer Service,4,11790.0,No,2,0,1.265,0.121,Low
+E01285,Finance,4,16070.0,No,3,0,1.3,0.12,Low
+E01218,Finance,1,4560.0,No,2,1,1.343,0.12,Low
+E00582,Marketing,4,11310.0,No,4,4,1.031,0.12,Low
+E01225,Operations,2,4670.0,No,3,1,1.028,0.119,Low
+E01561,Marketing,3,7350.0,No,1,1,1.011,0.119,Low
+E03221,Finance,4,13730.0,No,4,3,1.111,0.119,Low
+E01905,Marketing,2,4430.0,No,3,1,0.964,0.119,Low
+E03550,IT,1,4570.0,No,3,2,1.196,0.118,Low
+E03500,Sales,3,9500.0,No,2,0,1.347,0.118,Low
+E03880,Operations,2,6210.0,No,4,2,1.366,0.118,Low
+E03030,Operations,5,17340.0,No,4,3,1.087,0.117,Low
+E00813,Marketing,4,10080.0,No,4,2,0.918,0.117,Low
+E03637,IT,2,6220.0,No,3,2,1.078,0.117,Low
+E01615,Operations,5,17660.0,No,3,3,1.107,0.117,Low
+E03757,IT,2,6260.0,No,4,0,1.085,0.116,Low
+E00401,Customer Service,3,6140.0,No,2,3,1.017,0.116,Low
+E03264,Marketing,2,4590.0,No,3,4,0.999,0.116,Low
+E03409,Human Resources,4,12370.0,No,3,1,1.134,0.116,Low
+E00025,Sales,1,3780.0,No,4,0,1.185,0.116,Low
+E03834,Customer Service,3,6540.0,No,3,3,1.084,0.116,Low
+E02754,Customer Service,1,3730.0,No,3,7,1.356,0.115,Low
+E02575,Human Resources,4,11220.0,No,3,0,1.029,0.115,Low
+E02323,Sales,2,5040.0,No,3,2,1.05,0.115,Low
+E02469,Marketing,3,6770.0,No,3,0,0.931,0.114,Low
+E02279,IT,3,8320.0,No,4,1,0.968,0.114,Low
+E02637,Customer Service,3,7040.0,No,4,1,1.167,0.114,Low
+E02573,IT,3,9350.0,No,4,1,1.088,0.114,Low
+E03886,IT,3,9780.0,No,4,2,1.138,0.114,Low
+E00195,Sales,4,12610.0,No,4,5,1.172,0.113,Low
+E03197,Customer Service,3,7510.0,No,2,1,1.244,0.113,Low
+E00393,IT,2,7720.0,No,3,0,1.338,0.113,Low
+E03849,Operations,3,9040.0,No,3,3,1.32,0.113,Low
+E00955,IT,4,17100.0,No,1,6,1.272,0.113,Low
+E02458,Marketing,1,3110.0,No,1,1,0.958,0.112,Low
+E01980,Human Resources,2,6060.0,No,2,1,1.335,0.112,Low
+E00167,Operations,1,3340.0,No,4,0,1.092,0.112,Low
+E01714,Operations,4,12130.0,No,1,2,1.147,0.112,Low
+E00154,IT,5,20730.0,No,4,2,1.03,0.112,Low
+E02060,Operations,3,6200.0,No,3,2,0.905,0.112,Low
+E01614,Operations,1,3490.0,No,4,1,1.141,0.112,Low
+E03345,IT,2,6580.0,No,4,6,1.14,0.111,Low
+E03599,Customer Service,1,3660.0,No,4,0,1.331,0.111,Low
+E02514,Operations,3,8470.0,No,4,0,1.236,0.111,Low
+E00916,Sales,3,8440.0,No,4,1,1.196,0.11,Low
+E01312,IT,3,10350.0,No,3,0,1.204,0.11,Low
+E00493,Marketing,2,4980.0,No,4,5,1.084,0.109,Low
+E02022,IT,4,13700.0,No,3,0,1.019,0.109,Low
+E03562,Marketing,2,5070.0,No,4,0,1.103,0.109,Low
+E03590,Sales,2,6060.0,No,4,1,1.262,0.109,Low
+E02827,Operations,1,3430.0,No,3,0,1.121,0.108,Low
+E02771,IT,4,13760.0,No,3,2,1.024,0.108,Low
+E03406,IT,1,4550.0,No,2,0,1.191,0.108,Low
+E00820,Operations,2,5590.0,No,2,0,1.23,0.108,Low
+E02436,Sales,5,18020.0,No,3,1,1.089,0.107,Low
+E03766,Operations,2,6230.0,No,3,0,1.371,0.107,Low
+E03647,Human Resources,5,18880.0,No,4,2,1.013,0.107,Low
+E01680,IT,2,7260.0,No,1,0,1.258,0.107,Low
+E03780,Customer Service,5,15300.0,No,3,0,1.055,0.107,Low
+E02325,Marketing,1,4030.0,No,2,0,1.242,0.106,Low
+E03680,Finance,3,11480.0,No,3,0,1.431,0.106,Low
+E00870,Sales,5,17920.0,No,3,0,1.083,0.106,Low
+E02588,IT,5,28780.0,Yes,4,0,1.43,0.105,Low
+E02254,Marketing,4,10210.0,No,3,2,0.93,0.105,Low
+E01853,IT,4,15450.0,No,4,1,1.15,0.105,Low
+E02783,Operations,3,8180.0,No,4,0,1.194,0.105,Low
+E03905,Customer Service,2,4470.0,No,4,0,1.082,0.105,Low
+E01958,Marketing,3,8280.0,No,2,0,1.139,0.105,Low
+E03734,Marketing,4,13020.0,No,3,1,1.186,0.105,Low
+E01761,Customer Service,4,11110.0,No,3,0,1.192,0.104,Low
+E01904,IT,1,4240.0,No,4,1,1.11,0.104,Low
+E02013,IT,5,20120.0,No,4,0,1.0,0.104,Low
+E01677,Customer Service,3,7140.0,No,3,1,1.183,0.104,Low
+E01790,Human Resources,3,6510.0,No,4,2,0.952,0.104,Low
+E02011,Sales,3,7130.0,No,4,1,1.011,0.103,Low
+E01672,Customer Service,2,5170.0,No,3,5,1.252,0.103,Low
+E02594,IT,3,9420.0,No,4,0,1.096,0.103,Low
+E01864,Sales,3,8000.0,No,4,0,1.134,0.103,Low
+E03686,Operations,3,8420.0,No,4,1,1.229,0.103,Low
+E01403,Finance,2,5930.0,No,3,2,1.117,0.103,Low
+E01539,Operations,1,3160.0,No,4,0,1.033,0.102,Low
+E00022,Sales,5,20090.0,No,4,1,1.214,0.102,Low
+E00970,IT,5,22650.0,No,3,1,1.126,0.102,Low
+E03449,Marketing,2,4990.0,No,3,0,1.086,0.102,Low
+E00263,Sales,4,14370.0,No,3,1,1.336,0.102,Low
+E02964,Marketing,3,8900.0,No,3,2,1.224,0.101,Low
+E03795,Operations,1,3940.0,No,4,0,1.288,0.101,Low
+E02402,Sales,2,5490.0,No,3,1,1.144,0.101,Low
+E02530,IT,1,5270.0,No,4,4,1.38,0.101,Low
+E03283,Marketing,2,5280.0,No,4,3,1.149,0.101,Low
+E01821,Finance,1,2990.0,No,3,0,0.881,0.101,Low
+E02555,Human Resources,3,7730.0,No,4,1,1.13,0.101,Low
+E02966,Sales,4,11310.0,No,4,3,1.051,0.101,Low
+E01364,Human Resources,4,11410.0,No,3,1,1.046,0.101,Low
+E00188,Sales,4,12430.0,No,3,3,1.155,0.1,Low
+E02682,Operations,4,11430.0,No,4,1,1.08,0.1,Low
+E02878,Customer Service,1,3620.0,No,2,0,1.316,0.1,Low
+E01161,Finance,5,21740.0,No,2,1,1.183,0.1,Low
+E02156,Human Resources,2,4840.0,No,2,2,1.066,0.099,Low
+E00909,Sales,3,9850.0,No,3,1,1.396,0.099,Low
+E00159,Sales,1,4130.0,No,2,2,1.295,0.099,Low
+E02778,Customer Service,2,5020.0,No,3,4,1.215,0.099,Low
+E03269,IT,4,15480.0,No,3,1,1.152,0.099,Low
+E00772,Marketing,3,7000.0,No,4,1,0.963,0.098,Low
+E01293,IT,4,15530.0,No,4,1,1.156,0.098,Low
+E00940,Operations,3,6550.0,No,4,0,0.956,0.097,Low
+E03992,Human Resources,4,11320.0,No,3,2,1.038,0.097,Low
+E02489,Operations,2,6540.0,Yes,3,1,1.439,0.097,Low
+E01048,Finance,2,5540.0,No,4,0,1.043,0.097,Low
+E03705,Operations,2,5910.0,No,2,1,1.3,0.097,Low
+E03760,Human Resources,1,3490.0,No,4,0,1.171,0.096,Low
+E02518,IT,2,6000.0,No,3,0,1.04,0.096,Low
+E02454,IT,5,21470.0,No,4,1,1.067,0.096,Low
+E01506,Customer Service,3,9200.0,No,1,6,1.524,0.096,Low
+E00474,Operations,5,17890.0,No,4,0,1.122,0.096,Low
+E02821,Customer Service,2,5230.0,No,1,0,1.266,0.096,Low
+E00135,Human Resources,2,5800.0,No,3,1,1.278,0.096,Low
+E00726,Sales,3,7460.0,No,3,0,1.057,0.096,Low
+E00962,IT,3,10940.0,No,4,0,1.273,0.095,Low
+E02830,Operations,2,6050.0,No,1,1,1.331,0.095,Low
+E01114,Operations,1,3620.0,No,4,0,1.183,0.095,Low
+E03146,Finance,3,8730.0,No,4,1,1.088,0.095,Low
+E03047,Customer Service,4,9800.0,No,3,5,1.052,0.095,Low
+E01684,Sales,3,8450.0,No,2,2,1.198,0.095,Low
+E02225,Human Resources,3,8240.0,No,3,1,1.205,0.095,Low
+E03333,Sales,3,8970.0,No,4,0,1.271,0.094,Low
+E01141,Operations,2,5510.0,No,1,2,1.212,0.093,Low
+E00720,Operations,3,8760.0,No,4,5,1.279,0.093,Low
+E02465,Sales,4,12630.0,No,4,2,1.174,0.093,Low
+E02084,Marketing,1,4050.0,No,4,2,1.248,0.093,Low
+E02153,Customer Service,2,5580.0,No,3,1,1.351,0.092,Low
+E01441,Customer Service,1,3770.0,No,1,1,1.371,0.092,Low
+E01879,Customer Service,3,7360.0,No,3,1,1.22,0.092,Low
+E03393,Marketing,3,9240.0,Yes,1,1,1.271,0.092,Low
+E00657,Operations,3,7910.0,No,4,0,1.155,0.092,Low
+E01014,Customer Service,2,5820.0,No,3,0,1.409,0.092,Low
+E01359,Operations,1,3710.0,No,3,2,1.212,0.091,Low
+E03267,Finance,2,6460.0,No,2,1,1.217,0.091,Low
+E03814,Operations,3,7020.0,No,4,2,1.025,0.091,Low
+E00908,Marketing,1,4400.0,No,3,0,1.356,0.091,Low
+E03357,Sales,3,9820.0,No,4,1,1.392,0.091,Low
+E02606,Finance,1,4220.0,No,4,0,1.243,0.091,Low
+E02107,Operations,4,11630.0,No,4,2,1.099,0.09,Low
+E02332,Human Resources,1,2980.0,No,4,1,1.0,0.09,Low
+E01799,Finance,5,21370.0,No,3,6,1.163,0.09,Low
+E02399,IT,3,8600.0,No,4,2,1.001,0.089,Low
+E00519,Customer Service,4,10260.0,No,3,3,1.101,0.089,Low
+E03198,Finance,4,13490.0,No,4,2,1.091,0.089,Low
+E01356,Marketing,2,4720.0,No,4,0,1.027,0.089,Low
+E01479,Human Resources,4,12550.0,No,4,1,1.151,0.089,Low
+E00854,Sales,2,5680.0,No,4,3,1.183,0.088,Low
+E03706,Operations,2,6780.0,No,3,0,1.492,0.088,Low
+E00156,Human Resources,4,12070.0,No,3,1,1.107,0.087,Low
+E03418,Customer Service,3,6290.0,No,4,0,1.042,0.087,Low
+E03180,Operations,3,8230.0,No,3,4,1.201,0.086,Low
+E03009,IT,5,19700.0,No,4,1,0.979,0.085,Low
+E02660,Marketing,5,16210.0,No,2,1,0.92,0.085,Low
+E00290,Marketing,4,10560.0,No,3,1,0.962,0.085,Low
+E02253,IT,3,12790.0,Yes,3,2,1.488,0.085,Low
+E03976,Operations,3,6410.0,No,4,0,0.936,0.085,Low
+E03973,Operations,3,8470.0,No,1,1,1.236,0.085,Low
+E01652,IT,3,8380.0,No,4,2,0.975,0.085,Low
+E01732,Human Resources,1,3180.0,No,4,0,1.067,0.085,Low
+E02245,IT,1,4970.0,No,2,0,1.301,0.085,Low
+E02396,Customer Service,3,8970.0,No,2,0,1.486,0.084,Low
+E02150,Marketing,2,6050.0,No,2,4,1.317,0.083,Low
+E00490,Marketing,3,9760.0,No,2,3,1.343,0.083,Low
+E01892,Operations,3,9070.0,No,3,2,1.324,0.083,Low
+E03820,Sales,4,14120.0,No,3,3,1.312,0.083,Low
+E03971,Finance,3,8700.0,No,4,1,1.084,0.082,Low
+E02072,Sales,2,5620.0,No,4,0,1.171,0.082,Low
+E02627,Marketing,4,13300.0,No,1,0,1.212,0.082,Low
+E02996,Sales,2,6050.0,No,4,0,1.26,0.082,Low
+E02576,Operations,2,5500.0,No,4,0,1.21,0.082,Low
+E02268,Finance,3,9550.0,No,4,1,1.19,0.082,Low
+E02490,Customer Service,3,7770.0,No,4,0,1.287,0.082,Low
+E02563,Finance,5,22840.0,No,3,1,1.243,0.082,Low
+E02054,Sales,1,3940.0,No,4,1,1.235,0.082,Low
+E00456,Customer Service,2,5100.0,No,4,1,1.235,0.081,Low
+E03985,Customer Service,5,14200.0,No,1,2,0.979,0.081,Low
+E01785,Marketing,4,10440.0,No,3,0,0.951,0.081,Low
+E02333,Human Resources,4,10720.0,No,4,1,0.983,0.081,Low
+E01431,Human Resources,2,4430.0,No,2,3,0.976,0.08,Low
+E03444,Finance,1,4360.0,No,2,0,1.284,0.08,Low
+E02349,Finance,4,13560.0,No,3,0,1.097,0.08,Low
+E01943,Marketing,2,6050.0,No,1,2,1.317,0.08,Low
+E02526,IT,4,16150.0,No,3,3,1.202,0.08,Low
+E01444,Customer Service,1,3350.0,No,3,2,1.218,0.079,Low
+E00771,Marketing,1,3810.0,No,3,0,1.174,0.079,Low
+E01002,Finance,4,14650.0,No,3,2,1.185,0.079,Low
+E00276,IT,1,5560.0,No,3,1,1.455,0.078,Low
+E01459,Human Resources,3,7750.0,No,2,1,1.133,0.078,Low
+E00588,Human Resources,2,4670.0,No,3,4,1.029,0.078,Low
+E03901,Operations,5,19190.0,No,2,2,1.203,0.078,Low
+E03379,Finance,3,9190.0,No,4,5,1.145,0.078,Low
+E00592,Operations,1,3510.0,No,2,1,1.147,0.077,Low
+E02860,Operations,3,9870.0,No,1,2,1.441,0.077,Low
+E01310,IT,5,23170.0,No,4,1,1.152,0.076,Low
+E01751,Marketing,3,8830.0,No,4,0,1.215,0.076,Low
+E03636,Sales,2,7800.0,No,4,1,1.625,0.076,Low
+E02181,Customer Service,2,5300.0,No,4,2,1.283,0.076,Low
+E00937,Human Resources,4,10340.0,No,3,1,0.948,0.076,Low
+E01237,Marketing,1,4290.0,No,3,4,1.322,0.076,Low
+E01704,Marketing,3,6480.0,No,4,0,0.891,0.076,Low
+E00026,Operations,5,18090.0,No,1,2,1.134,0.075,Low
+E03749,IT,1,5120.0,No,4,1,1.34,0.075,Low
+E02258,Operations,3,7830.0,No,4,7,1.143,0.075,Low
+E02679,Finance,1,4630.0,No,1,1,1.364,0.075,Low
+E02195,Marketing,4,12010.0,No,4,1,1.094,0.075,Low
+E00539,IT,5,24490.0,No,4,0,1.217,0.075,Low
+E00616,Finance,3,10100.0,No,3,0,1.259,0.074,Low
+E02505,Customer Service,1,3720.0,No,3,0,1.353,0.074,Low
+E00012,Customer Service,2,4840.0,No,3,0,1.172,0.074,Low
+E00730,Customer Service,2,4940.0,No,3,2,1.196,0.074,Low
+E03601,Customer Service,1,3380.0,No,3,0,1.229,0.073,Low
+E02517,Operations,4,13340.0,Yes,4,2,1.261,0.073,Low
+E03665,Customer Service,2,5260.0,No,1,2,1.274,0.073,Low
+E00987,Customer Service,2,5570.0,No,2,1,1.349,0.073,Low
+E00181,Marketing,5,15670.0,No,4,0,0.889,0.072,Low
+E00152,Finance,1,4410.0,No,3,0,1.299,0.072,Low
+E00406,Human Resources,2,4640.0,No,4,1,1.022,0.072,Low
+E02482,Customer Service,3,6610.0,No,4,0,1.095,0.072,Low
+E02704,Operations,1,3390.0,No,3,0,1.108,0.072,Low
+E03143,IT,4,14020.0,No,4,1,1.043,0.072,Low
+E02626,Operations,2,5950.0,No,4,0,1.309,0.071,Low
+E01327,Marketing,4,11600.0,No,4,0,1.057,0.07,Low
+E03519,Customer Service,4,11520.0,No,2,1,1.236,0.07,Low
+E02567,Finance,5,21170.0,No,2,0,1.152,0.07,Low
+E00287,Customer Service,4,13660.0,No,4,0,1.466,0.07,Low
+E01405,Marketing,3,8570.0,No,4,1,1.179,0.07,Low
+E01421,Customer Service,3,6650.0,No,4,5,1.102,0.069,Low
+E03968,Customer Service,4,12610.0,No,4,0,1.353,0.069,Low
+E00912,Finance,4,14910.0,No,3,3,1.206,0.068,Low
+E03813,Finance,5,21580.0,No,2,1,1.175,0.068,Low
+E03959,Human Resources,3,9250.0,No,3,1,1.352,0.068,Low
+E01485,Sales,4,12690.0,No,4,0,1.179,0.067,Low
+E00042,Marketing,2,6330.0,No,2,0,1.378,0.067,Low
+E03739,Customer Service,3,7250.0,No,3,2,1.201,0.067,Low
+E00348,Marketing,2,7130.0,Yes,4,2,1.552,0.067,Low
+E00745,Finance,5,21910.0,No,3,0,1.193,0.067,Low
+E00443,Sales,3,10260.0,No,4,3,1.454,0.066,Low
+E03043,Customer Service,1,3920.0,No,1,1,1.425,0.066,Low
+E02974,Operations,3,9450.0,No,4,0,1.38,0.066,Low
+E00096,IT,4,16750.0,No,2,1,1.246,0.066,Low
+E03847,Sales,2,6990.0,No,4,3,1.456,0.066,Low
+E02812,Customer Service,2,5830.0,No,3,3,1.412,0.065,Low
+E03824,IT,4,19660.0,Yes,1,1,1.463,0.065,Low
+E03399,Operations,3,8310.0,No,1,0,1.213,0.065,Low
+E03026,Operations,3,8760.0,No,4,1,1.279,0.064,Low
+E03263,Customer Service,3,7860.0,No,2,1,1.302,0.064,Low
+E01707,Finance,1,4680.0,No,4,0,1.378,0.063,Low
+E01603,Sales,4,15650.0,No,1,2,1.454,0.063,Low
+E02533,Marketing,4,15410.0,Yes,2,1,1.404,0.063,Low
+E02598,Sales,2,6650.0,No,4,3,1.385,0.062,Low
+E02917,Operations,2,6220.0,No,4,1,1.369,0.062,Low
+E01834,IT,2,6120.0,No,4,0,1.061,0.062,Low
+E02345,IT,4,16170.0,No,4,3,1.203,0.062,Low
+E02358,Finance,3,11200.0,No,1,0,1.396,0.061,Low
+E03244,Finance,1,4680.0,No,1,2,1.378,0.061,Low
+E02651,Customer Service,4,12460.0,No,4,0,1.337,0.061,Low
+E00049,Operations,3,8120.0,No,4,2,1.185,0.06,Low
+E00930,Marketing,3,7820.0,No,1,2,1.076,0.06,Low
+E01369,Operations,1,3410.0,No,4,2,1.114,0.06,Low
+E03069,IT,4,14350.0,No,4,1,1.068,0.06,Low
+E01610,Customer Service,3,7700.0,No,3,1,1.276,0.06,Low
+E02145,Operations,3,8780.0,No,3,1,1.282,0.06,Low
+E00249,Finance,3,10030.0,No,3,3,1.25,0.059,Low
+E02041,Sales,3,9910.0,No,4,0,1.405,0.059,Low
+E03083,Marketing,1,4020.0,No,4,0,1.239,0.059,Low
+E01703,Sales,4,12020.0,No,3,0,1.117,0.059,Low
+E03343,Sales,4,13990.0,No,4,1,1.3,0.059,Low
+E01550,Sales,4,12480.0,No,4,0,1.16,0.058,Low
+E01302,IT,3,11180.0,No,3,0,1.301,0.058,Low
+E03330,Customer Service,5,16000.0,No,4,1,1.103,0.057,Low
+E02527,IT,3,11000.0,No,4,2,1.28,0.057,Low
+E02782,Marketing,4,13150.0,No,4,3,1.198,0.057,Low
+E00650,Human Resources,1,4100.0,No,2,2,1.376,0.057,Low
+E00996,Marketing,4,12000.0,No,3,0,1.093,0.056,Low
+E00892,Marketing,1,3960.0,No,2,1,1.22,0.056,Low
+E00752,IT,4,12620.0,No,4,1,0.939,0.055,Low
+E00374,Marketing,1,3940.0,No,4,2,1.214,0.055,Low
+E00609,Marketing,3,10340.0,No,3,0,1.422,0.054,Low
+E03049,Operations,4,11660.0,No,4,1,1.102,0.053,Low
+E01388,Sales,4,9500.0,No,4,1,0.883,0.053,Low
+E00674,Marketing,3,8670.0,No,3,1,1.193,0.052,Low
+E01642,Operations,5,16210.0,No,3,0,1.016,0.052,Low
+E02801,Marketing,3,9580.0,No,4,0,1.318,0.051,Low
+E03395,Operations,4,12500.0,No,3,4,1.181,0.051,Low
+E01104,IT,2,7350.0,No,4,1,1.274,0.051,Low
+E02380,Marketing,2,5630.0,No,4,0,1.225,0.048,Low
+E03258,Operations,2,5230.0,No,2,2,1.151,0.048,Low
+E02010,Sales,4,13600.0,No,4,0,1.264,0.048,Low
+E01038,Customer Service,4,13040.0,No,3,2,1.399,0.047,Low
+E02219,Operations,4,11860.0,No,3,0,1.121,0.046,Low
+E03923,Finance,4,14950.0,No,1,0,1.21,0.045,Low
+E00438,IT,5,25520.0,No,4,1,1.268,0.045,Low
+E02718,IT,2,7350.0,No,4,0,1.274,0.044,Low
+E03113,Sales,4,13030.0,No,3,3,1.211,0.044,Low
+E02814,Sales,2,7200.0,No,1,1,1.5,0.044,Low
+E00131,Marketing,3,8970.0,No,3,0,1.234,0.043,Low
+E03613,Human Resources,3,9200.0,No,3,0,1.345,0.043,Low
+E00993,IT,5,25780.0,No,4,0,1.281,0.043,Low
+E01508,Human Resources,2,5690.0,No,1,0,1.253,0.042,Low
+E01102,IT,3,9680.0,No,4,2,1.126,0.042,Low
+E02170,Human Resources,3,8930.0,No,4,1,1.306,0.042,Low
+E03457,Marketing,2,6630.0,No,4,1,1.443,0.042,Low
+E03577,IT,5,27390.0,No,4,2,1.361,0.041,Low
+E00985,Finance,3,9270.0,No,4,1,1.155,0.04,Low
+E01273,IT,1,6510.0,Yes,2,0,1.704,0.04,Low
+E03471,Customer Service,5,16810.0,No,4,0,1.159,0.04,Low
+E02473,Finance,2,6730.0,No,2,1,1.267,0.038,Low
+E00286,Sales,1,4580.0,No,4,1,1.436,0.038,Low
+E03477,Sales,4,14180.0,No,3,2,1.318,0.037,Low
+E03062,Human Resources,2,6640.0,No,2,3,1.463,0.036,Low
+E01446,Marketing,4,15170.0,No,1,2,1.382,0.036,Low
+E00041,Customer Service,5,18260.0,No,4,3,1.259,0.035,Low
+E00267,Marketing,5,21630.0,No,2,2,1.227,0.035,Low
+E00082,Marketing,3,10440.0,No,4,0,1.436,0.034,Low
+E01204,Marketing,2,5380.0,No,4,2,1.171,0.034,Low
+E01386,Customer Service,5,18890.0,No,4,0,1.302,0.034,Low
+E01933,Customer Service,3,9720.0,No,4,1,1.611,0.034,Low
+E01576,Sales,4,14850.0,No,4,2,1.38,0.032,Low
+E02725,Operations,3,9660.0,No,3,1,1.41,0.031,Low
+E01360,Sales,4,15750.0,No,4,0,1.464,0.03,Low
+E03079,Finance,5,22240.0,No,4,4,1.211,0.029,Low
+E00136,Operations,4,14700.0,No,4,3,1.389,0.029,Low
+E01213,IT,1,4630.0,No,4,1,1.212,0.028,Low
+E02365,IT,3,10450.0,No,3,1,1.216,0.028,Low
+E02730,Operations,5,21760.0,No,3,2,1.364,0.027,Low
+E02116,Operations,5,19210.0,No,4,7,1.204,0.027,Low
+E02281,Customer Service,2,6050.0,No,1,3,1.465,0.026,Low
+E03688,Finance,2,7660.0,No,4,2,1.443,0.025,Low
+E01978,Customer Service,4,12780.0,No,4,1,1.371,0.023,Low
+E01094,Marketing,3,9830.0,No,4,4,1.352,0.021,Low
+E00607,Customer Service,5,22430.0,No,4,0,1.546,0.021,Low
+E01490,IT,5,25810.0,No,4,1,1.283,0.019,Low
+E01979,Operations,5,22010.0,No,3,4,1.38,0.017,Low
+E03819,Operations,5,21280.0,No,3,0,1.334,0.016,Low
+E00435,Marketing,5,22280.0,No,2,0,1.264,0.013,Low
+E01769,Finance,4,17280.0,No,4,4,1.398,0.012,Low
+E02213,Human Resources,2,6370.0,No,2,0,1.403,0.011,Low
+E01333,Customer Service,4,16930.0,No,3,1,1.817,0.004,Low
